@@ -1,0 +1,113 @@
+#EXTM3U x-tvg-url="http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Brazil/meuguia.tv.channels.xml"
+
+#EXTINF:-1 group-title="tv aberta", MOVIES
+https://oqt1oi.oloadcdn.net/dl/l/DaKECkWaZhG1ms3U/t15hv2nljCY/P%C3%A2nico.na.Cabana.2018.1080p.WEB-DL.x264.DUB.mkv.mp4?mime=true
+
+#EXTINF:-1 group-title="tv aberta", MOVIES
+http://cdn.whostreams.net:8081/wsedge/snxne/chunks.m3u8?nimblesessionid=12353026&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDE4IDE6Mjg6NDAgQU0maGFzaF92YWx1ZT1ObkI0d1Y0b1Z1VDNkMzhsWEVMZXZBPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-1 tvg-id="canal/SBT" tvg-name="SBT [Brazil]" group-title="youtube", SBT ALTERNATIVO
+https://www.youtube.com/watch?v=FnyIEpAnBiM
+
+#EXTINF:-1 tvg-id="canal/GSP" tvg-name="Globo - SP [Brazil]" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="tv aberta", GLOBO
+http://aovivo.futeboltv.com:8081/live/17/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Band" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="tv aberta",BAND
+http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
+
+#EXTINF:-1 tvg-id="record.br" tvg-logo="http://iptv.gratis/imagens/upload/materias/4acfab82bdcc347b0afcb718f9c3600f.png" group-title="tv aberta",RECORD - ES
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+
+#EXTINF:-1 tvg-id="record.br" tvg-logo="http://iptv.gratis/imagens/upload/materias/e4bb4b3e2bb36ccfe3aa52396236bc4a.png" group-title="tv aberta",RECORD - RN
+http://184.172.23.109:1935/live/tvtrop_natal/tvtrop_natal_aovivo/playlist.m3u8
+
+#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="tv aberta",REDE TV HD
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Rede Brasil.br" tvg-logo="https://portal4.files.wordpress.com/2016/06/rede-brasil-1.jpg?w=596&h=389" group-title="tv aberta",REDE BRASIL HD
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+
+#EXTINF:-1 tvg-id="canal/FSP" tvg-name="Fox Sports [Brazil]" tvg-logo="https:"https"https://upload.wikimedia.org/wikipedia/en/thumb/0/07/FoxSports1.png/250px-FoxSports1.png" group-title="tv aberta", FOX SPORTS
+http://aovivo.futeboltv.com:8081/live/4/chunks.m3u8
+
+#EXTINF:-1 tvg-id="canal/FS2" tvg-name="Fox Sports 2 [Brazil]" tvg-logo="https:"https"https://upload.wikimedia.org/wikipedia/en/thumb/0/07/FoxSports1.png/250px-FoxSports1.png" group-title="tv aberta", FOX SPORTS2
+http://aovivo.futeboltv.com:8081/live/13/chunks.m3u8
+
+#EXTINF:-1 tvg-id="SporTV" tvg-logo="" group-title="tv aberta", SPORTV 
+http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8
+
+#EXTINF:-1 tvg-id="sportv2.br" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154952-canal-sport-tv-2.png" group-title="tv aberta", SPORTV2
+http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8
+
+#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154952-canal-sport-tv-2.png" group-title="tv aberta", SPORTV3
+http://aovivo.futeboltv.com:8081/live/7/chunks.m3u8
+
+#EXTINF:-1 group-title="tv aberta", JOGO AO VIVO
+http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8
+
+#EXTINF:-1 group-title="tv aberta", JOGO AO VIVO 19
+http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8
+
+#EXTINF:-1 group-title="tv aberta", JOGO AO VIVO 16
+http://aovivo.futeboltv.com:8081/live/16/chunks.m3u8
+
+#EXTINF:-1 group-title="tv aberta", JOGO AO VIVO
+http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8
+
+#EXTINF:-1 group-title="tv aberta", JOGO AO VIVO 4
+http://aovivo.futeboltv.com:8081/live/4/chunks.m3u8
+
+#EXTINF:-1 group-title="tv aberta", JOGO AO VIVO 20
+http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8
+
+#EXTINF:-1 group-title="tv aberta", JOGO AO VIVO 2
+http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8
+
+#EXTINF:-1 group-title="tv aberta", JOGO AO VIVO 18
+http://aovivo.futeboltv.com:8081/live/18/chunks.m3u8
+
+#EXTINF:-1 group-title="tv aberta", JOGO AO VIVO 15
+http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8
+
+#EXTINF:-1 group-title="tv aberta", Capital TiVù SD
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
+
+#EXTINF:0 group-title="RÁDIOS",TRIBUNA FM
+http://cast.midiaip.com.br:6060/stream?1520528746430
+
+#EXTINF:0 group-title="RÁDIOS",LOVE SONGS
+http://192.99.150.31:8897/stream
+
+#EXTINF:-1 group-title="RÁDIOS",JOVEM PAN FM
+http://sh.upx.com.br/proxy/eb29?mp=/;stream.mp3
+
+#EXTINF:-1 group-title="RÁDIOS",TRANSAMÉRICA FM
+http://transamerica.crossradio.com.br:9114/live.mp3
+
+#EXTINF:-1 group-title="RÁDIOS",METROPOLITANA FM - SP
+http://ice.paineldj3.com.br:8006/live
+
+#EXTINF:-1 group-title="RÁDIOS",´RÁDIO GLOBO - RJ
+http://stream.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
+
+#EXTINF:-1 group-title="RÁDIOS",RÁDIO GLOBO - SP
+http://stream.sgr.globo.com/hls/aRGloboSP/aRGloboSP.m3u8
+
+#EXTINF:-1 group-title="RÁDIOS",RÁDIO BANDEIRANTES
+rtmp://evpp.mm.uol.com.br/band/radiobandeirantes_sp
+
+#EXTINF:-1 group-title="RÁDIOS",ROMÂNTICAS
+http://192.99.150.31:8962/stream
+
+#EXTINF:0 group-title="Câmeras Ao Vivo",BAR SLOPPY JOE'S EM KEY WEST(CAMERA EXTERNA)
+http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/chunklist_w634624487.m3u8
+
+#EXTINF:-1 group-title="Camêras AO VIVO",GERMANY
+http://stream.livespotting.tv/windit-edge/vv101_720p.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://s24.postimg.org/7k8y54p9x/Ao_Vivologo.png" group-title="Câmeras Ao Vivo",PICO DO GAVIÃO - ANDRADAS MG
+http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m3u8
+
+#EXTINF:-0 tvg-logo="https://s20.postimg.org/tc12f0jzh/info.jpg", Lista
+http://epg.starbr.in/starbr.xml
+
