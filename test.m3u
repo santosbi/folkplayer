@@ -1,0 +1,117 @@
+#EXTM3U x-tvg-url="http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Brazil/meuguia.tv.channels.xml"
+
+
+#EXTINF:0  tvg-id="Globo - SP [Brazil]" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", Globo - SP [Brazil]
+http://aovivo.futeboltv.com:8081/live/17/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1", GLOBO SP
+http://ultra.widestream.io:8081/wideedge/wxxh43x/chunks.m3u8?nimblesessionid=1774517&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDE4IDI6MTY6MTAgQU0maGFzaF92YWx1ZT1KRDk5d2dMYnVlMlc0ZkY3bmdqWjhnPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO HD
+http://165.227.180.24/tvglobosaopaulohd/tracks-v1a1/index.m3u8?pxAuth=9kIy8NuVg7CKzoZpxKUWMBx2PkYEnWEH
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://iptv.gratis/imagens/upload/materias/4acfab82bdcc347b0afcb718f9c3600f.png", RECORD - ES
+http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://iptv.gratis/imagens/upload/materias/e4bb4b3e2bb36ccfe3aa52396236bc4a.png", RECORD - RN
+http://184.172.23.109:1935/live/tvtrop_natal/tvtrop_natal_aovivo/playlist.m3u8
+#EXTINF:0 type="stream" channelId="2436" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png", REDE TV HD
+http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png", REDE BRASIL HD
+http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+#EXTINF:0 tvg-id="Fox Sports [Brazil]" tvg-logo="https://4.bp.blogspot.com/-PRp7Y-FM0j0/WKNmo9FOtdI/AAAAAAAAQDc/YKNLj2JlnYcUC6hP_yHQhrMXYyiRn9eUgCLcB/s1600/fox-sports-generic.png", Fox Sports [Brazil]
+http://aovivo.futeboltv.com:8081/live/3/chunks.m3u8
+#EXTINF:0 type="stream" channelId="170" tvg-logo="http://tvonline.vip/wp-content/uploads/2016/04/foxsports2.png", FOX SPORTS2
+http://aovivo.futeboltv.com:8081/live/13/chunks.m3u8
+#EXTINF:0 type="stream" channelId="2599" tvg-logo="https://logodownload.org/wp-content/uploads/2017/07/sportv-logo.png", SPORTV
+http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8
+#EXTINF:0 type="stream" channelId="2600" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154952-canal-sport-tv-2.png", SPORTV2
+http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8
+#EXTINF:0 type="stream" channelId="2601" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154952-canal-sport-tv-2.png", SPORTV3
+http://aovivo.futeboltv.com:8081/live/7/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1", JOGO AO VIVO
+http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1", JOGO AO VIVO 19
+http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1", JOGO AO VIVO 16
+http://aovivo.futeboltv.com:8081/live/16/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1", JOGO AO VIVO
+http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1", JOGO AO VIVO 4
+http://aovivo.futeboltv.com:8081/live/4/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1", JOGO AO VIVO 20
+http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1", JOGO AO VIVO 2
+http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1", JOGO AO VIVO 18
+http://aovivo.futeboltv.com:8081/live/18/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1", JOGO AO VIVO 15
+http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/32/Capital_TV_logo.png/revision/latest?cb=20150327095613", Capital TiVù SD
+http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://3.bp.blogspot.com/-7eB1m9vFrXE/UEp2-uXRViI/AAAAAAAAIZ8/hZ3C7ckPCa0/s1600/RADIO_TRIBUNA_FM_CACHOEIRO_ITAPEMERIM.png", TRIBUNA FM
+http://cast.midiaip.com.br:6060/stream?1520528746430
+#EXTINF:0 type="stream" channelId="-1", LOVE SONGS
+http://192.99.150.31:8897/stream
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Jovem_Pan_FM_logo.svg/1165px-Jovem_Pan_FM_logo.svg.png", JOVEM PAN FM
+http://sh.upx.com.br/proxy/eb29?mp=/;stream.mp3
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://3.bp.blogspot.com/-Ry8EcTBVjTQ/UBx58HRKB5I/AAAAAAAAG34/GcOx6DD1RQM/s1600/RADIO_TRANSAMERICA_HITS_FM_JUAZEIRO_BA.png", TRANSAMÉRICA FM
+http://transamerica.crossradio.com.br:9114/live.mp3
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.radiodeverdade.com/wp-content/uploads/2015/09/radioglobo.png", RÁDIO GLOBO - RJ
+http://stream.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.radiodeverdade.com/wp-content/uploads/2015/09/radioglobo.png", RÁDIO GLOBO - SP
+http://stream.sgr.globo.com/hls/aRGloboSP/aRGloboSP.m3u8
+#EXTINF:0 type="stream" channelId="-1", RÁDIO BANDEIRANTES
+rtmp://evpp.mm.uol.com.br/band/radiobandeirantes_sp
+#EXTINF:0 type="stream" channelId="-1", ROMÂNTICAS
+http://192.99.150.31:8962/stream
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://www.pixelslogodesign.com/blog/wp-content/uploads/2017/03/USA-Logo.png", BAR SLOPPY JOE'S EM KEY WEST(CAMERA EXTERNA)
+http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/chunklist_w634624487.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://i.ytimg.com/vi/gsK4mdQJjNc/maxresdefault.jpg", GERMANY
+http://stream.livespotting.tv/windit-edge/vv101_720p.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.picodogaviao.esp.br/imagens/logotipo.png", PICO DO GAVIÃO - ANDRADAS MG
+http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png", Primiere2
+#EXTSIZE: Small
+http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8?LISTASGLAU
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png", Primiere3
+#EXTSIZE: Small
+http://aovivo.futeboltv.com:8081/live/3/chunks.m3u8?LISTASGLAU
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png", Primiere4
+#EXTSIZE: Small
+http://aovivo.futeboltv.com:8081/live/4/chunks.m3u8?LISTASGLAU
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png", Primiere7
+#EXTSIZE: Small
+http://aovivo.futeboltv.com:8081/live/7/chunks.m3u8?LISTASGLAU
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png", Primiere8
+#EXTSIZE: Small
+http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8?LISTASGLAU
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png", Primiere13
+#EXTSIZE: Small
+http://aovivo.futeboltv.com:8081/live/13/chunks.m3u8?LISTASGLAU
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png", Primiere15
+#EXTSIZE: Small
+http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8?LISTASGLAU
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png", Primiere16
+#EXTSIZE: Small
+http://aovivo.futeboltv.com:8081/live/16/chunks.m3u8?LISTASGLAU
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png", Primiere20
+#EXTSIZE: Small
+http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8?LISTASGLAU
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png", Primiere19
+#EXTSIZE: Small
+http://aovivo.futeboltv.com:8081/live/19/playlist.m3u8
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://3.bp.blogspot.com/-ngOII5eZmVA/WQ-p6wtOekI/AAAAAAAAF4g/4IWOR69yMzowNerfJnrMSORD7wlp_YJigCLcB/s1600/fox_sports_lam_hd.png", FOX SPORT HD
+http://cdn.whostreams.net:8081/wsedge/3h23vjvyfv6/chunks.m3u8?nimblesessionid=15357073&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMC8yMDE4IDg6Mzc6MDUgUE0maGFzaF92YWx1ZT1OQWozV2V4aVU5QTh5UHNHZmU0MWVnPT0mdmFsaWRtaW51dGVzPTIw
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/Fox_Sports_2_HD_logo.png/revision/latest?cb=20160425194254", FOX SPORT 2 HD
+type="stream" channelId="-1" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/5c/Fox_Sports_2_HD_logo.png/revision/latest?cb=20160425194254", FOX SPORT 2 HD
+#EXTINF:0 type="stream" channelId="-1", SPORTV HD
+http://165.227.180.24/sportv/tracks-v1a1/index.m3u8?pxAuth=Dwobsj7psIdtHw0MiMfIqEtyXpSuqfcj
+#EXTINF:0 type="stream" channelId="-1", SPORTV 2 HD
+type="stream" channelId="-1", SPORTV 2 HD
+#EXTINF:0 type="stream" channelId="-1" tvg-logo="http://www.robertomarinho.com.br/lumis/portal/file/fileDownload.jsp?fileId=8A70B494403BC53E01404A485DED5AC1&inline=1&transform=rmWatermark", SPORTV 3 HD
+type="stream" channelId="-1" tvg-logo="http://www.robertomarinho.com.br/lumis/portal/file/fileDownload.jsp?fileId=8A70B494403BC53E01404A485DED5AC1&inline=1&transform=rmWatermark", SPORTV 3 HD
+#EXTINF:0 type="stream" channelId="-1", PRIMIERE HD
+http://cdn.whostreams.net:8081/wsedge/lqrxwxkt9r6/chunks.m3u8?nimblesessionid=20392176&wmsAuthSign=c2VydmVyX3RpbWU9NC8yMS8yMDE4IDg6MzM6MTQgUE0maGFzaF92YWx1ZT1CT2F4emZkRWVWcy9CWHBEandKTWJnPT0mdmFsaWRtaW51dGVzPTIw
+
+#EXTINF:-0 tvg-logo="https://s20.postimg.org/tc12f0jzh/info.jpg",[COLOR yellow]EPG[/COLOR]
+http://epg.starbr.in/starbr.xml
+
+#EXTINF:-0 tvg-logo="https://s20.postimg.org/tc12f0jzh/info.jpg",[COLOR yellow]http://epg.starbr.in/starbr.xml[/COLOR]
+http://epg.starbr.in/starbr.xml
