@@ -1,15 +1,9 @@
-#EXTM3U x-tvg-url="http://www.webgrabplus.com/sites/default/files/download/ini/info/siteini.pack/Brazil/meuguia.tv.channels.xml"
-
-#EXTINF:-1 group-title="tv aberta", MOVIES
-https://oqt1oi.oloadcdn.net/dl/l/DaKECkWaZhG1ms3U/t15hv2nljCY/P%C3%A2nico.na.Cabana.2018.1080p.WEB-DL.x264.DUB.mkv.mp4?mime=true
-
-#EXTINF:-1 group-title="tv aberta", MOVIES
-http://cdn.whostreams.net:8081/wsedge/snxne/chunks.m3u8?nimblesessionid=12353026&wmsAuthSign=c2VydmVyX3RpbWU9NC8yNS8yMDE4IDE6Mjg6NDAgQU0maGFzaF92YWx1ZT1ObkI0d1Y0b1Z1VDNkMzhsWEVMZXZBPT0mdmFsaWRtaW51dGVzPTIw
+#EXTM3U x-tvg-url="http://epg.starbr.in/starbr.xml"
 
 #EXTINF:-1 tvg-id="canal/SBT" tvg-name="SBT [Brazil]" group-title="youtube", SBT ALTERNATIVO
 https://www.youtube.com/watch?v=FnyIEpAnBiM
 
-#EXTINF:-1 tvg-id="canal/GSP" tvg-name="Globo - SP [Brazil]" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="tv aberta", GLOBO
+#EXTINF:-1 tvg-id="canal/GSP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="tv aberta", GLOBO
 http://aovivo.futeboltv.com:8081/live/17/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Band" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="tv aberta",BAND
@@ -69,43 +63,43 @@ http://aovivo.futeboltv.com:8081/live/18/chunks.m3u8
 #EXTINF:-1 group-title="tv aberta", JOGO AO VIVO 15
 http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8
 
-#EXTINF:-1 group-title="tv aberta", Capital TiV˘ SD
+#EXTINF:-1 group-title="tv aberta", Capital TiV√π SD
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
 
-#EXTINF:0 group-title="R¡DIOS",TRIBUNA FM
+#EXTINF:0 group-title="R√ÅDIOS",TRIBUNA FM
 http://cast.midiaip.com.br:6060/stream?1520528746430
 
-#EXTINF:0 group-title="R¡DIOS",LOVE SONGS
+#EXTINF:0 group-title="R√ÅDIOS",LOVE SONGS
 http://192.99.150.31:8897/stream
 
-#EXTINF:-1 group-title="R¡DIOS",JOVEM PAN FM
+#EXTINF:-1 group-title="R√ÅDIOS",JOVEM PAN FM
 http://sh.upx.com.br/proxy/eb29?mp=/;stream.mp3
 
-#EXTINF:-1 group-title="R¡DIOS",TRANSAM…RICA FM
+#EXTINF:-1 group-title="R√ÅDIOS",TRANSAM√âRICA FM
 http://transamerica.crossradio.com.br:9114/live.mp3
 
-#EXTINF:-1 group-title="R¡DIOS",METROPOLITANA FM - SP
+#EXTINF:-1 group-title="R√ÅDIOS",METROPOLITANA FM - SP
 http://ice.paineldj3.com.br:8006/live
 
-#EXTINF:-1 group-title="R¡DIOS",¥R¡DIO GLOBO - RJ
+#EXTINF:-1 group-title="R√ÅDIOS",¬¥R√ÅDIO GLOBO - RJ
 http://stream.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
 
-#EXTINF:-1 group-title="R¡DIOS",R¡DIO GLOBO - SP
+#EXTINF:-1 group-title="R√ÅDIOS",R√ÅDIO GLOBO - SP
 http://stream.sgr.globo.com/hls/aRGloboSP/aRGloboSP.m3u8
 
-#EXTINF:-1 group-title="R¡DIOS",R¡DIO BANDEIRANTES
+#EXTINF:-1 group-title="R√ÅDIOS",R√ÅDIO BANDEIRANTES
 rtmp://evpp.mm.uol.com.br/band/radiobandeirantes_sp
 
-#EXTINF:-1 group-title="R¡DIOS",ROM¬NTICAS
+#EXTINF:-1 group-title="R√ÅDIOS",ROM√ÇNTICAS
 http://192.99.150.31:8962/stream
 
-#EXTINF:0 group-title="C‚meras Ao Vivo",BAR SLOPPY JOE'S EM KEY WEST(CAMERA EXTERNA)
+#EXTINF:0 group-title="C√¢meras Ao Vivo",BAR SLOPPY JOE'S EM KEY WEST(CAMERA EXTERNA)
 http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/chunklist_w634624487.m3u8
 
-#EXTINF:-1 group-title="CamÍras AO VIVO",GERMANY
+#EXTINF:-1 group-title="Cam√™ras AO VIVO",GERMANY
 http://stream.livespotting.tv/windit-edge/vv101_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s24.postimg.org/7k8y54p9x/Ao_Vivologo.png" group-title="C‚meras Ao Vivo",PICO DO GAVI√O - ANDRADAS MG
+#EXTINF:-1 tvg-id="" tvg-logo="https://s24.postimg.org/7k8y54p9x/Ao_Vivologo.png" group-title="C√¢meras Ao Vivo",PICO DO GAVI√ÉO - ANDRADAS MG
 http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m3u8
 
 #EXTINF:-0 tvg-logo="https://s20.postimg.org/tc12f0jzh/info.jpg", Lista
