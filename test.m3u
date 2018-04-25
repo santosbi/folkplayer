@@ -1,39 +1,43 @@
 #EXTM3U x-tvg-url="http://epg.starbr.in/starbr.xml"
 
-#EXTINF:-1 tvg-id="canal/SBT" tvg-name="SBT [Brazil]" group-title="youtube", SBT ALTERNATIVO
-https://www.youtube.com/watch?v=FnyIEpAnBiM
+#EXTINF:-1 group-title="youtube",SBT
+http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1473487700_b796000.m3u8?
 
-#EXTINF:-1 tvg-id="canal/GSP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="tv aberta", GLOBO
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="tv aberta",GLOBO RJ
 http://aovivo.futeboltv.com:8081/live/17/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="http://cache-assets.flogao.com.br/photos/full/143829506.jpg" group-title="tv aberta",GLOBO MG
+http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1811.ts?token=SUZYUxZQRwJGCw0EAVdWWQQFAwIEVwlVAwMOUVNSBAFRXAlQBwhQCAURFERGFhddV1loCFdHC1cMBAgfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIJUgBcHkZAWwEaXxpQAwxWF05HXU5AUhNdBF05UFBPWlIHF15cEVxeSRoKVjtXXQtUDAEaDBYGQx9HWBVEFwMRcAFQRHELXVcXWwxXRFYYNVAQE1FVW0RBVwARL1pTVkFcA0ENUQUQfhFcBBhJE3UjF05HWl9ARQBHABNcFgcMAwlAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEAQEACxMf
+
 
 #EXTINF:-1 tvg-id="Band" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="tv aberta",BAND
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 
-#EXTINF:-1 tvg-id="record.br" tvg-logo="http://iptv.gratis/imagens/upload/materias/4acfab82bdcc347b0afcb718f9c3600f.png" group-title="tv aberta",RECORD - ES
+#EXTINF:-1 tvg-logo="http://iptv.gratis/imagens/upload/materias/4acfab82bdcc347b0afcb718f9c3600f.png" group-title="tv aberta",RECORD - ES
 http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
 
-#EXTINF:-1 tvg-id="record.br" tvg-logo="http://iptv.gratis/imagens/upload/materias/e4bb4b3e2bb36ccfe3aa52396236bc4a.png" group-title="tv aberta",RECORD - RN
+#EXTINF:-1 tvg-logo="http://iptv.gratis/imagens/upload/materias/e4bb4b3e2bb36ccfe3aa52396236bc4a.png" group-title="tv aberta",RECORD
 http://184.172.23.109:1935/live/tvtrop_natal/tvtrop_natal_aovivo/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RedeTV!" tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="tv aberta",REDE TV HD
+#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="tv aberta",REDE TV
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Rede Brasil.br" tvg-logo="https://portal4.files.wordpress.com/2016/06/rede-brasil-1.jpg?w=596&h=389" group-title="tv aberta",REDE BRASIL HD
+#EXTINF:-1 tvg-logo="https://portal4.files.wordpress.com/2016/06/rede-brasil-1.jpg?w=596&h=389" group-title="tv aberta",REDE BRASIL HD
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="canal/FSP" tvg-name="Fox Sports [Brazil]" tvg-logo="https:"https"https://upload.wikimedia.org/wikipedia/en/thumb/0/07/FoxSports1.png/250px-FoxSports1.png" group-title="tv aberta", FOX SPORTS
+#EXTINF:-1 tvg-logo="https:"https"https://upload.wikimedia.org/wikipedia/en/thumb/0/07/FoxSports1.png/250px-FoxSports1.png" group-title="tv aberta", FOX SPORTS
 http://aovivo.futeboltv.com:8081/live/4/chunks.m3u8
 
-#EXTINF:-1 tvg-id="canal/FS2" tvg-name="Fox Sports 2 [Brazil]" tvg-logo="https:"https"https://upload.wikimedia.org/wikipedia/en/thumb/0/07/FoxSports1.png/250px-FoxSports1.png" group-title="tv aberta", FOX SPORTS2
+#EXTINF:-1 tvg-logo="https:"https"https://upload.wikimedia.org/wikipedia/en/thumb/0/07/FoxSports1.png/250px-FoxSports1.png" group-title="tv aberta", FOX SPORTS2
 http://aovivo.futeboltv.com:8081/live/13/chunks.m3u8
 
-#EXTINF:-1 tvg-id="SporTV" tvg-logo="" group-title="tv aberta", SPORTV 
+#EXTINF:0 tvg-id="SporTV" tvg-logo="" group-title="tv aberta",SPORTV
 http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8
 
-#EXTINF:-1 tvg-id="sportv2.br" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154952-canal-sport-tv-2.png" group-title="tv aberta", SPORTV2
+#EXTINF:0 tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154952-canal-sport-tv-2.png" group-title="tv aberta",SPORTV 2
 http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8
 
-#EXTINF:-1 tvg-id="SporTV 3" tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154952-canal-sport-tv-2.png" group-title="tv aberta", SPORTV3
+#EXTINF:0 tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154952-canal-sport-tv-2.png" group-title="tv aberta",SPORTV 3
 http://aovivo.futeboltv.com:8081/live/7/chunks.m3u8
 
 #EXTINF:-1 group-title="tv aberta", JOGO AO VIVO
