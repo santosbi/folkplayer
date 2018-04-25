@@ -3,7 +3,7 @@
 #EXTINF:-1 group-title="youtube",SBT
 http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1473487700_b796000.m3u8?
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="tv aberta",GLOBO CUIABA
+#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="tv aberta",Globo SP
 http://aovivo.futeboltv.com:8081/live/17/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="http://cache-assets.flogao.com.br/photos/full/143829506.jpg" group-title="tv aberta",GLOBO MG
