@@ -3,7 +3,7 @@
 
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png",GLOBO MG
 http://aovivo.futeboltv.com:8081/live/17/playlist.m3u8
-#EXTINF:0 type="stream" channelId="-1", GLOBO SP
+#EXTINF:0 type="stream" channelId="Globo SP",GLOBO SP
 http://ultra.widestream.io:8081/wideedge/wxxh43x/chunks.m3u8?nimblesessionid=1774517&wmsAuthSign=c2VydmVyX3RpbWU9NC8xMi8yMDE4IDI6MTY6MTAgQU0maGFzaF92YWx1ZT1KRDk5d2dMYnVlMlc0ZkY3bmdqWjhnPT0mdmFsaWRtaW51dGVzPTIw
 #EXTINF:0 type="stream" channelId="-1" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png", GLOBO HD
 http://165.227.180.24/tvglobosaopaulohd/tracks-v1a1/index.m3u8?pxAuth=9kIy8NuVg7CKzoZpxKUWMBx2PkYEnWEH
