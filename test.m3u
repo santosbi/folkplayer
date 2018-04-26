@@ -6,7 +6,7 @@ http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1473487700_b796000.
 #EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="tv aberta",Globo SP
 http://aovivo.futeboltv.com:8081/live/17/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://cache-assets.flogao.com.br/photos/full/143829506.jpg" group-title="tv aberta",GLOBO MG
+#EXTINF:-1 tvg-logo="http://cache-assets.flogao.com.br/photos/full/143829506.jpg" group-title="tv aberta",GLOBO RJ
 http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1811.ts?token=SUZYUxZQRwJGCw0EAVdWWQQFAwIEVwlVAwMOUVNSBAFRXAlQBwhQCAURFERGFhddV1loCFdHC1cMBAgfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIJUgBcHkZAWwEaXxpQAwxWF05HXU5AUhNdBF05UFBPWlIHF15cEVxeSRoKVjtXXQtUDAEaDBYGQx9HWBVEFwMRcAFQRHELXVcXWwxXRFYYNVAQE1FVW0RBVwARL1pTVkFcA0ENUQUQfhFcBBhJE3UjF05HWl9ARQBHABNcFgcMAwlAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEAQEACxMf
 
 
@@ -25,10 +25,10 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://portal4.files.wordpress.com/2016/06/rede-brasil-1.jpg?w=596&h=389" group-title="tv aberta",REDE BRASIL HD
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https:"https"https://upload.wikimedia.org/wikipedia/en/thumb/0/07/FoxSports1.png/250px-FoxSports1.png" group-title="tv aberta", FOX SPORTS
+#EXTINF:-1 tvg-logo="https:"https"https://upload.wikimedia.org/wikipedia/en/thumb/0/07/FoxSports1.png/250px-FoxSports1.png" group-title="tv aberta",FOX SPORTS
 http://aovivo.futeboltv.com:8081/live/4/chunks.m3u8
 
-#EXTINF:-1 tvg-logo="https:"https"https://upload.wikimedia.org/wikipedia/en/thumb/0/07/FoxSports1.png/250px-FoxSports1.png" group-title="tv aberta", FOX SPORTS2
+#EXTINF:-1 tvg-logo="https:"https"https://upload.wikimedia.org/wikipedia/en/thumb/0/07/FoxSports1.png/250px-FoxSports1.png" group-title="tv aberta",FOX SPORTS2
 http://aovivo.futeboltv.com:8081/live/13/chunks.m3u8
 
 #EXTINF:0 tvg-id="SporTV" tvg-logo="" group-title="tv aberta",SPORTV
@@ -39,9 +39,6 @@ http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8
 
 #EXTINF:0 tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154952-canal-sport-tv-2.png" group-title="tv aberta",SPORTV 3
 http://aovivo.futeboltv.com:8081/live/7/chunks.m3u8
-
-#EXTINF:0 tvg-logo="" group-title="tv aberta",ESPN +
-http://aovivo.futeboltv.com:8081/live/4/chunks.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="tv aberta",ESPN BRASIL
 http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8
@@ -106,6 +103,4 @@ http://stream.livespotting.tv/windit-edge/vv101_720p.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://s24.postimg.org/7k8y54p9x/Ao_Vivologo.png" group-title="Câmeras Ao Vivo",PICO DO GAVIÃO - ANDRADAS MG
 http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m3u8
 
-#EXTINF:-0 tvg-logo="https://s20.postimg.org/tc12f0jzh/info.jpg", Lista
-http://epg.starbr.in/starbr.xml
 
