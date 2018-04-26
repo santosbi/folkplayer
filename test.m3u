@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://santosbi.000webhostapp.com/guide.xml"
+#EXTM3U 
 
 #EXTINF:-1 group-title="youtube",SBT
 http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1473487700_b796000.m3u8?
