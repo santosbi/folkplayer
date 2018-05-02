@@ -157,35 +157,35 @@ http://switch01.servep2p.com/022/myStream/playlist.m3u8
 http://switch03.serveexchange.com/072/myStream/playlist.m3u8
 
 #EXTINF:0 group-title="RÁDIOS",LOVE SONGS
-#EXTBG: #8B5742
+#EXTBG: #000000
 http://192.99.150.31:8897/stream
 
 #EXTINF:-1 group-title="RÁDIOS",METROPOLITANA FM - SP
-#EXTBG: #8B5742
+#EXTBG: #000000
 http://ice.paineldj3.com.br:8006/live
 
 #EXTINF:-1 group-title="RÁDIOS",´RÁDIO GLOBO - RJ
-#EXTBG: #8B5742
+#EXTBG: #000000
 http://stream.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
 
 #EXTINF:-1 group-title="RÁDIOS",RÁDIO GLOBO - SP
-#EXTBG: #8B5742
+#EXTBG: #000000
 http://stream.sgr.globo.com/hls/aRGloboSP/aRGloboSP.m3u8
 
 #EXTINF:-1 group-title="RÁDIOS",ROMÂNTICAS
-#EXTBG: #8B5742
+#EXTBG: #000000
 http://192.99.150.31:8962/stream
 
 #EXTINF:0 group-title="Câmeras Ao Vivo",BAR SLOPPY JOE'S EM KEY WEST(CAMERA EXTERNA)
-#EXTBG: #9B30FF
+#EXTBG: #20B2AA
 http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/chunklist_w634624487.m3u8
 
 #EXTINF:-1 group-title="Camêras AO VIVO",GERMANY
-#EXTBG: #9B30FF
+#EXTBG: #20B2AA
 http://stream.livespotting.tv/windit-edge/vv101_720p.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://s24.postimg.org/7k8y54p9x/Ao_Vivologo.png" group-title="Câmeras Ao Vivo",PICO DO GAVIÃO - ANDRADAS MG
-#EXTBG: #9B30FF
+#EXTBG: #20B2AA
 http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m3u8
 
 
