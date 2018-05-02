@@ -4,7 +4,7 @@
 #EXTBG: #228B22
 http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1473487700_b796000.m3u8?
 
-#EXTINF:0 tvg-name="Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="tv aberta",Globo SP
+#EXTINF:0 tvg-name="Globo Brasília" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="tv aberta",Globo SP
 #EXTBG: #046f55
 http://apk.goo.ac:8081/live/17/playlist.m3u8
 
@@ -12,7 +12,7 @@ http://apk.goo.ac:8081/live/17/playlist.m3u8
 #EXTBG: #228B22
 http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1811.ts?token=SUZYUxZQRwJGCw0EAVdWWQQFAwIEVwlVAwMOUVNSBAFRXAlQBwhQCAURFERGFhddV1loCFdHC1cMBAgfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIJUgBcHkZAWwEaXxpQAwxWF05HXU5AUhNdBF05UFBPWlIHF15cEVxeSRoKVjtXXQtUDAEaDBYGQx9HWBVEFwMRcAFQRHELXVcXWwxXRFYYNVAQE1FVW0RBVwARL1pTVkFcA0ENUQUQfhFcBBhJE3UjF05HWl9ARQBHABNcFgcMAwlAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEAQEACxMf
 
-#EXTINF:-1 tvg-name="GLOBO SP" group-title="tv aberta",Globo SP HD
+#EXTINF:-1 tvg-name="Globo Minas" group-title="tv aberta",Globo SP HD
 #EXTBG: #228B22
 http://switch01.servep2p.com/020/myStream/playlist.m3u8
 
