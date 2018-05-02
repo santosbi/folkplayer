@@ -108,7 +108,7 @@ http://switch02.golffan.us/042/myStream/playlist.m3u8
 #EXTINF:0 tvg-id="Premiere" group-title="ESPORTES",PREMIERE 
 http://switch02.golffan.us/043/myStream/playlist.m3u8
 
-#EXTINF:0 group-title="tv aberta", Capital TiVù SD
+#EXTINF:0 group-title="tv aberta", Capital TV
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
 
 #EXTINF:0 tvg-id="Multishow" group-title="tv aberta",MULTISHOW
