@@ -1,14 +1,16 @@
 #EXTM3U 
 
-#EXTINF:-1 group-title="youtube",SBT
+#EXTINF:-1 tvg-id="Sbt" group-title="youtube",SBT
 http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1473487700_b796000.m3u8?
 
-#EXTINF:0 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="tv aberta",Globo SP
-http://aovivo.futeboltv.com:8081/live/17/playlist.m3u8
+#EXTINF:0 tvg-id="Globo" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="tv aberta",Globo SP
+http://apk.goo.ac:8081/live/17/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="http://cache-assets.flogao.com.br/photos/full/143829506.jpg" group-title="tv aberta",GLOBO RJ
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://cache-assets.flogao.com.br/photos/full/143829506.jpg" group-title="tv aberta",GLOBO RJ
 http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1811.ts?token=SUZYUxZQRwJGCw0EAVdWWQQFAwIEVwlVAwMOUVNSBAFRXAlQBwhQCAURFERGFhddV1loCFdHC1cMBAgfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIJUgBcHkZAWwEaXxpQAwxWF05HXU5AUhNdBF05UFBPWlIHF15cEVxeSRoKVjtXXQtUDAEaDBYGQx9HWBVEFwMRcAFQRHELXVcXWwxXRFYYNVAQE1FVW0RBVwARL1pTVkFcA0ENUQUQfhFcBBhJE3UjF05HWl9ARQBHABNcFgcMAwlAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEAQEACxMf
 
+#EXTINF:-1 tvg-id="Globo" tvg-logo="http://cache-assets.flogao.com.br/photos/full/143829506.jpg" group-title="tv aberta",GLOBO SP HD
+http://switch01.servep2p.com/020/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Band" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="tv aberta",BAND
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
@@ -25,23 +27,47 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://portal4.files.wordpress.com/2016/06/rede-brasil-1.jpg?w=596&h=389" group-title="tv aberta",REDE BRASIL HD
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="TNT HD" group-title="tv aberta",TNT
+http://switch01.servep2p.com/025/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FOX HD" group-title="tv aberta",FOX HD
+http://switch02.golffan.us/064/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO HD" group-title="tv aberta",HBO HD
+http://switch02.golffan.us/053/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBO2 HD" group-title="tv aberta",HBO2 HD
+http://switch02.golffan.us/047/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="HBOPLUS HD" group-title="tv aberta",HBOPLUS HD 
+http://switch02.golffan.us/037/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="AXN HD" group-title="tv aberta",AXN HD
+http://switch03.serveexchange.com/078/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Comedy central" group-title="tv aberta",Comedy central
+http://switch01.servep2p.com/030/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Cartoon network HD" group-title="tv aberta",Cartoon network
+http://switch01.servep2p.com/027/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-logo="https:"https"https://upload.wikimedia.org/wikipedia/en/thumb/0/07/FoxSports1.png/250px-FoxSports1.png" group-title="tv aberta",FOX SPORTS
-http://aovivo.futeboltv.com:8081/live/4/chunks.m3u8
+http://apk.goo.ac:8081/live/4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https:"https"https://upload.wikimedia.org/wikipedia/en/thumb/0/07/FoxSports1.png/250px-FoxSports1.png" group-title="tv aberta",FOX SPORTS2
-http://aovivo.futeboltv.com:8081/live/13/chunks.m3u8
+http://apk.goo.ac:8081/live/13/playlist.m3u8
 
 #EXTINF:0 tvg-id="SporTV" tvg-logo="" group-title="tv aberta",SPORTV
-http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8
+http://apk.goo.ac:8081/live/20/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154952-canal-sport-tv-2.png" group-title="tv aberta",SPORTV 2
-http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8
+http://apk.goo.ac:8081/live/15/playlist.m3u8
 
 #EXTINF:0 tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154952-canal-sport-tv-2.png" group-title="tv aberta",SPORTV 3
-http://aovivo.futeboltv.com:8081/live/7/chunks.m3u8
+http://apk.goo.ac:8081/live/7/playlist.m3u8
 
 #EXTINF:0 tvg-logo="" group-title="tv aberta",ESPN BRASIL
-http://aovivo.futeboltv.com:8081/live/19/chunks.m3u8
+http://apk.goo.ac:8081/live/19/playlist.m3u8
 
 #EXTINF:0 group-title="ESPORTES",PREMIERE 2
 http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8?LISTASGLAU
@@ -76,6 +102,9 @@ http://aovivo.futeboltv.com:8081/live/19/playlist.m3u8
 #EXTINF:0 group-title="tv aberta", Capital TiVù SD
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
 
+#EXTINF:0 tvg-id="Multishow" group-title="tv aberta",MULTISHOW
+http://switch01.servep2p.com/022/myStream/playlist.m3u8
+
 #EXTINF:0 group-title="RÁDIOS",LOVE SONGS
 http://192.99.150.31:8897/stream
 
@@ -87,9 +116,6 @@ http://stream.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
 
 #EXTINF:-1 group-title="RÁDIOS",RÁDIO GLOBO - SP
 http://stream.sgr.globo.com/hls/aRGloboSP/aRGloboSP.m3u8
-
-#EXTINF:-1 group-title="RÁDIOS",RÁDIO BANDEIRANTES
-rtmp://evpp.mm.uol.com.br/band/radiobandeirantes_sp
 
 #EXTINF:-1 group-title="RÁDIOS",ROMÂNTICAS
 http://192.99.150.31:8962/stream
