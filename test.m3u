@@ -90,10 +90,10 @@ http://apk.goo.ac:8081/live/13/playlist.m3u8
 #EXTINF:0 tvg-id="SporTV" tvg-logo="" group-title="tv aberta",SPORTV
 http://apk.goo.ac:8081/live/20/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154952-canal-sport-tv-2.png" group-title="tv aberta",SPORTV 2
+#EXTINF:0 group-title="tv aberta",SporTV 2
 http://apk.goo.ac:8081/live/15/playlist.m3u8
 
-#EXTINF:0 tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154952-canal-sport-tv-2.png" group-title="tv aberta",SPORTV 3
+#EXTINF:0 group-title="tv aberta",SporTV 3
 http://apk.goo.ac:8081/live/7/playlist.m3u8
 
 #EXTINF:0 tvg-id="ESPN Brasil" tvg-logo="" group-title="tv aberta",ESPN BRASIL
@@ -108,7 +108,7 @@ http://switch02.golffan.us/042/myStream/playlist.m3u8
 #EXTINF:0 tvg-id="Premiere" group-title="ESPORTES",PREMIERE 
 http://switch02.golffan.us/043/myStream/playlist.m3u8
 
-#EXTINF:0 group-title="tv aberta", Capital TV
+#EXTINF:0 group-title="tv aberta",Radio Capital TiVù
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
 
 #EXTINF:0 tvg-id="Multishow" group-title="tv aberta",MULTISHOW
