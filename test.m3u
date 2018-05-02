@@ -18,13 +18,10 @@ http://switch03.serveexchange.com/079/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="Band" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="tv aberta",BAND
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 
-#EXTINF:-1 tvg-logo="http://iptv.gratis/imagens/upload/materias/4acfab82bdcc347b0afcb718f9c3600f.png" group-title="tv aberta",RECORD - ES
-http://tvvitoria2.viacast.tv/livepl/tvvitoria_2_original.m3u8
-
-#EXTINF:-1 tvg-logo="http://iptv.gratis/imagens/upload/materias/e4bb4b3e2bb36ccfe3aa52396236bc4a.png" group-title="tv aberta",Record 
+#EXTINF:-1 tvg-id="Record" group-title="tv aberta",Record 
 http://wz3.dnip.com.br/tvgazetamt/tvgazetamt.sdp/chunklist_w556705443.m3u8
 
-#EXTINF:-1 tvg-logo="https://logodownload.org/wp-content/uploads/2017/11/redetv-logo.png" group-title="tv aberta",REDE TV
+#EXTINF:-1 tvg-id="RedeTV!"  group-title="tv aberta",REDE TV
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://portal4.files.wordpress.com/2016/06/rede-brasil-1.jpg?w=596&h=389" group-title="tv aberta",REDE BRASIL HD
@@ -57,7 +54,7 @@ http://switch03.serveexchange.com/088/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="HBOPLUS HD" group-title="tv aberta",HBOPLUS HD 
 http://switch02.golffan.us/037/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="ESTUDIO UNIVERSAL" group-title="tv aberta",ESTUDIO UNIVERSAL 
+#EXTINF:-1 tvg-id="Studio Universal" group-title="tv aberta",ESTUDIO UNIVERSAL 
 http://switch03.serveexchange.com/096/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AXN HD" group-title="tv aberta",AXN HD
@@ -99,38 +96,17 @@ http://apk.goo.ac:8081/live/15/playlist.m3u8
 #EXTINF:0 tvg-logo="https://www.clarotvlojaonline.com.br/img/channels/20151112154952-canal-sport-tv-2.png" group-title="tv aberta",SPORTV 3
 http://apk.goo.ac:8081/live/7/playlist.m3u8
 
-#EXTINF:0 tvg-logo="" group-title="tv aberta",ESPN BRASIL
+#EXTINF:0 tvg-id="ESPN Brasil" tvg-logo="" group-title="tv aberta",ESPN BRASIL
 http://apk.goo.ac:8081/live/19/playlist.m3u8
 
-#EXTINF:0 group-title="ESPORTES",PREMIERE 2
+#EXTINF:0 tvg-id="Premiere" group-title="ESPORTES",PREMIERE 
 http://switch02.golffan.us/041/myStream/playlist.m3u8
 
-#EXTINF:0 group-title="ESPORTES",PREMIERE 3
+#EXTINF:0 tvg-id="Premiere" group-title="ESPORTES",PREMIERE 
 http://switch02.golffan.us/042/myStream/playlist.m3u8
 
-#EXTINF:0 group-title="ESPORTES",PREMIERE 4
+#EXTINF:0 tvg-id="Premiere" group-title="ESPORTES",PREMIERE 
 http://switch02.golffan.us/043/myStream/playlist.m3u8
-
-#EXTINF:0 group-title="ESPORTES",PREMIERE 5
-http://aovivo.futeboltv.com:8081/live/7/chunks.m3u8?LISTASGLAU
-
-#EXTINF:0 group-title="ESPORTES",PREMIERE 6
-http://aovivo.futeboltv.com:8081/live/8/chunks.m3u8?LISTASGLAU
-
-#EXTINF:0 group-title="ESPORTES",PREMIERE 7
-http://aovivo.futeboltv.com:8081/live/13/chunks.m3u8?LISTASGLAU
-
-#EXTINF:0 group-title="ESPORTES",PREMIERE 8
-http://aovivo.futeboltv.com:8081/live/15/chunks.m3u8?LISTASGLAU
-
-#EXTINF:0 group-title="ESPORTES",PREMIERE 9
-http://aovivo.futeboltv.com:8081/live/16/chunks.m3u8?LISTASGLAU
-
-#EXTINF:0 group-title="ESPORTES",PREMIERE CLUBES
-http://aovivo.futeboltv.com:8081/live/20/chunks.m3u8?LISTASGLAU
-
-#EXTINF:0 group-title="ESPORTES",Primiere19
-http://aovivo.futeboltv.com:8081/live/19/playlist.m3u8
 
 #EXTINF:0 group-title="tv aberta", Capital TiVù SD
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
