@@ -36,28 +36,28 @@ http://switch03.serveexchange.com/068/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="TNT HD" group-title="tv aberta",TNT
 http://switch01.servep2p.com/025/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FOX HD" group-title="tv aberta",FOX HD
+#EXTINF:-1 tvg-id="FOX HD" group-title="tv aberta",FOX
 http://switch02.golffan.us/064/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FOXLIFE HD" group-title="tv aberta",FOXLIFE HD
+#EXTINF:-1 tvg-id="FOXLIFE HD" group-title="tv aberta",FOXLIFE
 http://switch03.serveexchange.com/083/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBO HD" group-title="tv aberta",HBO HD
+#EXTINF:-1 tvg-id="HBO HD" group-title="tv aberta",HBO
 http://switch02.golffan.us/053/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBO2 HD" group-title="tv aberta",HBO2 HD
+#EXTINF:-1 tvg-id="HBO2 HD" group-title="tv aberta",HBO2
 http://switch02.golffan.us/047/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBOFAMILY HD" group-title="tv aberta",HBOFAMILY HD
+#EXTINF:-1 tvg-id="HBOFAMILY HD" group-title="tv aberta",HBOFAMILY
 http://switch03.serveexchange.com/088/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="HBOPLUS HD" group-title="tv aberta",HBOPLUS HD 
+#EXTINF:-1 tvg-id="HBOPLUS HD" group-title="tv aberta",HBOPLUS 
 http://switch02.golffan.us/037/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Studio Universal" group-title="tv aberta",Studio Universal
 http://switch03.serveexchange.com/096/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="AXN HD" group-title="tv aberta",AXN HD
+#EXTINF:-1 tvg-id="AXN HD" group-title="tv aberta",AXN
 http://switch03.serveexchange.com/078/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="SYFY" group-title="tv aberta",SYFY
