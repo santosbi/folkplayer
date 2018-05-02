@@ -12,6 +12,9 @@ http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1811.ts?token=SUZYUxZQRwJG
 #EXTINF:-1 tvg-id="Globo" tvg-logo="http://cache-assets.flogao.com.br/photos/full/143829506.jpg" group-title="tv aberta",GLOBO SP HD
 http://switch01.servep2p.com/020/myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Viva" group-title="tv aberta",VIVA
+http://switch03.serveexchange.com/079/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Band" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="tv aberta",BAND
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 
@@ -27,11 +30,20 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://portal4.files.wordpress.com/2016/06/rede-brasil-1.jpg?w=596&h=389" group-title="tv aberta",REDE BRASIL HD
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Telecine pipoca" group-title="tv aberta",TELECINE PIPOCA
+http://switch03.serveexchange.com/065/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Telecine action" group-title="tv aberta",TELECINE ACTION
+http://switch03.serveexchange.com/068/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="TNT HD" group-title="tv aberta",TNT
 http://switch01.servep2p.com/025/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FOX HD" group-title="tv aberta",FOX HD
 http://switch02.golffan.us/064/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FOXLIFE HD" group-title="tv aberta",FOXLIFE HD
+http://switch03.serveexchange.com/083/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO HD" group-title="tv aberta",HBO HD
 http://switch02.golffan.us/053/myStream/playlist.m3u8
@@ -39,17 +51,38 @@ http://switch02.golffan.us/053/myStream/playlist.m3u8
 #EXTINF:-1 tvg-id="HBO2 HD" group-title="tv aberta",HBO2 HD
 http://switch02.golffan.us/047/myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="HBOFAMILY HD" group-title="tv aberta",HBOFAMILY HD
+http://switch03.serveexchange.com/088/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="HBOPLUS HD" group-title="tv aberta",HBOPLUS HD 
 http://switch02.golffan.us/037/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="ESTUDIO UNIVERSAL" group-title="tv aberta",ESTUDIO UNIVERSAL 
+http://switch03.serveexchange.com/096/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AXN HD" group-title="tv aberta",AXN HD
 http://switch03.serveexchange.com/078/myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="SYFY" group-title="tv aberta",SYFY
+http://switch03.serveexchange.com/093/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="Warnerchannel" group-title="tv aberta",WARNERCHANNEL
+http://switch03.serveexchange.com/080/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Comedy central" group-title="tv aberta",Comedy central
 http://switch01.servep2p.com/030/myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Disney Channel" group-title="tv aberta",Disney Channel
+http://switch03.serveexchange.com/075/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="Cartoon network HD" group-title="tv aberta",Cartoon network
 http://switch01.servep2p.com/027/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="BABY TV" group-title="tv aberta",Baby tv
+http://switch03.serveexchange.com/066/myStream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="GLOOB" group-title="tv aberta",Gloob
+http://switch03.serveexchange.com/089/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https:"https"https://upload.wikimedia.org/wikipedia/en/thumb/0/07/FoxSports1.png/250px-FoxSports1.png" group-title="tv aberta",FOX SPORTS
 http://apk.goo.ac:8081/live/4/playlist.m3u8
@@ -70,13 +103,13 @@ http://apk.goo.ac:8081/live/7/playlist.m3u8
 http://apk.goo.ac:8081/live/19/playlist.m3u8
 
 #EXTINF:0 group-title="ESPORTES",PREMIERE 2
-http://aovivo.futeboltv.com:8081/live/2/chunks.m3u8?LISTASGLAU
+http://switch02.golffan.us/041/myStream/playlist.m3u8
 
 #EXTINF:0 group-title="ESPORTES",PREMIERE 3
-http://aovivo.futeboltv.com:8081/live/3/chunks.m3u8?LISTASGLAU
+http://switch02.golffan.us/042/myStream/playlist.m3u8
 
 #EXTINF:0 group-title="ESPORTES",PREMIERE 4
-http://aovivo.futeboltv.com:8081/live/4/chunks.m3u8?LISTASGLAU
+http://switch02.golffan.us/043/myStream/playlist.m3u8
 
 #EXTINF:0 group-title="ESPORTES",PREMIERE 5
 http://aovivo.futeboltv.com:8081/live/7/chunks.m3u8?LISTASGLAU
@@ -104,6 +137,9 @@ http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index
 
 #EXTINF:0 tvg-id="Multishow" group-title="tv aberta",MULTISHOW
 http://switch01.servep2p.com/022/myStream/playlist.m3u8
+
+#EXTINF:0 tvg-id="Mtv" group-title="tv aberta",MTV
+http://switch03.serveexchange.com/072/myStream/playlist.m3u8
 
 #EXTINF:0 group-title="RÁDIOS",LOVE SONGS
 http://192.99.150.31:8897/stream
