@@ -21,7 +21,6 @@ http://switch01.servep2p.com/020/myStream/playlist.m3u8
 http://switch03.serveexchange.com/079/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-name="BAND" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="tv aberta",BAND
-#EXTSIZE: Big
 #EXTBG: #228B22
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 
@@ -50,12 +49,10 @@ http://switch03.serveexchange.com/068/myStream/playlist.m3u8
 http://switch01.servep2p.com/025/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FOX HD" group-title="tv aberta",FOX
-#EXTSIZE: Big
 #EXTBG: #11609e
 http://switch02.golffan.us/064/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FOXLIFE HD" group-title="tv aberta",FOXLIFE
-#EXTSIZE: Big
 #EXTBG: #11609e
 http://switch03.serveexchange.com/083/myStream/playlist.m3u8
 
@@ -80,7 +77,6 @@ http://switch02.golffan.us/037/myStream/playlist.m3u8
 http://switch03.serveexchange.com/096/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="AXN HD" group-title="tv aberta",AXN
-#EXTSIZE: Big
 #EXTBG: #11609e
 http://switch03.serveexchange.com/078/myStream/playlist.m3u8
 
@@ -93,22 +89,18 @@ http://switch03.serveexchange.com/093/myStream/playlist.m3u8
 http://switch03.serveexchange.com/080/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Comedy central" group-title="tv aberta",Comedy central
-#EXTSIZE: Big
 #EXTBG: #11609e
 http://switch01.servep2p.com/030/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Disney Channel" group-title="tv aberta",Disney Channel
-#EXTSIZE: Big
 #EXTBG: #BFEFFF
 http://switch03.serveexchange.com/075/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Cartoon network HD" group-title="tv aberta",Cartoon network
-#EXTSIZE: Big
 #EXTBG: #BFEFFF
 http://switch01.servep2p.com/027/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="473" group-title="tv aberta",Baby tv
-#EXTSIZE: Big
 #EXTBG: #BFEFFF
 http://switch03.serveexchange.com/066/myStream/playlist.m3u8
 
@@ -117,12 +109,10 @@ http://switch03.serveexchange.com/066/myStream/playlist.m3u8
 http://switch03.serveexchange.com/089/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https:"https"https://upload.wikimedia.org/wikipedia/en/thumb/0/07/FoxSports1.png/250px-FoxSports1.png" group-title="tv aberta",FOX SPORTS
-#EXTSIZE: Big
 #EXTBG: #046f55
 http://apk.goo.ac:8081/live/4/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https:"https"https://upload.wikimedia.org/wikipedia/en/thumb/0/07/FoxSports1.png/250px-FoxSports1.png" group-title="tv aberta",FOX SPORTS2
-#EXTSIZE: Big
 #EXTBG: #046f55
 http://apk.goo.ac:8081/live/13/playlist.m3u8
 
@@ -139,7 +129,6 @@ http://apk.goo.ac:8081/live/15/playlist.m3u8
 http://apk.goo.ac:8081/live/7/playlist.m3u8
 
 #EXTINF:0  group-title="tv aberta",ESPN BRASIL
-#EXTSIZE: Big
 #EXTBG: #046f55
 http://apk.goo.ac:8081/live/19/playlist.m3u8
 
@@ -164,7 +153,6 @@ http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index
 http://switch01.servep2p.com/022/myStream/playlist.m3u8
 
 #EXTINF:0 tvg-id="Mtv" group-title="tv aberta",MTV
-#EXTSIZE: Big
 #EXTBG: #FFC0CB
 http://switch03.serveexchange.com/072/myStream/playlist.m3u8
 
