@@ -100,6 +100,9 @@ http://switch03.serveexchange.com/075/myStream/playlist.m3u8
 #EXTBG: #11609e
 http://switch01.servep2p.com/027/myStream/playlist.m3u8
 
+#EXTINF:-1 tvg-id="Nick Jr." group-title="tv aberta",Nick Jr.
+http://switch02.golffan.us/052/myStream/playlist.m3u8
+
 #EXTINF:-1 tvg-id="473" group-title="tv aberta",Baby tv
 #EXTBG: #11609e
 http://switch03.serveexchange.com/066/myStream/playlist.m3u8
