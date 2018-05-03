@@ -138,7 +138,7 @@ http://apk.goo.ac:8081/live/15/playlist.m3u8
 #EXTBG: #046f55
 http://apk.goo.ac:8081/live/7/playlist.m3u8
 
-#EXTINF:0  tvg-shift="+1" group-title="tv aberta",ESPN BRASIL
+#EXTINF:0  group-title="tv aberta",ESPN BRASIL
 #EXTSIZE: Big
 #EXTBG: #046f55
 http://apk.goo.ac:8081/live/19/playlist.m3u8
@@ -164,6 +164,7 @@ http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index
 http://switch01.servep2p.com/022/myStream/playlist.m3u8
 
 #EXTINF:0 tvg-id="Mtv" group-title="tv aberta",MTV
+#EXTSIZE: Big
 #EXTBG: #FFC0CB
 http://switch03.serveexchange.com/072/myStream/playlist.m3u8
 
