@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://santosbi.000webhostapp.com/guide.xml"
+#EXTM3U x-tvg-url="http://epg.starbr.in/starbr.xml"
 
 #EXTINF:-1 tvg-name="Sbt" group-title="youtube",SBT
 #EXTBG: #11609e
@@ -119,6 +119,9 @@ http://apk.goo.ac:8081/live/4/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 2 [Brazil]" group-title="tv aberta",FOX SPORTS2
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/13/playlist.m3u8
+
+#EXTINF:-1 tvg-id="FoxSports" group-title="tv aberta",Fox Sports HD
+http://switch02.golffan.us/036/myStream/playlist.m3u8
 
 #EXTINF:0 tvg-id="SporTV" group-title="tv aberta",SPORTV
 #EXTBG: #11609e
