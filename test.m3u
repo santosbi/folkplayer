@@ -199,7 +199,7 @@ http://stream.livespotting.tv/windit-edge/vv101_720p.stream/playlist.m3u8
 #EXTBG: #20B2AA
 http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m3u8
 
-#EXTINF:-1 content-type:"playlist",FILMES
+#EXTINF:0 type="playlist" description="2018", LISTA FILMES
 https://gitlab.com/camillo20/camillofilmes/raw/master/.Camillofilmes
 
 
