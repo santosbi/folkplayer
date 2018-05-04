@@ -54,7 +54,7 @@ http://switch01.servep2p.com/025/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fox" group-title="tv aberta",FOX
 #EXTBG: #11609e
-http://switch02.golffan.us/064/myStream/playlist.m3u8
+http://switch02.golffan.us/064/myStream/playlist.m3u8?FORMIGAtv.ts
 
 #EXTINF:-1 tvg-id="FoxLife" group-title="tv aberta",FOXLIFE
 #EXTBG: #11609e
@@ -62,11 +62,11 @@ http://switch03.serveexchange.com/083/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBO HD" group-title="tv aberta",HBO
 #EXTBG: #11609e
-http://switch02.golffan.us/053/myStream/playlist.m3u8
+http://switch02.golffan.us/053/myStream/playlist.m3u8?FORMIGAtv.ts
 
 #EXTINF:-1 tvg-id="HBO2 HD" group-title="tv aberta",HBO2
 #EXTBG: #11609e
-http://switch02.golffan.us/047/myStream/playlist.m3u8
+http://switch02.golffan.us/047/myStream/playlist.m3u8?FORMIGAtv.ts
 
 #EXTINF:-1 tvg-id="HBOFAMILY HD" group-title="tv aberta",HBOFAMILY
 #EXTBG: #11609e
@@ -74,7 +74,7 @@ http://switch03.serveexchange.com/088/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="HBOPLUS HD" group-title="tv aberta",HBOPLUS
 #EXTBG: #11609e
-http://switch02.golffan.us/037/myStream/playlist.m3u8
+http://switch02.golffan.us/037/myStream/playlist.m3u8?FORMIGAtv.ts
 
 #EXTINF:-1 tvg-id="Studio Universal" group-title="tv aberta",Studio Universal
 #EXTBG: #11609e
@@ -106,7 +106,7 @@ http://switch01.servep2p.com/027/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Nick Jr." group-title="tv aberta",Nick Jr.
 #EXTBG: #11609e
-http://switch02.golffan.us/052/myStream/playlist.m3u8
+http://switch02.golffan.us/052/myStream/playlist.m3u8?FORMIGAtv.ts
 
 #EXTINF:-1 tvg-id="Baby tv" group-title="tv aberta",Baby tv
 #EXTBG: #11609e
@@ -126,7 +126,7 @@ http://apk.goo.ac:8081/live/13/playlist.m3u8
 
 #EXTINF:-1 tvg-id="FoxSports" group-title="tv aberta",Fox Sports HD
 #EXTBG: #11609e
-http://switch02.golffan.us/036/myStream/playlist.m3u8
+http://switch02.golffan.us/036/myStream/playlist.m3u8?FORMIGAtv.ts
 
 #EXTINF:0 tvg-id="SporTV" group-title="tv aberta",SPORTV
 #EXTBG: #11609e
@@ -146,15 +146,15 @@ http://apk.goo.ac:8081/live/19/playlist.m3u8
 
 #EXTINF:0 tvg-id="Premiere" group-title="ESPORTES",PREMIERE
 #EXTBG: #11609e
-http://switch02.golffan.us/041/myStream/playlist.m3u8
+http://switch02.golffan.us/041/myStream/playlist.m3u8?FORMIGAtv.ts
 
 #EXTINF:0 tvg-id="Premiere" group-title="ESPORTES",PREMIERE
 #EXTBG: #11609e
-http://switch02.golffan.us/042/myStream/playlist.m3u8
+http://switch02.golffan.us/042/myStream/playlist.m3u8?FORMIGAtv.ts
 
 #EXTINF:0 tvg-id="Premiere" group-title="ESPORTES",PREMIERE
 #EXTBG: #11609e
-http://switch02.golffan.us/043/myStream/playlist.m3u8
+http://switch02.golffan.us/043/myStream/playlist.m3u8?FORMIGAtv.ts
 
 #EXTINF:0 group-title="tv aberta",Radio Capital TiVù
 #EXTBG: #11609e
