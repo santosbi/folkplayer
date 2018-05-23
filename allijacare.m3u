@@ -2,7 +2,7 @@
 
 #EXTINF:-1 tvg-name="Sbt" group-title="youtube",SBT
 #EXTBG: #11609e
-http://tvsd2.zoeweb.tv:1935/tvsd2/smil:tvsd2.smil/chunklist_w1473487700_b796000.m3u8
+https://www.youtube.com/watch?v=FnyIEpAnBiM
 
 #EXTINF:0 tvg-name="Globo - SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="tv aberta",Globo SP
 #EXTBG: #11609e
@@ -24,10 +24,6 @@ http://switch01.servep2p.com/021/myStream/playlist.m3u8
 #EXTBG: #11609e
 http://switch03.serveexchange.com/095/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="Viva" group-title="tv aberta",VIVA
-#EXTBG: #11609e
-http://switch03.serveexchange.com/079/myStream/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Band" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="tv aberta",BAND
 #EXTBG: #11609e
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
@@ -40,82 +36,6 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 #EXTBG: #11609e
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Telecine pipoca" group-title="tv aberta",TELECINE PIPOCA
-#EXTBG: #11609e
-http://switch03.serveexchange.com/065/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Telecine action" group-title="tv aberta",TELECINE ACTION
-#EXTBG: #11609e
-http://switch03.serveexchange.com/068/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="TNT" group-title="tv aberta",TNT
-#EXTBG: #11609e
-http://switch01.servep2p.com/025/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Fox" group-title="tv aberta",FOX
-#EXTBG: #11609e
-http://switch02.golffan.us/064/myStream/playlist.m3u8?FORMIGAtv.ts
-
-#EXTINF:-1 tvg-id="FoxLife" group-title="tv aberta",FOXLIFE
-#EXTBG: #11609e
-http://switch03.serveexchange.com/083/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HBO HD" group-title="tv aberta",HBO
-#EXTBG: #11609e
-http://switch02.golffan.us/053/myStream/playlist.m3u8?FORMIGAtv.ts
-
-#EXTINF:-1 tvg-id="HBO2 HD" group-title="tv aberta",HBO2
-#EXTBG: #11609e
-http://switch02.golffan.us/047/myStream/playlist.m3u8?FORMIGAtv.ts
-
-#EXTINF:-1 tvg-id="HBOFAMILY HD" group-title="tv aberta",HBOFAMILY
-#EXTBG: #11609e
-http://switch03.serveexchange.com/088/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="HBOPLUS HD" group-title="tv aberta",HBOPLUS
-#EXTBG: #11609e
-http://switch02.golffan.us/037/myStream/playlist.m3u8?FORMIGAtv.ts
-
-#EXTINF:-1 tvg-id="Studio Universal" group-title="tv aberta",Studio Universal
-#EXTBG: #11609e
-http://switch03.serveexchange.com/096/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="AXN HD" group-title="tv aberta",AXN
-#EXTBG: #11609e
-http://switch03.serveexchange.com/078/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="SYFY" group-title="tv aberta",SYFY
-#EXTBG: #11609e
-http://switch03.serveexchange.com/093/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Warner Channel" group-title="tv aberta",WARNER CHANNEL
-#EXTBG: #11609e
-http://switch03.serveexchange.com/080/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Comedy central" group-title="tv aberta",Comedy central
-#EXTBG: #11609e
-http://switch01.servep2p.com/030/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Disney Channel" group-title="tv aberta",Disney Channel
-#EXTBG: #11609e
-http://switch03.serveexchange.com/075/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Cartoon network HD" group-title="tv aberta",Cartoon network
-#EXTBG: #11609e
-http://switch01.servep2p.com/027/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Nick Jr." group-title="tv aberta",Nick Jr.
-#EXTBG: #11609e
-http://switch02.golffan.us/052/myStream/playlist.m3u8?FORMIGAtv.ts
-
-#EXTINF:-1 tvg-id="Baby tv" group-title="tv aberta",Baby tv
-#EXTBG: #11609e
-http://switch03.serveexchange.com/066/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-id="GLOOB" group-title="tv aberta",Gloob
-#EXTBG: #11609e
-http://switch03.serveexchange.com/089/myStream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="FoxSports" group-title="tv aberta",FOX SPORTS
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/4/playlist.m3u8
@@ -123,10 +43,6 @@ http://apk.goo.ac:8081/live/4/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox Sports 2 [Brazil]" group-title="tv aberta",FOX SPORTS2
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/13/playlist.m3u8
-
-#EXTINF:-1 tvg-id="FoxSports" group-title="tv aberta",Fox Sports HD
-#EXTBG: #11609e
-http://switch02.golffan.us/036/myStream/playlist.m3u8?FORMIGAtv.ts
 
 #EXTINF:0 tvg-id="SporTV" group-title="tv aberta",SPORTV
 #EXTBG: #11609e
@@ -144,29 +60,25 @@ http://apk.goo.ac:8081/live/7/playlist.m3u8
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/19/playlist.m3u8
 
-#EXTINF:0 tvg-id="Premiere" group-title="ESPORTES",PREMIERE
+#EXTINF:0 tvg-id="Premiere" group-title="ESPORTES",FUTEBOL AO VIVO
 #EXTBG: #11609e
-http://switch02.golffan.us/041/myStream/playlist.m3u8?FORMIGAtv.ts
+http://apk.goo.ac:8081/live/8/playlist.m3u8
 
-#EXTINF:0 tvg-id="Premiere" group-title="ESPORTES",PREMIERE
+#EXTINF:0 tvg-id="Premiere" group-title="ESPORTES",FUTEBOL AO VIVO
 #EXTBG: #11609e
-http://switch02.golffan.us/042/myStream/playlist.m3u8?FORMIGAtv.ts
+http://apk.goo.ac:8081/live/9/playlist.m3u8
 
-#EXTINF:0 tvg-id="Premiere" group-title="ESPORTES",PREMIERE
+#EXTINF:0 tvg-id="Premiere" group-title="ESPORTES",FUTEBOL AO VIVO
 #EXTBG: #11609e
-http://switch02.golffan.us/043/myStream/playlist.m3u8?FORMIGAtv.ts
+http://apk.goo.ac:8081/live/16/playlist.m3u8
+
+#EXTINF:0 tvg-id="Premiere" group-title="ESPORTES",FUTEBOL AO VIVO
+#EXTBG: #11609e
+http://apk.goo.ac:8081/live/19/playlist.m3u8
 
 #EXTINF:0 group-title="tv aberta",Radio Capital TiVù
 #EXTBG: #11609e
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
-
-#EXTINF:0 tvg-id="Multishow" group-title="tv aberta",MULTISHOW
-#EXTBG: #11609e
-http://switch01.servep2p.com/022/myStream/playlist.m3u8
-
-#EXTINF:0 tvg-id="Mtv" group-title="tv aberta",MTV
-#EXTBG: #11609e
-http://switch03.serveexchange.com/072/myStream/playlist.m3u8
 
 #EXTINF:0 group-title="RÁDIOS",LOVE SONGS
 #EXTBG: #11609e
@@ -205,4 +117,32 @@ http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m
 #EXTBG: #11609e
 https://gitlab.com/camillo20/camillofilmes/raw/master/.Camillofilmes
 
+#EXTINF:0 type="playlist" ,LISTA 
+#description="2018"
+#EXTBG: #11609e
+http://bit.ly/dmiptv-fs
 
+#EXTINF:0 type="playlist" ,LISTA 
+#description="2018"
+#EXTBG: #11609e
+https://pastebin.com/raw/J4vuLgdp
+
+#EXTINF:0 type="playlist" ,LISTA 
+#description="2018"
+#EXTBG: #11609e
+http://pastebin.com/raw/PMGCRPKe
+
+#EXTINF:0 type="playlist" ,LISTA 
+#description="2018"
+#EXTBG: #11609e
+http://bit.ly/megabox18
+
+#EXTINF:0 type="playlist" ,LISTA 
+#description="2018"
+#EXTBG: #11609e
+http://pastebin.com/raw/vHHVYRwf
+
+#EXTINF:0 type="playlist" ,LISTA 
+#description="2018"
+#EXTBG: #11609e
+http://pastebin.com/raw/bvfFsv1t
