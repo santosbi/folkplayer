@@ -16,14 +16,6 @@ http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1811.ts?token=SUZYUxZQRwJG
 #EXTBG: #11609e
 http://switch01.servep2p.com/020/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-name="GLOBO" group-title="tv aberta",Globo
-#EXTBG: #11609e
-http://switch01.servep2p.com/021/myStream/playlist.m3u8
-
-#EXTINF:-1 tvg-name="GLOBO" group-title="tv aberta",Globo
-#EXTBG: #11609e
-http://switch03.serveexchange.com/095/myStream/playlist.m3u8
-
 #EXTINF:-1 tvg-name="Band" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="tv aberta",BAND
 #EXTBG: #11609e
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
@@ -75,6 +67,10 @@ http://apk.goo.ac:8081/live/16/playlist.m3u8
 #EXTINF:0 tvg-id="Premiere" group-title="ESPORTES",FUTEBOL AO VIVO
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/19/playlist.m3u8
+
+#EXTINF:0 tvg-id="Premiere" group-title="ESPORTES",FUTEBOL AO VIVO
+#EXTBG: #11609e
+http://apk.goo.ac:8081/live/2/playlist.m3u8
 
 #EXTINF:0 group-title="tv aberta",Radio Capital TiVù
 #EXTBG: #11609e
