@@ -4,6 +4,10 @@
 #EXTBG: #11609e
 https://www.youtube.com/watch?v=FnyIEpAnBiM
 
+#EXTINF:-1 tvg-name="Sbt" group-title="tv aberto",SBT
+#EXTBG: #11609e
+http://iptv.ec.cx:80/hls/redecanais-sbt.m3u8
+
 #EXTINF:0 tvg-name="Globo - SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="tv aberta",Globo SP
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/17/playlist.m3u8
@@ -12,9 +16,9 @@ http://apk.goo.ac:8081/live/17/playlist.m3u8
 #EXTBG: #11609e
 http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1811.ts?token=SUZYUxZQRwJGCw0EAVdWWQQFAwIEVwlVAwMOUVNSBAFRXAlQBwhQCAURFERGFhddV1loCFdHC1cMBAgfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIJUgBcHkZAWwEaXxpQAwxWF05HXU5AUhNdBF05UFBPWlIHF15cEVxeSRoKVjtXXQtUDAEaDBYGQx9HWBVEFwMRcAFQRHELXVcXWwxXRFYYNVAQE1FVW0RBVwARL1pTVkFcA0ENUQUQfhFcBBhJE3UjF05HWl9ARQBHABNcFgcMAwlAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEAQEACxMf
 
-#EXTINF:-1 tvg-name="GLOBO" group-title="tv aberta",Globo Full HD
+#EXTINF:-1 tvg-name="GLOBO" group-title="tv aberta",Globo SP HD
 #EXTBG: #11609e
-http://50.7.132.98:25461/live/William/CANALIPTV2018/12345.m3u8?token=QkRZVEZfElkQA1VRAwcNWFhQAARTXwNTB1YCBQ8AVQcIUQUABVEAUVEUT0FHR0ZcWA9oWwIbDQFUUFAGGhdBEVwUblxRFQpBAwJUWgQRGBtNC1pXRAMHHEQTDVcUDxZQD14BBxcbEgZKQgYRWlJYZl0HQVsFXBUKCBYIXxoXWwxmAlRYVFlUQQgUU0EYEV1KSUANEChcQ0MTD0R6WEFREFcDRRV3Vl4HUxYvAkZUVRl1FlNTRBUVUg8XFlJCUBZYG1IBBAEVHEFRWRYNQEFNGwNAdWBEFRVVHhcBXUVcWwwbXBNYBkIIQR4UChBrQVFKTRBSUwtcRRJcQVQRGhdZA0E5UlpbWVUARl8MDUcRDhsIQBsQC1ZZWRIMFmxGXFBAA0QHBAIPEh4=
+http://iptv.ec.cx:80/hls/redecanais-bobosp.m3u8
 
 #EXTINF:-1 tvg-name="Band" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="tv aberta",BAND
 #EXTBG: #11609e
@@ -32,13 +36,13 @@ http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Fox Sports 2 [Brazil]" group-title="tv aberta",FOX SPORTS2
+#EXTINF:-1 tvg-id="FoxSports2" group-title="tv aberta",FOX SPORTS2
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/13/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Fox Sports 2 [Brazil]" group-title="tv aberta",FOX SPORTS HD
+#EXTINF:-1 tvg-id="Fox Sports" group-title="tv aberta",FOX SPORTS HD
 #EXTBG: #11609e
-http://50.7.132.98:25461/live/William/CANALIPTV2018/12213.m3u8?token=QkRZVEZfElkQU1FUDFFSAA5aBAQEAFEGVVMCAgEGAwQJVFdTVAACVVQUT0FHR0ZcWA9oWwIbDQFUUVUAGhdBEVwUblxRFQpBAwJUWgQRGBtNC1pXRAMHHEQTDVcUDxZQCFUCBRcbEgZKQgYRWlJYZl0HQVsFXBUKCBYIXxoXWwxmAlRYVFlUQQgUU0EYEV1KSUANEChcQ0MTD0R6WEFREFcDRRV3Vl4HUxYvAkZUVRl1FlNTRBUVUg8XFlJCUBZYG1cIAQEVHEFRWRYNQEFNGwNAdWBEFRVVHhcBXUVcWwwbXBNYBkIIQR4UChBrQVFKTRBSUwtcRRJcQVQRGhdZA0E5UlpbWVUARl8MDUcRDhsIQBsQC1ZZWRIMFmxGXFBAA0QEAAUEEh4=
+http://iptv.ec.cx:80/hls/redecanais-foxsports1.m3u8
 
 #EXTINF:0 tvg-id="SporTV" group-title="tv aberta",SPORTV
 #EXTBG: #11609e
@@ -75,6 +79,46 @@ http://apk.goo.ac:8081/live/19/playlist.m3u8
 #EXTINF:0 tvg-id="Premiere" group-title="ESPORTES",FUTEBOL AO VIVO
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/2/playlist.m3u8
+
+#EXTINF:0,SPORTV
+http://iptv.ec.cx:80/hls/redecanais-sportv1.m3u8
+
+#EXTINF:0,SPORTV 2
+http://iptv.ec.cx:80/hls/redecanais-sportv2.m3u8
+
+#EXTINF:0,SPORTV 3
+http://iptv.ec.cx:80/hls/redecanais-sportv3.m3u8
+
+#EXTINF:0 tvg-id="esporte interativo" group-title="ESPORTES",ESPORTE INTERATIVO
+#EXTBG: #11609e
+http://iptv.ec.cx:80/hls/redecanais-esporteinterativo1.m3u8
+
+#EXTINF:0,PREMIERE 2
+http://iptv.ec.cx:80/hls/redecanais-premiere2.m3u8
+
+#EXTINF:0,PREMIERE 3
+http://iptv.ec.cx:80/hls/redecanais-premiere3.m3u8
+
+#EXTINF:0,PREMIERE 4
+http://iptv.ec.cx:80/hls/redecanais-premiere4.m3u8
+
+#EXTINF:0,PREMIERE 5
+http://iptv.ec.cx:80/hls/redecanais-premiere5.m3u8
+
+#EXTINF:0,PREMIERE 6
+http://iptv.ec.cx:80/hls/redecanais-premiere6.m3u8
+
+#EXTINF:0,PREMIERE 7
+http://iptv.ec.cx:80/hls/redecanais-premiere7.m3u8
+
+#EXTINF:0,PREMIERE 8
+http://iptv.ec.cx:80/hls/redecanais-premiere8.m3u8
+
+#EXTINF:0,PREMIERE 9
+http://iptv.ec.cx:80/hls/redecanais-premiere9.m3u8
+
+#EXTINF:0,PREMIERE CLUBES
+http://iptv.ec.cx:80/hls/redecanais-premiereclubes.m3u8
 
 #EXTINF:0 group-title="tv aberta",Radio Capital TiVù
 #EXTBG: #11609e
@@ -146,3 +190,9 @@ http://pastebin.com/raw/vHHVYRwf
 #description="2018"
 #EXTBG: #11609e
 http://pastebin.com/raw/bvfFsv1t
+
+#EXTINF:0 type="playlist" ,LISTA 
+#description="2018"
+#EXTBG: #11609e
+http://minhalista.live/LANNNN
+
