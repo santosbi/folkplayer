@@ -18,8 +18,8 @@ http://apk.goo.ac:8081/live/17/playlist.m3u8
 #EXTBG: #11609e
 http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1811.ts?token=SUZYUxZQRwJGCw0EAVdWWQQFAwIEVwlVAwMOUVNSBAFRXAlQBwhQCAURFERGFhddV1loCFdHC1cMBAgfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIJUgBcHkZAWwEaXxpQAwxWF05HXU5AUhNdBF05UFBPWlIHF15cEVxeSRoKVjtXXQtUDAEaDBYGQx9HWBVEFwMRcAFQRHELXVcXWwxXRFYYNVAQE1FVW0RBVwARL1pTVkFcA0ENUQUQfhFcBBhJE3UjF05HWl9ARQBHABNcFgcMAwlAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEAQEACxMf
 
-#EXTINF:-1 tvg-name="GLOBO" group-title="tv aberta",Globo SP HD
-http://iptv.ec.cx:80/hls/redecanais-bobosp.m3u8?nimblesessionid=2979777
+#EXTINF:-1 tvg-name="GLOBO" group-title="tv aberta",Globo SP 
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/149.m3u8
 
 #EXTINF:-1 tvg-name="Band" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="tv aberta",BAND
 #EXTBG: #11609e
@@ -42,8 +42,7 @@ http://apk.goo.ac:8081/live/4/playlist.m3u8
 http://apk.goo.ac:8081/live/13/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fox Sports" group-title="tv aberta",FOX SPORTS HD
-http://iptv.ec.cx:80/hls/redecanais-foxsports1.m3u8?nimblesessionid=2979777
-
+http://185.2.83.202:25461/live/tutors/tokQjJIOoq/174.m3u8?token=GRtQAkcMF1saWFBUBVkGCVUAAVoDVVBSUVEDAg4FBVUDDwAGUlRTBwhDSRdCFUFUBw47UVVHWAZSVRlDQkBSRD1QXEEORgdWGk1HQVgMVhNcU0gaQQwGFV9DBFIFBQYUThtdG0ABRw9ZDTpRVBdaUgNBXlZECQ4bRw5bPlNWWlcMXRpZFlQXTRoIFkUTWxF/AxcXTV1FK1kRBEcPUkcXdANXXAIUKFQTXwBFeUUFUhNKQQZRRRcDQwBDD0MGAAMHQBUaAFsRWxVKGEcPEyNhE0pBAUBFAAxEDA5bQw0RWgUXARpPFg1GPkoEFkFDBFJcAxFGAhNVQBtHDFQZaFBYWAxcWxddC1sSGltHBwJRER1EDgtWWBENRToRXAUVCRUEUAANUhYZ
 #EXTINF:0 tvg-id="SporTV" group-title="tv aberta",SPORTV
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/20/playlist.m3u8
@@ -94,8 +93,7 @@ http://iptv.ec.cx:80/hls/redecanais-sportv3.m3u8?nimblesessionid=2979777
 http://iptv.ec.cx:80/hls/redecanais-esporteinterativo1.m3u8?nimblesessionid=2979777
 
 #EXTINF:0,PREMIERE 2
-http://iptv.ec.cx:80/hls/redecanais-premiere2.m3u8?nimblesessionid=2979777
-
+http://185.2.83.202:25461/live/tutors/tokQjJIOoq/203.m3u8?token=GRtQAkcMF1saA1wBBVIECQUBBV4FAFcBUVMHUVYGBFBTCl0HAwYCBA1DSRdCFUFUBw47UVVHWAVVUhlDQkBSRD1QXEEORgdWGk1HQVgMVhNcU0gaQQwGFV9DBFIFBgcUThtdG0ABRw9ZDTpRVBdaUgNBXlZECQ4bRw5bPlNWWlcMXRpZFlQXTRoIFkUTWxF/AxcXTV1FK1kRBEcPUkcXdANXXAIUKFQTXwBFeUUFUhNKQQZRRRcDQwBDD0MGAQAUThtbDEEKQRNBQ18XczMRHUQGHExUCxFeCg8XWxVeBENaGxRBXRdqE10SEUdUAF5UFEFeGgFHThUIAE0+VFxZWAdaTApbCkZDAkNXBgFDHxMLDApRRQoQaBUIUUMNEQYPUw4MQUk=
 #EXTINF:0,PREMIERE 3
 http://iptv.ec.cx:80/hls/redecanais-premiere3.m3u8?nimblesessionid=2979777
 
