@@ -157,7 +157,7 @@ http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m
 #EXTINF:0 type="playlist" ,LISTA FILMES
 #description="2018"
 #EXTBG: #11609e
-https://gitlab.com/camillo20/camillofilmes/raw/master/.Camillofilmes
+https://gitlab.com/bieldry02/FilmeseSeries.m3u8/raw/master/FilmeseSeries.m3u8
 
 #EXTINF:0 type="playlist" ,DMIPTV-FS
 #description="2018"
@@ -194,3 +194,12 @@ http://pastebin.com/raw/bvfFsv1t
 #EXTBG: #11609e
 http://minhalista.live/LANNNN
 
+#EXTINF:0 type="playlist" ,hMQBXfJG
+#description="2018"
+#EXTBG: #11609e
+https://pastebin.com/raw/hMQBXfJG
+
+#EXTINF:0 type="playlist" ,9NSJgUU3
+#description="2018"
+#EXTBG: #11609e
+https://pastebin.com/raw/9NSJgUU3
