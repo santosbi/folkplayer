@@ -15,8 +15,7 @@ http://iptv.ec.cx:80/hls/redecanais-sbt.m3u8?nimblesessionid=2979777
 http://apk.goo.ac:8081/live/17/playlist.m3u8
 
 #EXTINF:-1 tvg-name"Globo" group-title="tv aberta",Globo
-#EXTBG: #11609e
-http://185.152.66.81:25461/live/finais2_uk0zpx/ivp8ye/1811.ts?token=SUZYUxZQRwJGCw0EAVdWWQQFAwIEVwlVAwMOUVNSBAFRXAlQBwhQCAURFERGFhddV1loCFdHC1cMBAgfExdGAUA7WVZHAkcKXAABXwVASRpCXVoEEV8AUwYHAQIJUgBcHkZAWwEaXxpQAwxWF05HXU5AUhNdBF05UFBPWlIHF15cEVxeSRoKVjtXXQtUDAEaDBYGQx9HWBVEFwMRcAFQRHELXVcXWwxXRFYYNVAQE1FVW0RBVwARL1pTVkFcA0ENUQUQfhFcBBhJE3UjF05HWl9ARQBHABNcFgcMAwlAGUZRC0VcEUocGl4RejQXTkddTkBSD0AMXggWDxtHQkAZRlsXb0AASxFKAVJVA0dAXxoGFhtDXgRJOVdaV11UAUENXQpDEF8aVBpIEVUJWwsRV0RrRwhXRwtEAQEACxMf
+http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/149.m3u8
 
 #EXTINF:-1 tvg-name="GLOBO" group-title="tv aberta",Globo SP 
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/149.m3u8
