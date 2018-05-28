@@ -4,7 +4,7 @@
 
 #EXTINF:-1 tvg-name="Sbt" group-title="youtube",SBT
 #EXTBG: #11609e
-https://www.youtube.com/watch?v=FnyIEpAnBiM
+https://www.youtube.com/watch?v=sjRIQBAQj-0
 
 #EXTINF:-1 tvg-name="Sbt" group-title="tv aberto",SBT
 #EXTBG: #11609e
@@ -15,7 +15,7 @@ http://iptv.ec.cx:80/hls/redecanais-sbt.m3u8?nimblesessionid=2979777
 http://apk.goo.ac:8081/live/17/playlist.m3u8
 
 #EXTINF:-1 tvg-name"Globo" group-title="tv aberta",Globo
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/149.m3u8
+http://165.227.180.24/tvglobosaopaulohd/tracks-v1a1/playlist.m3u8?pxAuth=cinOZmlcybWPn3YefOTKWUfB2MuraAox
 
 #EXTINF:-1 tvg-name="GLOBO" group-title="tv aberta",Globo SP 
 http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/149.m3u8
@@ -41,7 +41,7 @@ http://apk.goo.ac:8081/live/4/playlist.m3u8
 http://apk.goo.ac:8081/live/13/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Fox Sports" group-title="tv aberta",FOX SPORTS HD
-http://185.2.83.202:25461/live/tutors/tokQjJIOoq/174.m3u8?token=GRtQAkcMF1saAwAHVVcDUFIGU1lXXVsBVlkEUwFXAVdTDw1UUlBQBQxDSRdCFUFUBw47UVVHWAZSVRlDQkBSRD1QXEEORgdWGk1HQVgMVhNcU0gaQQwGFV9DB1YAAhUaQFxAF1EWWwBUPgFQRwhQVERZCk1dCU4VCg9qBVJeVlgGGwJBBEYZQ1ESFRcLQ31UEhARVBEsDEMAE1sEQxN1VwxdWUN4BUcGWUEpQVUAER1EAQ1MQwQWUkdbF1ADBAQUThtbDEEKQRNBQ18XczMRHUQGHExUCxFeCg8XWxVeBENaGxRBXRdqE10SEUdUAF5UFEFeGgFHThUIAE0+VFxZWAdaTApbCkZDAkNXBgFDHxMLDApRRQoQaBUIUUMNEQUEWwwJQUk=
+http://165.227.180.24/foxsportshd/tracks-v1a1/playlist.m3u8?pxAuth=cinOZmlcybWPn3YefOTKWUfB2MuraAox
 
 #EXTINF:0 tvg-id="SporTV" group-title="tv aberta",SPORTV
 #EXTBG: #11609e
