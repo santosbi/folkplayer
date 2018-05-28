@@ -1,14 +1,8 @@
 #EXTM3U
-#EXT-X-VERSION:3
-#EXT-X-ALLOW-CACHE:YES
 
 #EXTINF:-1 tvg-name="Sbt" group-title="youtube",SBT
 #EXTBG: #11609e
 https://www.youtube.com/watch?v=sjRIQBAQj-0
-
-#EXTINF:-1 tvg-name="Sbt" group-title="tv aberto",SBT
-#EXTBG: #11609e
-http://iptv.ec.cx:80/hls/redecanais-sbt.m3u8?nimblesessionid=2979777
 
 #EXTINF:0 tvg-name="Globo - SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="tv aberta",Globo SP
 #EXTBG: #11609e
@@ -16,9 +10,6 @@ http://apk.goo.ac:8081/live/17/playlist.m3u8
 
 #EXTINF:-1 tvg-name"Globo" group-title="tv aberta",Globo
 http://165.227.180.24/tvglobosaopaulohd/tracks-v1a1/playlist.m3u8?pxAuth=cinOZmlcybWPn3YefOTKWUfB2MuraAox
-
-#EXTINF:-1 tvg-name="GLOBO" group-title="tv aberta",Globo SP 
-http://restreamb.btvclubs.com:25461/live/tutors/tokQjJIOoq/149.m3u8
 
 #EXTINF:-1 tvg-name="Band" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="tv aberta",BAND
 #EXTBG: #11609e
@@ -79,45 +70,6 @@ http://apk.goo.ac:8081/live/19/playlist.m3u8
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/2/playlist.m3u8
 
-#EXTINF:0,SPORTV
-http://iptv.ec.cx:80/hls/redecanais-sportv1.m3u8?nimblesessionid=2979777
-
-#EXTINF:0,SPORTV 2
-http://iptv.ec.cx:80/hls/redecanais-sportv2.m3u8?nimblesessionid=2979777
-
-#EXTINF:0,SPORTV 3
-http://iptv.ec.cx:80/hls/redecanais-sportv3.m3u8?nimblesessionid=2979777
-
-#EXTINF:0 tvg-id="esporte interativo" group-title="ESPORTES",ESPORTE INTERATIVO
-#EXTBG: #11609e
-http://iptv.ec.cx:80/hls/redecanais-esporteinterativo1.m3u8?nimblesessionid=2979777
-
-#EXTINF:0,PREMIERE 2
-http://185.2.83.202:25461/live/tutors/tokQjJIOoq/203.m3u8?token=GRtQAkcMF1saA1wBBVIECQUBBV4FAFcBUVMHUVYGBFBTCl0HAwYCBA1DSRdCFUFUBw47UVVHWAVVUhlDQkBSRD1QXEEORgdWGk1HQVgMVhNcU0gaQQwGFV9DBFIFBgcUThtdG0ABRw9ZDTpRVBdaUgNBXlZECQ4bRw5bPlNWWlcMXRpZFlQXTRoIFkUTWxF/AxcXTV1FK1kRBEcPUkcXdANXXAIUKFQTXwBFeUUFUhNKQQZRRRcDQwBDD0MGAQAUThtbDEEKQRNBQ18XczMRHUQGHExUCxFeCg8XWxVeBENaGxRBXRdqE10SEUdUAF5UFEFeGgFHThUIAE0+VFxZWAdaTApbCkZDAkNXBgFDHxMLDApRRQoQaBUIUUMNEQYPUw4MQUk=
-#EXTINF:0,PREMIERE 3
-http://iptv.ec.cx:80/hls/redecanais-premiere3.m3u8?nimblesessionid=2979777
-
-#EXTINF:0,PREMIERE 4
-http://iptv.ec.cx:80/hls/redecanais-premiere4.m3u8?nimblesessionid=2979777
-
-#EXTINF:0,PREMIERE 5
-http://iptv.ec.cx:80/hls/redecanais-premiere5.m3u8?nimblesessionid=2979777
-
-#EXTINF:0,PREMIERE 6
-http://iptv.ec.cx:80/hls/redecanais-premiere6.m3u8?nimblesessionid=2979777
-
-#EXTINF:0,PREMIERE 7
-http://iptv.ec.cx:80/hls/redecanais-premiere7.m3u8?nimblesessionid=2979777
-
-#EXTINF:0,PREMIERE 8
-http://iptv.ec.cx:80/hls/redecanais-premiere8.m3u8?nimblesessionid=2979777
-
-#EXTINF:0,PREMIERE 9
-http://iptv.ec.cx:80/hls/redecanais-premiere9.m3u8?nimblesessionid=2979777
-
-#EXTINF:0,PREMIERE CLUBES
-http://iptv.ec.cx:80/hls/redecanais-premiereclubes.m3u8?nimblesessionid=2979777
-
 #EXTINF:0 group-title="tv aberta",Radio Capital TiVù
 #EXTBG: #11609e
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
@@ -126,9 +78,9 @@ http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index
 #EXTBG: #11609e
 http://192.99.150.31:8897/stream
 
-#EXTINF:-1 group-title="RÁDIOS",METROPOLITANA FM - SP
+#EXTINF:-1 group-title="RÁDIOS",CULTURA 
 #EXTBG: #11609e
-http://ice.paineldj3.com.br:8006/live
+http://ice2.fabricahost.com.br:8010/live
 
 #EXTINF:-1 group-title="RÁDIOS",´RÁDIO GLOBO - RJ
 #EXTBG: #11609e
@@ -159,55 +111,13 @@ http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m
 #EXTBG: #11609e
 https://gitlab.com/bieldry02/FilmeseSeries.m3u8/raw/master/FilmeseSeries.m3u8
 
-#EXTINF:0 type="playlist" ,DMIPTV-FS
-#description="2018"
-#EXTBG: #11609e
-http://bit.ly/dmiptv-fs
-
-#EXTINF:0 type="playlist" ,J4VULGDP
-#description="2018"
-#EXTBG: #11609e
-https://pastebin.com/raw/J4vuLgdp
-
-#EXTINF:0 type="playlist" ,PMGCRPKe
-#description="2018"
-#EXTBG: #11609e
-http://pastebin.com/raw/PMGCRPKe
-
-#EXTINF:0 type="playlist" ,MEGABOX18
-#description="2018"
-#EXTBG: #11609e
-http://bit.ly/megabox18
-
-#EXTINF:0 type="playlist" ,VHHVYRWF
-#description="2018"
-#EXTBG: #11609e
-http://pastebin.com/raw/vHHVYRwf
-
-#EXTINF:0 type="playlist" ,BVFFSV1T
-#description="2018"
-#EXTBG: #11609e
-http://pastebin.com/raw/bvfFsv1t
-
-#EXTINF:0 type="playlist" ,LANNNN
-#description="2018"
-#EXTBG: #11609e
-http://minhalista.live/LANNNN
-
-#EXTINF:0 type="playlist" ,hMQBXfJG
-#description="2018"
-#EXTBG: #11609e
-https://pastebin.com/raw/hMQBXfJG
-
-#EXTINF:0 type="playlist" ,9NSJgUU3
-#description="2018"
-#EXTBG: #11609e
-https://pastebin.com/raw/9NSJgUU3
-
-#EXTINF:0 type="playlist" ,9NSJgUU3
-#description="2018"
-http://bit.ly/Iptvvictor_ListaVip
-
 #EXTINF:0 type="playlist" ,9NSJgUU3
 #description="2018"
 https://gitlab.com/camillo20/camillofilmes/raw/master/.Camillofilmes
+
+==============================================================Movies============================================================
+#EXTINF:-1 tvg-name="Sbt" group-title="videos",Movies
+https://psv21-2.daxab.com/videos/-67976464/456246498/360.mp4?extra=BSdslhXJW3W9C-_r30QpiQ
+#EXTINF:-1 tvg-name="Sbt" group-title="videos",Movies
+https://psv13-1.crazycloud.ru/cs611702.vkuservideo.net/18/u248102378/videos/34cc63362c.480.mp4?extra=3Asxw8uz9juqrV2F4l2Z0pi1AMvDgXNlqdvblx995uQRhlEJId6plGFbPxRD59NBjUMWuX-J8ob8lbzcPA9w9rCj3alHzfC-AeRup_uslO1ytp-_uO5F5zG6Eqbu-YQy5Sh6wC_2zyTdgW3M&extra_key=MSxCNYT7lHQmIrtV0z4onw&videos=-86098009_456239846
+
