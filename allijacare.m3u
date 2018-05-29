@@ -11,6 +11,9 @@ http://apk.goo.ac:8081/live/17/playlist.m3u8
 #EXTINF:-1 tvg-name"Globo" group-title="tv aberta",Globo
 http://54.39.46.113:80/live/mae/mae/37361.m3u8
 
+#EXTINF:0,GLOBO SP RedeCanais
+http://iptv.ec.cx:80/hls/redecanais-bobosp.m3u8
+
 #EXTINF:-1 tvg-name="Band" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="tv aberta",BAND
 #EXTBG: #11609e
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
