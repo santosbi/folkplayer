@@ -9,7 +9,7 @@ https://www.youtube.com/watch?v=sjRIQBAQj-0
 http://apk.goo.ac:8081/live/17/playlist.m3u8
 
 #EXTINF:-1 tvg-name"Globo" group-title="tv aberta",Globo
-http://165.227.180.24/tvglobosaopaulohd/tracks-v1a1/playlist.m3u8?pxAuth=cinOZmlcybWPn3YefOTKWUfB2MuraAox
+http://54.39.46.113:80/live/mae/mae/37361.m3u8
 
 #EXTINF:-1 tvg-name="Band" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="tv aberta",BAND
 #EXTBG: #11609e
