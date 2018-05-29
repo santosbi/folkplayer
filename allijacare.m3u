@@ -132,4 +132,6 @@ http://165.227.180.24/sportv/tracks-v1a1/playlist.m3u8?pxAuth=KaseMfwCb5WdVDmxBC
 https://psv14-1.crazycloud.ru/videos/-151613306/456247176/360.mp4?extra=TsRqFpEOYVEsVI0npLuCtA
 #EXTINF:-1 tvg-name="Sbt" group-title="videos",Movies
 https://psv17-3.crazycloud.ru/videos/-151613306/456247132/360.mp4?extra=b6gAD_Xk2ZR796lGLYktSg
+#EXTINF:-1 tvg-name="Sbt" group-title="videos",Movies
+https://psv12-5.daxab.com/videos/-81149724/171471009/360.mp4?extra=ZcTTcu8VaeJnZpJQlp1Rkw
 
