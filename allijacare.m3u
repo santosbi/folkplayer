@@ -5,7 +5,7 @@
 #EXTBG: #11609e
 https://www.youtube.com/watch?v=sjRIQBAQj-0
 
-#EXTINF:0 tvg-name="Globo - SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="tv aberta",Globo SP
+#EXTINF:0 tvg-name="Globo SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="tv aberta",Globo SP
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/17/playlist.m3u8
 
@@ -45,19 +45,19 @@ http://apk.goo.ac:8081/live/13/playlist.m3u8
 #EXTINF:-1 tvg-id="Fox Sports" group-title="teste",FOX SPORTS HD
 http://165.227.180.24/foxsportshd/tracks-v1a1/playlist.m3u8?pxAuth=cinOZmlcybWPn3YefOTKWUfB2MuraAox
 
-#EXTINF:0 tvg-id="SporTV" group-title="futebol",SPORTV
+#EXTINF:0 tvg-id="SporTV" group-title="Futebol",SPORTV
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/20/playlist.m3u8
 
-#EXTINF:0 group-title="futebol",SporTV 2
+#EXTINF:0 group-title="Futebol",SporTV 2
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/15/playlist.m3u8
 
-#EXTINF:0 group-title="futebol",SporTV 3
+#EXTINF:0 group-title="Futebol",SporTV 3
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/7/playlist.m3u8
 
-#EXTINF:0  group-title="futebol",ESPN BRASIL
+#EXTINF:0  group-title="Futebol",ESPN BRASIL
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/19/playlist.m3u8
 
@@ -81,7 +81,7 @@ http://apk.goo.ac:8081/live/19/playlist.m3u8
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/2/playlist.m3u8
 
-#EXTINF:0 group-title="clipe",Radio Capital TiVù
+#EXTINF:0 group-title="Clipe",Radio Capital TiVù
 #EXTBG: #11609e
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
 
@@ -109,11 +109,11 @@ http://192.99.150.31:8962/stream
 #EXTBG: #11609e
 http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/chunklist_w634624487.m3u8
 
-#EXTINF:-1 group-title="Cameras Ao Vivo",GERMANY
+#EXTINF:-1 group-title="Câmeras Ao Vivo",GERMANY
 #EXTBG: #11609e
 http://stream.livespotting.tv/windit-edge/vv101_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s24.postimg.org/7k8y54p9x/Ao_Vivologo.png" group-title="Cameras Ao Vivo",PICO DO GAVIÃO - ANDRADAS MG
+#EXTINF:-1 tvg-id="" tvg-logo="https://s24.postimg.org/7k8y54p9x/Ao_Vivologo.png" group-title="Câmeras Ao Vivo",PICO DO GAVIÃO - ANDRADAS MG
 #EXTBG: #11609e
 http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m3u8
 
