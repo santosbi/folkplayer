@@ -23,6 +23,12 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 #EXTBG: #11609e
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 
+#EXTINF:-1 tvg-id="RedeTV!"  group-title="tv aberta",HBO
+http://165.227.180.24/hbohd/tracks-v1a1/playlist.m3u8?pxAuth=KaseMfwCb5WdVDmxBCEaVHboAPyoZWxF
+#EXTINF:-1 tvg-id="RedeTV!"  group-title="tv aberta",HBOPLUS
+http://165.227.180.24/hboplushd/tracks-v1a1/playlist.m3u8?pxAuth=KaseMfwCb5WdVDmxBCEaVHboAPyoZWxF
+#EXTINF:-1 tvg-id="RedeTV!"  group-title="tv aberta",FOX
+http://165.227.180.24/foxhd/tracks-v1a1/playlist.m3u8?pxAuth=KaseMfwCb5WdVDmxBCEaVHboAPyoZWxF
 #EXTINF:-1 tvg-id="FoxSports" group-title="tv aberta",FOX SPORTS
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/4/playlist.m3u8
@@ -114,6 +120,9 @@ https://gitlab.com/bieldry02/FilmeseSeries.m3u8/raw/master/FilmeseSeries.m3u8
 #EXTINF:0 type="playlist" ,9NSJgUU3
 #description="2018"
 https://gitlab.com/camillo20/camillofilmes/raw/master/.Camillofilmes
+
+#EXTINF:0 tvg-id="SporTV" group-title="tv aberta",SPORTV HD
+http://165.227.180.24/sportv/tracks-v1a1/playlist.m3u8?pxAuth=KaseMfwCb5WdVDmxBCEaVHboAPyoZWxF
 
 ==============================================================Movies============================================================
 #EXTINF:-1 tvg-name="Sbt" group-title="videos",Movies
