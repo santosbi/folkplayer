@@ -89,9 +89,9 @@ http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index
 #EXTBG: #11609e
 http://192.99.150.31:8897/stream
 
-#EXTINF:-1 group-title="RÁDIOS",CULTURA 
+#EXTINF:-1 group-title="RÁDIOS",JOVEM PAN 
 #EXTBG: #11609e
-http://ice2.fabricahost.com.br:8010/live
+http://18763.live.streamtheworld.com/JP_SP_FMAAC.aac
 
 #EXTINF:-1 group-title="RÁDIOS",´RÁDIO GLOBO - RJ
 #EXTBG: #11609e
@@ -130,11 +130,11 @@ https://gitlab.com/camillo20/camillofilmes/raw/master/.Camillofilmes
 http://165.227.180.24/sportv/tracks-v1a1/playlist.m3u8?pxAuth=KaseMfwCb5WdVDmxBCEaVHboAPyoZWxF
 
 ==============================================================Movies============================================================
-#EXTINF:-1 tvg-name="Sbt" group-title="videos",Movies
+#EXTINF:-1 tvg-name="Sbt" group-title="Videos",Movies
 https://psv14-1.crazycloud.ru/videos/-151613306/456247176/360.mp4?extra=TsRqFpEOYVEsVI0npLuCtA
-#EXTINF:-1 tvg-name="Sbt" group-title="videos",Movies
+#EXTINF:-1 tvg-name="Sbt" group-title="Videos",Movies
 https://psv17-3.crazycloud.ru/videos/-151613306/456247132/360.mp4?extra=b6gAD_Xk2ZR796lGLYktSg
-#EXTINF:-1 tvg-name="Sbt" group-title="videos",Movies
+#EXTINF:-1 tvg-name="Sbt" group-title="Videos",Movies
 https://psv12-5.daxab.com/videos/-81149724/171471009/360.mp4?extra=ZcTTcu8VaeJnZpJQlp1Rkw
 
 ==============================================================Series============================================================
