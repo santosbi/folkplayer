@@ -31,9 +31,9 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="RedeTV!"  group-title="Canais Beta",HBO
-http://165.227.180.24/hbohd/tracks-v1a1/playlist.m3u8?pxAuth=KaseMfwCb5WdVDmxBCEaVHboAPyoZWxF
+https://www.youtube.com/watch?v=SUT4DLhU3dc
 #EXTINF:-1 tvg-id="RedeTV!"  group-title="Canais Beta",HBOPLUS
-http://165.227.180.24/hboplushd/tracks-v1a1/playlist.m3u8?pxAuth=KaseMfwCb5WdVDmxBCEaVHboAPyoZWxF
+https://www.youtube.com/watch?v=yBC02hKBTlQ
 #EXTINF:-1 tvg-id="RedeTV!"  group-title="Canais Beta",FOX
 http://165.227.180.24/foxhd/tracks-v1a1/playlist.m3u8?pxAuth=KaseMfwCb5WdVDmxBCEaVHboAPyoZWxF
 
