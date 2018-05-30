@@ -22,9 +22,9 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-http://54.39.46.113:80/live/mae/mae/37361.m3u8
+http://165.227.180.24/premiere4/tracks-v1a1/playlist.m3u8?pxAuth=P8DWKihkxMT9qU9lzl6XzpD4tiB3zCnr
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-http://iptv.ec.cx:80/hls/redecanais-bobosp.m3u8
+http://165.227.180.24/premiere4hd/tracks-v1a1/playlist.m3u8?pxAuth=P8DWKihkxMT9qU9lzl6XzpD4tiB3zCnr
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBO
 https://www.youtube.com/watch?v=SUT4DLhU3dc
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
