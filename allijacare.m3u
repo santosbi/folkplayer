@@ -1,119 +1,119 @@
 #EXTM3U
 #PLAYLISTV: pltv-name="ALLIGATOR - FILMES,TV E SERIES" pltv-description="LISTA DE TV, FILMES, SERIES
 
-#EXTINF:-1 tvg-name="Sbt" group-title="tv aberta",SBT
+#EXTINF:-1 tvg-shift=-3 group-title="tv aberta",SBT
 #EXTBG: #11609e
 https://www.youtube.com/watch?v=sjRIQBAQj-0
 
-#EXTINF:0 tvg-name="Globo SP" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="tv aberta",Globo SP
+#EXTINF:0 tvg-shift=-3 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="tv aberta",Globo SP
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/17/playlist.m3u8
 
-#EXTINF:-1 tvg-name"Globo" group-title="Canais Beta",Globo
+#EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
 http://54.39.46.113:80/live/mae/mae/37361.m3u8
 
-#EXTINF:0 group-title="Canais Beta",GLOBO SP RedeCanais
+#EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
 http://iptv.ec.cx:80/hls/redecanais-bobosp.m3u8
 
-#EXTINF:-1 tvg-name="Band" tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="tv aberta",BAND
+#EXTINF:-1 tvg-shift=-3 tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="tv aberta",BAND
 #EXTBG: #11609e
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 
-#EXTINF:-1 tvg-id="RedeTV!"  group-title="tv aberta",REDETV!
+#EXTINF:-1 tvg-shift=-3  group-title="tv aberta",REDETV!
 #EXTBG: #11609e
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://portal4.files.wordpress.com/2016/06/rede-brasil-1.jpg?w=596&h=389" group-title="tv aberta",REDE BRASIL HD
+#EXTINF:-1 tvg-shift=-3 tvg-logo="https://portal4.files.wordpress.com/2016/06/rede-brasil-1.jpg?w=596&h=389" group-title="tv aberta",REDE BRASIL HD
 #EXTBG: #11609e
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="RedeTV!"  group-title="Canais Beta",HBO
+#EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBO
 https://www.youtube.com/watch?v=SUT4DLhU3dc
-#EXTINF:-1 tvg-id="RedeTV!"  group-title="Canais Beta",HBOPLUS
+#EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://www.youtube.com/watch?v=yBC02hKBTlQ
-#EXTINF:-1 tvg-id="RedeTV!"  group-title="Canais Beta",FOX
+#EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",FOX
 http://165.227.180.24/foxhd/tracks-v1a1/playlist.m3u8?pxAuth=KaseMfwCb5WdVDmxBCEaVHboAPyoZWxF
 
-#EXTINF:-1 tvg-id="FoxSports" group-title="Futebol",FOX SPORTS
+#EXTINF:-1 tvg-shift=-3 group-title="Futebol",FOX SPORTS
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/4/playlist.m3u8
 
-#EXTINF:-1 tvg-id="FoxSports2" group-title="Futebol",FOX SPORTS2
+#EXTINF:-1 tvg-shift=-3 group-title="Futebol",FOX SPORTS2
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/13/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Fox Sports" group-title="Canais Beta",FOX SPORTS HD
+#EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",FOX SPORTS HD
 http://165.227.180.24/foxsportshd/tracks-v1a1/playlist.m3u8?pxAuth=cinOZmlcybWPn3YefOTKWUfB2MuraAox
 
-#EXTINF:0 tvg-id="SporTV" group-title="Futebol",SPORTV
+#EXTINF:0 tvg-shift=-3 group-title="Futebol",SPORTV
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/20/playlist.m3u8
 
-#EXTINF:0 group-title="Futebol",SporTV 2
+#EXTINF:0 tvg-shift=-3 group-title="Futebol",SporTV 2
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/15/playlist.m3u8
 
-#EXTINF:0 group-title="Futebol",SporTV 3
+#EXTINF:0 tvg-shift=-3 group-title="Futebol",SporTV 3
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/7/playlist.m3u8
 
-#EXTINF:0  group-title="Futebol",ESPN BRASIL
+#EXTINF:0  tvg-shift=-3 group-title="Futebol",ESPN BRASIL
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/19/playlist.m3u8
 
-#EXTINF:0 tvg-id="Premiere" group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
+#EXTINF:0 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/8/playlist.m3u8
 
-#EXTINF:0 tvg-id="Premiere" group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
+#EXTINF:0 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/9/playlist.m3u8
 
-#EXTINF:0 tvg-id="Premiere" group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
+#EXTINF:0 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/16/playlist.m3u8
 
-#EXTINF:0 tvg-id="Premiere" group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
+#EXTINF:0 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/19/playlist.m3u8
 
-#EXTINF:0 tvg-id="Premiere" group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
+#EXTINF:0 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/2/playlist.m3u8
 
-#EXTINF:0 group-title="Clipe",Radio Capital TiVù
+#EXTINF:0 tvg-shift=-3 group-title="Clipe",Radio Capital TiVù
 #EXTBG: #11609e
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
 
-#EXTINF:0 group-title="RÁDIOS",LOVE SONGS
+#EXTINF:0 tvg-shift=-3 group-title="RÁDIOS",LOVE SONGS
 #EXTBG: #11609e
 http://192.99.150.31:8897/stream
 
-#EXTINF:-1 group-title="RÁDIOS",JOVEM PAN 
+#EXTINF:-1 tvg-shift=-3 group-title="RÁDIOS",JOVEM PAN 
 #EXTBG: #11609e
 http://18763.live.streamtheworld.com/JP_SP_FMAAC.aac
 
-#EXTINF:-1 group-title="RÁDIOS",´RÁDIO GLOBO - RJ
+#EXTINF:-1 tvg-shift=-3 group-title="RÁDIOS",´RÁDIO GLOBO - RJ
 #EXTBG: #11609e
 http://stream.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
 
-#EXTINF:-1 group-title="RÁDIOS",RÁDIO GLOBO - SP
+#EXTINF:-1 tvg-shift=-3 group-title="RÁDIOS",RÁDIO GLOBO - SP
 #EXTBG: #11609e
 http://stream.sgr.globo.com/hls/aRGloboSP/aRGloboSP.m3u8
 
-#EXTINF:-1 group-title="RÁDIOS",ROMÂNTICAS
+#EXTINF:-1 tvg-shift=-3 group-title="RÁDIOS",ROMÂNTICAS
 #EXTBG: #11609e
 http://192.99.150.31:8962/stream
 
-#EXTINF:0 group-title="Câmeras Ao Vivo",BAR SLOPPY JOE'S EM KEY WEST(CAMERA EXTERNA)
+#EXTINF:0 tvg-shift=-3 group-title="Câmeras Ao Vivo",BAR SLOPPY JOE'S EM KEY WEST(CAMERA EXTERNA)
 #EXTBG: #11609e
 http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/chunklist_w634624487.m3u8
 
-#EXTINF:-1 group-title="Câmeras Ao Vivo",GERMANY
+#EXTINF:-1 tvg-shift=-3 group-title="Câmeras Ao Vivo",GERMANY
 #EXTBG: #11609e
 http://stream.livespotting.tv/windit-edge/vv101_720p.stream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://s24.postimg.org/7k8y54p9x/Ao_Vivologo.png" group-title="Câmeras Ao Vivo",PICO DO GAVIÃO - ANDRADAS MG
+#EXTINF:-1tvg-shift=-3 tvg-logo="https://s24.postimg.org/7k8y54p9x/Ao_Vivologo.png" group-title="Câmeras Ao Vivo",PICO DO GAVIÃO - ANDRADAS MG
 #EXTBG: #11609e
 http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m3u8
 
@@ -130,13 +130,13 @@ https://gitlab.com/camillo20/camillofilmes/raw/master/.Camillofilmes
 http://165.227.180.24/sportv/tracks-v1a1/playlist.m3u8?pxAuth=KaseMfwCb5WdVDmxBCEaVHboAPyoZWxF
 
 ==============================================================Movies============================================================
-#EXTINF:-1 tvg-name="Sbt" group-title="Videos",Movies
+#EXTINF:-1 tvg-shift=-3 group-title="Videos",Movies
 https://psv14-1.crazycloud.ru/videos/-151613306/456247176/360.mp4?extra=TsRqFpEOYVEsVI0npLuCtA
-#EXTINF:-1 tvg-name="Sbt" group-title="Videos",Movies
+#EXTINF:-1 tvg-shift=-3 group-title="Videos",Movies
 https://psv17-3.crazycloud.ru/videos/-151613306/456247132/360.mp4?extra=b6gAD_Xk2ZR796lGLYktSg
-#EXTINF:-1 tvg-name="Sbt" group-title="Videos",Movies
+#EXTINF:-1 tvg-shift=-3 group-title="Videos",Movies
 https://hls2-l3.xvideos-cdn.com/8ad2020057d856043995036122c2263d4445f016-1527665992/videos/hls/f0/b0/d9/f0b0d91abef431474ae62f3af191ba1d/hls-360p.m3u8
-#EXTINF:-1 tvg-name="Sbt" group-title="Videos",Movies
+#EXTINF:-1 tvg-shift=-3 group-title="Videos",Movies
 https://dv.phncdn.com/videos/201708/30/130633601/480P_600K_130633601.mp4?ttl=1527632938&ri=1433600&rs=920&hash=75105d819990068b530ac754e9c646a6
 ==============================================================Series============================================================
 ============================================================South Park==========================================================
