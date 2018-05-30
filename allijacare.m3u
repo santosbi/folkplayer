@@ -2,7 +2,6 @@
 #PLAYLISTV: pltv-name="ALLIGATOR - FILMES,TV E SERIES" pltv-description="LISTA DE TV, FILMES, SERIES
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/XyyySEB.jpg" group-title="INFORMAÇÕES DA LISTA", ALLIGATOR - FILMES,TV E SERIES Atualizada 29/05/2018
-http://0.0.0.0
 
 #EXTINF:-1 tvg-name="Sbt" group-title="tv aberta",SBT
 #EXTBG: #11609e
@@ -138,7 +137,7 @@ https://psv14-1.crazycloud.ru/videos/-151613306/456247176/360.mp4?extra=TsRqFpEO
 #EXTINF:-1 tvg-name="Sbt" group-title="Videos",Movies
 https://psv17-3.crazycloud.ru/videos/-151613306/456247132/360.mp4?extra=b6gAD_Xk2ZR796lGLYktSg
 #EXTINF:-1 tvg-name="Sbt" group-title="Videos",Movies
-https://psv18-7.daxab.com/cs542304.vkuservideo.net/7/u189822344/videos/bda2d7ae29.480.mp4?extra=vmJixlC9PUK0pEWg9MYjtM7DwRfsZ5Cj0UEVoJmYreAHYncfnsjrZ_NuNknxWcQdcLRB1ncR49GVFlntpdKgb5uY-YzlKSjWjlJs647fg7vZXTGjW9pQvrPihNW5OeKHhm8XRe-qmn_L4yk&extra_key=FDdj7NcFaCPJmw5pMidXow&videos=-86818244_171394885
+https://hls2-l3.xvideos-cdn.com/8ad2020057d856043995036122c2263d4445f016-1527665992/videos/hls/f0/b0/d9/f0b0d91abef431474ae62f3af191ba1d/hls-360p.m3u8
 #EXTINF:-1 tvg-name="Sbt" group-title="Videos",Movies
 https://dv.phncdn.com/videos/201708/30/130633601/480P_600K_130633601.mp4?ttl=1527632938&ri=1433600&rs=920&hash=75105d819990068b530ac754e9c646a6
 ==============================================================Series============================================================
