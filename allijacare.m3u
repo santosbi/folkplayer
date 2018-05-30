@@ -131,13 +131,9 @@ http://165.227.180.24/sportv/tracks-v1a1/playlist.m3u8?pxAuth=KaseMfwCb5WdVDmxBC
 
 ==============================================================Movies============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Videos",Movies
-https://psv14-1.crazycloud.ru/videos/-151613306/456247176/360.mp4?extra=TsRqFpEOYVEsVI0npLuCtA
 #EXTINF:-1 tvg-shift=-3 group-title="Videos",Movies
-https://psv17-3.crazycloud.ru/videos/-151613306/456247132/360.mp4?extra=b6gAD_Xk2ZR796lGLYktSg
 #EXTINF:-1 tvg-shift=-3 group-title="Videos",Movies
-https://hls2-l3.xvideos-cdn.com/8ad2020057d856043995036122c2263d4445f016-1527665992/videos/hls/f0/b0/d9/f0b0d91abef431474ae62f3af191ba1d/hls-360p.m3u8
 #EXTINF:-1 tvg-shift=-3 group-title="Videos",Movies
-https://dv.phncdn.com/videos/201708/30/130633601/480P_600K_130633601.mp4?ttl=1527632938&ri=1433600&rs=920&hash=75105d819990068b530ac754e9c646a6
 ==============================================================Series============================================================
 ============================================================South Park==========================================================
 #EXTINF:0 tvg-logo="http://i.imgur.com/slGftt7.jpg" group-title="South Park",01 South Park
