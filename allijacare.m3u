@@ -1,39 +1,41 @@
 #EXTM3U
 #PLAYLISTV: pltv-name="ALLIGATOR - FILMES,TV E SERIES" pltv-description="LISTA DE TV, FILMES, SERIES
 
-#EXTINF:-1 tvg-shift=-3 group-title="tv aberta",SBT
+#EXTINF:-1 tvg-shift=-3 group-title="TV Aberta",SBT
 #EXTBG: #11609e
 https://www.youtube.com/watch?v=sjRIQBAQj-0
 
-#EXTINF:0 tvg-shift=-3 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="tv aberta",Globo SP
+#EXTINF:0 tvg-shift=-3 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="TV Aberta",GLOBO SP
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/17/playlist.m3u8
 
-#EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-http://54.39.46.113:80/live/mae/mae/37361.m3u8
-
-#EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-http://iptv.ec.cx:80/hls/redecanais-bobosp.m3u8
-
-#EXTINF:-1 tvg-shift=-3 tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="tv aberta",BAND
+#EXTINF:-1 tvg-shift=-3 tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="TV Aberta",BAND
 #EXTBG: #11609e
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 
-#EXTINF:-1 tvg-shift=-3  group-title="tv aberta",REDETV!
+#EXTINF:-1 tvg-shift=-3  group-title="TV Aberta",REDETV!
 #EXTBG: #11609e
 http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 
-#EXTINF:-1 tvg-shift=-3 tvg-logo="https://portal4.files.wordpress.com/2016/06/rede-brasil-1.jpg?w=596&h=389" group-title="tv aberta",REDE BRASIL HD
+#EXTINF:-1 tvg-shift=-3 tvg-logo="https://portal4.files.wordpress.com/2016/06/rede-brasil-1.jpg?w=596&h=389" group-title="TV Aberta",REDE BRASIL HD
 #EXTBG: #11609e
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
-
+==========================================================Canais Beta=============================================================
+#EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
+http://54.39.46.113:80/live/mae/mae/37361.m3u8
+#EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
+http://iptv.ec.cx:80/hls/redecanais-bobosp.m3u8
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBO
 https://www.youtube.com/watch?v=SUT4DLhU3dc
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://www.youtube.com/watch?v=yBC02hKBTlQ
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",FOX
 http://165.227.180.24/foxhd/tracks-v1a1/playlist.m3u8?pxAuth=KaseMfwCb5WdVDmxBCEaVHboAPyoZWxF
-
+#EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",ESPN HD
+http://165.227.180.24/espnhd/tracks-v1a1/playlist.m3u8?pxAuth=nWeiyGswFzQUce1QQH8wHSbhk4YISNcm
+#EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
+http://165.227.180.24/sportv/tracks-v1a1/playlist.m3u8?pxAuth=KaseMfwCb5WdVDmxBCEaVHboAPyoZWxF
+=================================================================================================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Futebol",FOX SPORTS
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/4/playlist.m3u8
@@ -41,9 +43,6 @@ http://apk.goo.ac:8081/live/4/playlist.m3u8
 #EXTINF:-1 tvg-shift=-3 group-title="Futebol",FOX SPORTS2
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/13/playlist.m3u8
-
-#EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",ESPN HD
-http://165.227.180.24/espnhd/tracks-v1a1/playlist.m3u8?pxAuth=nWeiyGswFzQUce1QQH8wHSbhk4YISNcm
 
 #EXTINF:0 tvg-shift=-3 group-title="Futebol",SPORTV
 #EXTBG: #11609e
@@ -89,6 +88,14 @@ http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index
 #EXTBG: #11609e
 http://192.99.150.31:8897/stream
 
+#EXTINF:0 tvg-shift=-3 group-title="RÁDIOS",ANTENA 1 RJ
+#EXTBG: #11609e
+http://a1rj.streams.com.br:7801/stream
+
+#EXTINF:0 tvg-shift=-3 group-title="RÁDIOS",ALFHA FM SP
+#EXTBG: #11609e
+https://slave.shoutcast.com/AlphaFM101-7
+
 #EXTINF:-1 tvg-shift=-3 group-title="RÁDIOS",JOVEM PAN 
 #EXTBG: #11609e
 http://18763.live.streamtheworld.com/JP_SP_FMAAC.aac
@@ -125,9 +132,6 @@ https://gitlab.com/bieldry02/FilmeseSeries.m3u8/raw/master/FilmeseSeries.m3u8
 #EXTINF:0 type="playlist" ,9NSJgUU3
 #description="2018"
 https://gitlab.com/camillo20/camillofilmes/raw/master/.Camillofilmes
-
-#EXTINF:0 tvg-id="SporTV" group-title="Canais Beta",SPORTV HD
-http://165.227.180.24/sportv/tracks-v1a1/playlist.m3u8?pxAuth=KaseMfwCb5WdVDmxBCEaVHboAPyoZWxF
 
 ==============================================================Movies============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Videos",Movies
