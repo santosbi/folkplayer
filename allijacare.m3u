@@ -104,7 +104,7 @@ https://slave.shoutcast.com/AlphaFM101-7
 #EXTBG: #11609e
 http://18763.live.streamtheworld.com/JP_SP_FMAAC.aac
 
-#EXTINF:-1 tvg-shift=-3 group-title="RÁDIOS",´RÁDIO GLOBO - RJ
+#EXTINF:-1 tvg-shift=-3 group-title="RÁDIOS",RÁDIO GLOBO - RJ
 #EXTBG: #11609e
 http://stream.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
 
