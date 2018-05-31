@@ -87,7 +87,7 @@ http://apk.goo.ac:8081/live/2/playlist.m3u8
 #EXTINF:0 tvg-shift=-3 group-title="Clipe",Radio Capital TiVù
 #EXTBG: #11609e
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
-===============================================================Radios===========================================================
+================================================================Radios==========================================================
 #EXTINF:0 tvg-shift=-3 group-title="RÁDIOS",LOVE SONGS
 #EXTBG: #11609e
 http://192.99.150.31:8897/stream
@@ -115,7 +115,7 @@ http://stream.sgr.globo.com/hls/aRGloboSP/aRGloboSP.m3u8
 #EXTINF:-1 tvg-shift=-3 group-title="RÁDIOS",ROMÂNTICAS
 #EXTBG: #11609e
 http://192.99.150.31:8962/stream
-==================================================================Câmeras=======================================================
+==========================================================Câmeras===============================================================
 #EXTINF:0 tvg-shift=-3 group-title="Câmeras Ao Vivo",BAR SLOPPY JOE'S EM KEY WEST(CAMERA EXTERNA)
 #EXTBG: #11609e
 http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/chunklist_w634624487.m3u8
