@@ -22,9 +22,9 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-http://165.227.180.24/premiere4/tracks-v1a1/playlist.m3u8?pxAuth=P8DWKihkxMT9qU9lzl6XzpD4tiB3zCnr
+http://165.227.65.252/premiere4/tracks-v1a1/playlist.m3u8?pxAuth=z3qVNtPreKv68h2rWfLkQ49uLBl8dY9S
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-http://165.227.180.24/premiere4hd/tracks-v1a1/playlist.m3u8?pxAuth=P8DWKihkxMT9qU9lzl6XzpD4tiB3zCnr
+http://165.227.65.252/premiere4hd/tracks-v1a1/playlist.m3u8?pxAuth=z3qVNtPreKv68h2rWfLkQ49uLBl8dY9S
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBO
 https://www.youtube.com/watch?v=SUT4DLhU3dc
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
@@ -35,7 +35,7 @@ http://165.227.180.24/foxhd/tracks-v1a1/playlist.m3u8?pxAuth=KaseMfwCb5WdVDmxBCE
 http://165.227.180.24/espnhd/tracks-v1a1/playlist.m3u8?pxAuth=nWeiyGswFzQUce1QQH8wHSbhk4YISNcm
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
 http://165.227.180.24/sportv/tracks-v1a1/playlist.m3u8?pxAuth=KaseMfwCb5WdVDmxBCEaVHboAPyoZWxF
-=================================================================================================================================
+=============================================================Esportes=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Futebol",FOX SPORTS
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/4/playlist.m3u8
@@ -62,6 +62,10 @@ http://apk.goo.ac:8081/live/19/playlist.m3u8
 
 #EXTINF:0 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
+http://apk.goo.ac:8081/live/7/playlist.m3u8
+
+#EXTINF:0 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
+#EXTBG: #11609e
 http://apk.goo.ac:8081/live/8/playlist.m3u8
 
 #EXTINF:0 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
@@ -79,11 +83,11 @@ http://apk.goo.ac:8081/live/19/playlist.m3u8
 #EXTINF:0 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/2/playlist.m3u8
-
+================================================================Clipe===========================================================
 #EXTINF:0 tvg-shift=-3 group-title="Clipe",Radio Capital TiVù
 #EXTBG: #11609e
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
-
+===============================================================Radios===========================================================
 #EXTINF:0 tvg-shift=-3 group-title="RÁDIOS",LOVE SONGS
 #EXTBG: #11609e
 http://192.99.150.31:8897/stream
@@ -111,7 +115,7 @@ http://stream.sgr.globo.com/hls/aRGloboSP/aRGloboSP.m3u8
 #EXTINF:-1 tvg-shift=-3 group-title="RÁDIOS",ROMÂNTICAS
 #EXTBG: #11609e
 http://192.99.150.31:8962/stream
-
+==================================================================Câmeras=======================================================
 #EXTINF:0 tvg-shift=-3 group-title="Câmeras Ao Vivo",BAR SLOPPY JOE'S EM KEY WEST(CAMERA EXTERNA)
 #EXTBG: #11609e
 http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/chunklist_w634624487.m3u8
