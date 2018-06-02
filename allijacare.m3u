@@ -138,7 +138,8 @@ https://gitlab.com/bieldry02/FilmeseSeries.m3u8/raw/master/FilmeseSeries.m3u8
 https://gitlab.com/camillo20/camillofilmes/raw/master/.Camillofilmes
 
 ==============================================================Movies============================================================
-#EXTINF:-1 tvg-shift=-3 group-title="Videos",Movies
+#EXTINF:4 tvg-shift=-3 group-title="Videos",Movies
+https://ip31570270.ahcdn.com/key=XKC04dMF1+nQCTclZ-1Bxg,s=,end=1528050188/state=sVRl/reftag=063878343/media=hls/18/121/1/31964631.m3u8
 #EXTINF:-1 tvg-shift=-3 group-title="Videos",Movies
 #EXTINF:-1 tvg-shift=-3 group-title="Videos",Movies
 #EXTINF:-1 tvg-shift=-3 group-title="Videos",Movies
