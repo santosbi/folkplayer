@@ -29,11 +29,11 @@ http://165.227.65.252/premiere4/tracks-v1a1/playlist.m3u8?pxAuth=g2BRjG4C2BBjq2i
 https://www.youtube.com/watch?v=SUT4DLhU3dc
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://www.youtube.com/watch?v=yBC02hKBTlQ
-#EXTINF:4 tvg-shift=-3  group-title="Canais Beta",PREMIERE 2
+#EXTINF:7 tvg-shift=-3  group-title="Canais Beta",PREMIERE 2
 http://paraisotv.ddns.net:80/099/myStream/live.m3u8
-#EXTINF:4 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
+#EXTINF:7 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
 http://paraisotv.ddns.net:80/100/myStream/live.m3u8
-#EXTINF:4 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
+#EXTINF:7 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
 http://paraisotv.ddns.net:80/c008/myStream/live.m3u8
 ===============================================================Esportes=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Futebol",FOX SPORTS
@@ -140,8 +140,8 @@ https://gitlab.com/camillo20/camillofilmes/raw/master/.Camillofilmes
 ==============================================================Movies============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies
 https://ip31570270.ahcdn.com/key=XKC04dMF1+nQCTclZ-1Bxg,s=,end=1528050188/state=sVRl/reftag=063878343/media=hls/18/121/1/31964631.m3u8
-#EXTINF:4 tvg-shift=-3 group-title="Videos",Movies
-https://ip86869355.ahcdn.com/key=ORWNK+811IPCV8tAG8HmjA,s=,end=1528056369/state=sVRl/reftag=063878343/media=hls/ssd7/121/3/44272373.m3u8
+#EXTINF:7 tvg-shift=-3 group-title="Videos",Movies
+https://ip50693630.ahcdn.com/key=n481SvxprjbsIoNBtGOkeg,s=,end=1528065814/state=sVRl/reftag=063878343/media=hls/25/121/7/32738367.m3u8
 #EXTINF:-1 tvg-shift=-3 group-title="Videos",Movies
 #EXTINF:-1 tvg-shift=-3 group-title="Videos",Movies
 ==============================================================Series============================================================
