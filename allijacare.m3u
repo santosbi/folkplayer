@@ -34,8 +34,8 @@ http://190.2.141.14:25461/live/Brasil/Brasil/204.m3u8?token=GhYKVkRZElgXBVoBVlBX
 #EXTINF:4 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
 http://190.2.141.14:25461/live/Brasil/Brasil/204.m3u8?token=GhYKVkRZElgXBVoBVlBXAQZVUQcEDQVRCw5VAl9ZCAVVBFIEAVNVBAUTTxNGFhNRVg9qW1EXDgcJDB0XE0tdEz5dBhUNEwNUAQdBHRcWCFlSQA8CGRdEXF0aCxdXAQtYQxhAUk9FVRBbUA9uUQcXXVQHFwhbQFhZFRpeWzlcXQwAWgYVDRMBQBkTCkJFQFsWeQdBQUBZFHxXTFRHCF1MQSNVDFNWEXwDR1YCEXkWBVUVThdQXEFGVE1dEw9EDQ1XQxhAVFhEXhZHSEELFyAzFhtAUEpBUFpGUFdfF1waVVIUDEAbFVhDPUdUEEVHBwBZUhAXCBcFFhkbVVBNOVtXDw9RAUNeXl4RFwtBAhdOQ1lYDFxGWkdrRVBcEw9ECQ1SUQNASg==
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
-http://165.227.180.24/sportv/tracks-v1a1/playlist.m3u8?pxAuth=KaseMfwCb5WdVDmxBCEaVHboAPyoZWxF
-=============================================================Esportes=============================================================
+http://190.2.141.14:25461/live/Brasil/Brasil/5413.m3u8?token=GhYKVkRZElgXAFQIDVdZDVFWBgJRVwxTWAxSUVYNWVRYB1JWBlJRB1QTTxNGFhNRVg9qW1EXDgANCQIZRE1LBBNrC1MVCxJRAwVVExlAFV1aBxcIBRkWRVBcEw9ECQlYUwRAGxVUSBZQQw1QWT0FUUELVlcXD1pAVVQdFwlWZwUEWQNZUxMKQAQTTxNcEREWDUB7V0FGQVkZcV9BA0pWBBUUIFZZVVFCeVARVlRCLUBTAxceF1ddQUtZRVBEAhpTVgFbFRsTUw1AXxdDTEBbFnUwFx4XUExBXFZCXAlWGltDWVFCDxMcQFxCPENQERVGUgNYV0cXDhcJGh0XC1lAPgJbDFlSUkQLWl8QEw9AUhYbQFhdW1xAWktnQVwCGgJDUAVaAAMTTQ==
+===============================================================Esportes=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Futebol",FOX SPORTS
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/4/playlist.m3u8
