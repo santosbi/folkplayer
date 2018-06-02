@@ -29,12 +29,18 @@ http://165.227.65.252/premiere4/tracks-v1a1/playlist.m3u8?pxAuth=g2BRjG4C2BBjq2i
 https://www.youtube.com/watch?v=SUT4DLhU3dc
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://www.youtube.com/watch?v=yBC02hKBTlQ
-#EXTINF:7 tvg-shift=-3  group-title="Canais Beta",PREMIERE 2
+#EXTINF:11 tvg-shift=-3  group-title="Canais Beta",PREMIERE 2
 http://paraisotv.ddns.net:80/099/myStream/live.m3u8
-#EXTINF:7 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
+#EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
 http://paraisotv.ddns.net:80/100/myStream/live.m3u8
-#EXTINF:7 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
+#EXTINF:11 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
 http://paraisotv.ddns.net:80/c008/myStream/live.m3u8
+#EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 4
+http://paraisotv.ddns.net:80/110/myStream/live.m3u8
+#EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 5
+http://paraisotv.ddns.net:80/044/myStream/live.m3u8
+#EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE CLUB
+http://paraisotv.ddns.net:80/097/myStream/live.m3u8
 ===============================================================Esportes=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Futebol",FOX SPORTS
 #EXTBG: #11609e
