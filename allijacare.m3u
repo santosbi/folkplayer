@@ -29,10 +29,10 @@ http://165.227.65.252/premiere4/tracks-v1a1/playlist.m3u8?pxAuth=g2BRjG4C2BBjq2i
 https://www.youtube.com/watch?v=SUT4DLhU3dc
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://www.youtube.com/watch?v=yBC02hKBTlQ
-#EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",FOX
-http://165.227.180.24/foxhd/tracks-v1a1/playlist.m3u8?pxAuth=KaseMfwCb5WdVDmxBCEaVHboAPyoZWxF
-#EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",ESPN HD
-http://165.227.180.24/espnhd/tracks-v1a1/playlist.m3u8?pxAuth=nWeiyGswFzQUce1QQH8wHSbhk4YISNcm
+#EXTINF:4 tvg-shift=-3  group-title="Canais Beta",PREMIERE 2
+http://190.2.141.14:25461/live/Brasil/Brasil/204.m3u8?token=GhYKVkRZElgXBVoBVlBXAQZVUQcEDQVRCw5VAl9ZCAVVBFIEAVNVBAUTTxNGFhNRVg9qW1EXDgcJDB0XE0tdEz5dBhUNEwNUAQdBHRcWCFlSQA8CGRdEXF0aCxdXAQtYQxhAUk9FVRBbUA9uUQcXXVQHFwhbQFhZFRpeWzlcXQwAWgYVDRMBQBkTCkJFQFsWeQdBQUBZFHxXTFRHCF1MQSNVDFNWEXwDR1YCEXkWBVUVThdQXEFGVE1dEw9EDQ1XQxhAVFhEXhZHSEELFyAzFhtAUEpBUFpGUFdfF1waVVIUDEAbFVhDPUdUEEVHBwBZUhAXCBcFFhkbVVBNOVtXDw9RAUNeXl4RFwtBAhdOQ1lYDFxGWkdrRVBcEw9ECQ1SUQNASg==
+#EXTINF:4 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
+http://190.2.141.14:25461/live/Brasil/Brasil/204.m3u8?token=GhYKVkRZElgXBVoBVlBXAQZVUQcEDQVRCw5VAl9ZCAVVBFIEAVNVBAUTTxNGFhNRVg9qW1EXDgcJDB0XE0tdEz5dBhUNEwNUAQdBHRcWCFlSQA8CGRdEXF0aCxdXAQtYQxhAUk9FVRBbUA9uUQcXXVQHFwhbQFhZFRpeWzlcXQwAWgYVDRMBQBkTCkJFQFsWeQdBQUBZFHxXTFRHCF1MQSNVDFNWEXwDR1YCEXkWBVUVThdQXEFGVE1dEw9EDQ1XQxhAVFhEXhZHSEELFyAzFhtAUEpBUFpGUFdfF1waVVIUDEAbFVhDPUdUEEVHBwBZUhAXCBcFFhkbVVBNOVtXDw9RAUNeXl4RFwtBAhdOQ1lYDFxGWkdrRVBcEw9ECQ1SUQNASg==
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
 http://165.227.180.24/sportv/tracks-v1a1/playlist.m3u8?pxAuth=KaseMfwCb5WdVDmxBCEaVHboAPyoZWxF
 =============================================================Esportes=============================================================
@@ -139,13 +139,9 @@ https://gitlab.com/camillo20/camillofilmes/raw/master/.Camillofilmes
 
 ==============================================================Movies============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Videos",Movies
-https://psv16-1.crazycloud.ru/videos/-14292589/456244532/360.mp4?extra=Q6Zca9v9n4ulKewY-Mlc1A
 #EXTINF:-1 tvg-shift=-3 group-title="Videos",Movies
-https://psv21-1.daxab.com/videos/-14292589/456242338/360.mp4?extra=jGp49KKewB64QbkPXG6shw
 #EXTINF:-1 tvg-shift=-3 group-title="Videos",Movies
-https://psv26-1.daxab.com/videos/-119131714/456239166/360.mp4?extra=EZbcP0VjbLHI0FLwddH3GA
 #EXTINF:-1 tvg-shift=-3 group-title="Videos",Movies
-https://oload.stream/stream/SDnjsyNPREE~1527962320~177.84.0.0~OJwwzgPo?mime=true
 ==============================================================Series============================================================
 ============================================================South Park==========================================================
 #EXTINF:0 tvg-logo="http://i.imgur.com/slGftt7.jpg" group-title="South Park",01 South Park
