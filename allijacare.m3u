@@ -39,7 +39,7 @@ http://paraisotv.ddns.net:80/c008/myStream/live.m3u8
 http://paraisotv.ddns.net:80/110/myStream/live.m3u8
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 5
 http://paraisotv.ddns.net:80/044/myStream/live.m3u8
-#EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE CLUB
+#EXTINF:25 tvg-shift=-3 group-title="Canais Beta",PREMIERE CLUB
 http://paraisotv.ddns.net:80/097/myStream/live.m3u8
 ===============================================================Esportes=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Futebol",FOX SPORTS
