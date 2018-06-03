@@ -146,10 +146,12 @@ https://gitlab.com/camillo20/camillofilmes/raw/master/.Camillofilmes
 ==============================================================Movies============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies
 https://ip31570270.ahcdn.com/key=XKC04dMF1+nQCTclZ-1Bxg,s=,end=1528050188/state=sVRl/reftag=063878343/media=hls/18/121/1/31964631.m3u8
-#EXTINF:7 tvg-shift=-3 group-title="Videos",Movies
+#EXTINF:4 tvg-shift=-3 group-title="Videos",Movies
 https://ip50693630.ahcdn.com/key=n481SvxprjbsIoNBtGOkeg,s=,end=1528065814/state=sVRl/reftag=063878343/media=hls/25/121/7/32738367.m3u8
-#EXTINF:-1 tvg-shift=-3 group-title="Videos",Movies
-#EXTINF:-1 tvg-shift=-3 group-title="Videos",Movies
+#EXTINF:4 tvg-shift=-3 group-title="Videos",Movies
+https://oload.stream/stream/5aOZ2pqrSG4~1528076338~177.84.0.0~i4j7X-iW?mime=true
+#EXTINF:4 tvg-shift=-3 group-title="Videos",Movies
+https://oload.stream/stream/21CKScRO9OE~1528076380~177.84.0.0~w3xJStA1?mime=true
 ==============================================================Series============================================================
 ============================================================South Park==========================================================
 #EXTINF:0 tvg-logo="http://i.imgur.com/slGftt7.jpg" group-title="South Park",01 South Park
