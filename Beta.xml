@@ -4,6 +4,10 @@
 <category_id>1</category_id>
 <category_title>PLAYLIST</category_title>
 </category>
+<category>
+<category_id>2</category_id>
+<category_title>TV Aberta</category_title>
+</category>  
 
 <channel>
 <title>Qccx24pA</title>
@@ -46,17 +50,20 @@
 <playlist_url><![CDATA[https://pastebin.com/raw/9NSJgUU3]]></playlist_url>
 </channel>
 <channel>
+<category_id>2</category_id>  
 <title>GLOBO SP</title>
 <logo_30x30>https://vignette.wikia.nocookie.net/logos/images/f/fe/185px-Globo_logo_2014.png/revision/latest?cb=20150114180048&path-prefix=pt</logo_30x30>
 <stream_url><![CDATA[http://apk.goo.ac:8081/live/17/playlist.m3u8]]></stream_url>
 </channel>
 <channel>
-<title>AMC</title>
-<logo_30x30>https://www.directv.com/images/logos/channels/dark/large/313.png</logo_30x30>
-<stream_url><![CDATA[http://paraisotv.ddns.net:80/007/myStream/live.m3u8]]></stream_url>
-</channel>  
-<channel id="AMC">
-<display-name lang="pt">AMC</display-name>
+<category_id>2</category_id>  
+<title>BAND</title>
+<logo_30x30>https://auvaromaia.com/wp-content/uploads/2015/01/BandTV.png</logo_30x30>
+<stream_url><![CDATA[http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8]]></stream_url>
+</channel>
+<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">  
+<channel id="Band">
+<display-name lang="pt">BAND</display-name>
 <url>http://www.lineup.net.br</url>
 </channel  
 </items>
