@@ -5,7 +5,7 @@
 #EXTBG: #11609e
 https://www.youtube.com/watch?v=sjRIQBAQj-0
 
-#EXTINF:0 tvg-shift=-3 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="TV Aberta",GLOBO SP
+#EXTINF:0 tvg-shift=-3 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="TV Aberta;FUTEBOL AO VIVO",GLOBO SP
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/17/playlist.m3u8
 
@@ -42,7 +42,7 @@ http://paraisotv.ddns.net:80/044/myStream/live.m3u8
 #EXTINF:50 tvg-shift=-3 group-title="Canais Beta",PREMIERE CLUB
 http://paraisotv.ddns.net:80/097/myStream/live.m3u8
 ===============================================================Esportes=============================================================
-#EXTINF:4 tvg-shift=-3 group-title="Futebol",FOX SPORTS
+#EXTINF:4 tvg-shift=-3 group-title="Futebol;FUTEBOL AO VIVO",FOX SPORTS
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/4/playlist.m3u8
 
@@ -90,47 +90,47 @@ http://apk.goo.ac:8081/live/19/playlist.m3u8
 #EXTBG: #11609e
 http://apk.goo.ac:8081/live/2/playlist.m3u8
 ================================================================Clipe===========================================================
-#EXTINF:0 tvg-shift=-3 group-title="Clipe",Radio Capital TiVù
+#EXTINF:4 tvg-shift=-3 group-title="Clipe",Radio Capital TiVù
 #EXTBG: #11609e
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
 ================================================================Radios==========================================================
-#EXTINF:0 tvg-shift=-3 group-title="RÁDIOS",LOVE SONGS
+#EXTINF:4 tvg-shift=-3 group-title="RÁDIOS",LOVE SONGS
 #EXTBG: #11609e
 http://192.99.150.31:8897/stream
 
-#EXTINF:0 tvg-shift=-3 group-title="RÁDIOS",ANTENA 1 RJ
+#EXTINF:4 tvg-shift=-3 group-title="RÁDIOS",ANTENA 1 RJ
 #EXTBG: #11609e
 http://a1rj.streams.com.br:7801/stream
 
-#EXTINF:0 tvg-shift=-3 group-title="RÁDIOS",ALFHA FM SP
+#EXTINF:4 tvg-shift=-3 group-title="RÁDIOS",ALFHA FM SP
 #EXTBG: #11609e
 https://slave.shoutcast.com/AlphaFM101-7
 
-#EXTINF:-1 tvg-shift=-3 group-title="RÁDIOS",JOVEM PAN 
+#EXTINF:4 tvg-shift=-3 group-title="RÁDIOS",JOVEM PAN 
 #EXTBG: #11609e
 http://18763.live.streamtheworld.com/JP_SP_FMAAC.aac
 
-#EXTINF:-1 tvg-shift=-3 group-title="RÁDIOS",RÁDIO GLOBO - RJ
+#EXTINF:4 tvg-shift=-3 group-title="RÁDIOS",RÁDIO GLOBO - RJ
 #EXTBG: #11609e
 http://stream.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
 
-#EXTINF:-1 tvg-shift=-3 group-title="RÁDIOS",RÁDIO GLOBO - SP
+#EXTINF:4 tvg-shift=-3 group-title="RÁDIOS",RÁDIO GLOBO - SP
 #EXTBG: #11609e
 http://stream.sgr.globo.com/hls/aRGloboSP/aRGloboSP.m3u8
 
-#EXTINF:-1 tvg-shift=-3 group-title="RÁDIOS",ROMÂNTICAS
+#EXTINF:4 tvg-shift=-3 group-title="RÁDIOS",ROMÂNTICAS
 #EXTBG: #11609e
 http://192.99.150.31:8962/stream
 ==========================================================Câmeras===============================================================
-#EXTINF:0 tvg-shift=-3 group-title="Câmeras Ao Vivo",BAR SLOPPY JOE'S EM KEY WEST(CAMERA EXTERNA)
+#EXTINF:4 tvg-shift=-3 group-title="Câmeras Ao Vivo",BAR SLOPPY JOE'S EM KEY WEST(CAMERA EXTERNA)
 #EXTBG: #11609e
 http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/chunklist_w634624487.m3u8
 
-#EXTINF:-1 tvg-shift=-3 group-title="Câmeras Ao Vivo",GERMANY
+#EXTINF:4 tvg-shift=-3 group-title="Câmeras Ao Vivo",GERMANY
 #EXTBG: #11609e
 http://stream.livespotting.tv/windit-edge/vv101_720p.stream/playlist.m3u8
 
-#EXTINF:-1tvg-shift=-3 tvg-logo="https://s24.postimg.org/7k8y54p9x/Ao_Vivologo.png" group-title="Câmeras Ao Vivo",PICO DO GAVIÃO - ANDRADAS MG
+#EXTINF:4 tvg-shift=-3 tvg-logo="https://s24.postimg.org/7k8y54p9x/Ao_Vivologo.png" group-title="Câmeras Ao Vivo",PICO DO GAVIÃO - ANDRADAS MG
 #EXTBG: #11609e
 http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m3u8
 
