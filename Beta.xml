@@ -62,6 +62,11 @@
 <playlist_url><![CDATA[https://pastebin.com/raw/9NSJgUU3]]></playlist_url>
 </channel>
 <channel>
+<channel>
+<title>tvfoco</title>
+<category_id>1</category_id>
+<playlist_url><![CDATA[http://tvfo.co/tvfoco]></playlist_url>
+</channel>  
 <category_id>2,5</category_id>  
 <title>GLOBO SP</title>
 <logo_30x30>https://vignette.wikia.nocookie.net/logos/images/f/fe/185px-Globo_logo_2014.png/revision/latest?cb=20150114180048&path-prefix=pt</logo_30x30>
