@@ -12,6 +12,10 @@
 <category_id>3</category_id>
 <category_title>Canal Esportivo</category_title>
 </category>
+<category>
+<category_id>4</category_id>
+<category_title>Canal Beta</category_title>
+</category>
   
 <channel>
 <title>Qccx24pA</title>
@@ -82,4 +86,16 @@
 <title>REDE BRASIL</title>
 <logo_30x30>https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png</logo_30x30>
 <stream_url><![CDATA[http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8]]></stream_url>
+</channel>
+<channel>  
+<category_id>4</category_id>  
+<title>SPORTV</title>
+<logo_30x30>https://i0.wp.com/www.bestswim.com.br/wp-content/uploads/2018/04/facebook.png?fit=600%2C315</logo_30x30>
+<stream_url><![CDATA[http://paraisotv.ddns.net:80/c008/myStream/live.m3u8]]></stream_url>
+</channel>
+<channel>  
+<category_id>4</category_id>  
+<title>PREMIERE CLUB</title>
+<logo_30x30>https://1.bp.blogspot.com/-uJPqxG4XGdo/WUB-LlcpvRI/AAAAAAAA7YE/etpUn8rjXIUEdasecDSDsIgtdKrXp2ANQCPcBGAYYCw/s640/premeire.png</logo_30x30>
+<stream_url><![CDATA[http://paraisotv.ddns.net:80/097/myStream/live.m3u8]]></stream_url>
 </channel>  
