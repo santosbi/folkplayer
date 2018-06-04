@@ -31,9 +31,9 @@
 <playlist_url><![CDATA[https://pastebin.com/raw/J4vuLgdp]]></playlist_url>
 </channel>  
 <channel>  
-<title>dmiptv-fs</title>
+<title>Iptvvictor_ListaVip</title>
 <category_id>1</category_id>
-<playlist_url><![CDATA[http://bit.ly/dmiptv-fs]]></playlist_url>
+<playlist_url><![CDATA[http://bit.ly/Iptvvictor_ListaVip]]></playlist_url>
 </channel>
 <channel>  
 <title>elitebox</title>
@@ -41,13 +41,22 @@
 <playlist_url><![CDATA[https://gitlab.com/rei1401/elitebox/raw/master/elitebox]]></playlist_url>
 </channel>
 <channel>  
-<title>FamiliaReges</title>
+<title>9NSJgUU3</title>
 <category_id>1</category_id>
-<playlist_url><![CDATA[https://minhalista.live/FamiliaReges]]></playlist_url>
+<playlist_url><![CDATA[https://pastebin.com/raw/9NSJgUU3]]></playlist_url>
 </channel>
 <channel>
 <title>GLOBO SP</title>
 <logo_30x30>https://vignette.wikia.nocookie.net/logos/images/f/fe/185px-Globo_logo_2014.png/revision/latest?cb=20150114180048&path-prefix=pt</logo_30x30>
 <stream_url><![CDATA[http://apk.goo.ac:8081/live/17/playlist.m3u8]]></stream_url>
+</channel>
+<channel>
+<title>AMC</title>
+<logo_30x30>https://www.directv.com/images/logos/channels/dark/large/313.png</logo_30x30>
+<stream_url><![CDATA[http://paraisotv.ddns.net:80/007/myStream/live.m3u8]]></stream_url>
 </channel>  
+<channel id="AMC">
+<display-name lang="pt">AMC</display-name>
+<url>http://www.lineup.net.br</url>
+</channel  
 </items>
