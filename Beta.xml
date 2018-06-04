@@ -2,21 +2,17 @@
 <items>
 <category>
 <category_id>1</category_id>
-<category_title>TV Aberta</category_title>
-</category>
-<category>
-<category_id>ESPORTE</category_id>
-<category_title>Категория 2</category_title>
+<category_title>BETA</category_title>
 </category>
 
 <channel>
-<title>GLOBO SP</title>
-<category_id>1,2</category_id>
-<playlist_url><![CDATA[http://apk.goo.ac:8081/live/17/playlist.m3u8]]></playlist_url>
+<title>Qccx24pA</title>
+<category_id>1</category_id>
+<playlist_url><![CDATA[http://pastebin.com/raw/Qccx24pA]]></playlist_url>
 </channel>
 <channel>
-<title>PREMIERE CLUB</title>
-<category_id>2</category_id>
-<playlist_url><![CDATA[http://paraisotv.ddns.net:80/097/myStream/live.m3u8]]></playlist_url>
+<title>nLYzKWS6</title>
+<category_id>1</category_id>
+<playlist_url><![CDATA[https://pastebin.com/raw/nLYzKWS6]]></playlist_url>
 </channel>
 </items>
