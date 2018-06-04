@@ -16,6 +16,10 @@
 <category_id>4</category_id>
 <category_title>Canal Beta</category_title>
 </category>
+<category>
+<category_id>5</category_id>
+<category_title>FUTEBOL AO VIVO</category_title>
+</category>  
   
 <channel>
 <title>Qccx24pA</title>
@@ -58,7 +62,7 @@
 <playlist_url><![CDATA[https://pastebin.com/raw/9NSJgUU3]]></playlist_url>
 </channel>
 <channel>
-<category_id>2</category_id>  
+<category_id>2,5</category_id>  
 <title>GLOBO SP</title>
 <logo_30x30>https://vignette.wikia.nocookie.net/logos/images/f/fe/185px-Globo_logo_2014.png/revision/latest?cb=20150114180048&path-prefix=pt</logo_30x30>
 <stream_url><![CDATA[http://apk.goo.ac:8081/live/17/playlist.m3u8]]></stream_url>
@@ -98,4 +102,34 @@
 <title>PREMIERE CLUB</title>
 <logo_30x30>https://1.bp.blogspot.com/-uJPqxG4XGdo/WUB-LlcpvRI/AAAAAAAA7YE/etpUn8rjXIUEdasecDSDsIgtdKrXp2ANQCPcBGAYYCw/s640/premeire.png</logo_30x30>
 <stream_url><![CDATA[http://paraisotv.ddns.net:80/097/myStream/live.m3u8]]></stream_url>
+</channel>
+<channel>  
+<category_id>3,5</category_id>  
+<title>FOXSPORTS</title>
+<logo_30x30>https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png</logo_30x30>
+<stream_url><![CDATA[http://apk.goo.ac:8081/live/4/playlist.m3u8]]></stream_url>
+</channel>
+<channel>  
+<category_id>3</category_id>  
+<title>FOXSPORTS 2</title>
+<logo_30x30>https://vignette.wikia.nocookie.net/logosfake/images/7/7e/Fox_Sports_2_logo.png/revision/latest?cb=20150605231953</logo_30x30>
+<stream_url><![CDATA[http://apk.goo.ac:8081/live/13/playlist.m3u8]]></stream_url>
+</channel>
+<channel>  
+<category_id>3</category_id>  
+<title>SPORTV</title>
+<logo_30x30>https://www.torcedores.com/content/uploads/2016/11/Sportv-590x354.png</logo_30x30>
+<stream_url><![CDATA[http://apk.goo.ac:8081/live/20/playlist.m3u8]]></stream_url>
+</channel>
+<channel>  
+<category_id>3</category_id>  
+<title>SPORTV 2</title>
+<logo_30x30>http://3.bp.blogspot.com/-nnEamviMDpI/U2Lg5QpFBZI/AAAAAAAAHvE/PgvDS2tIlhk/s1600/sportv2-logo-online-web-24-horas4.png</logo_30x30>
+<stream_url><![CDATA[http://apk.goo.ac:8081/live/15/playlist.m3u8]]></stream_url>
+</channel>
+<channel>  
+<category_id>3</category_id>  
+<title>SPORTV 3</title>
+<logo_30x30>https://2.bp.blogspot.com/-1crfruNlcJM/V6aSok7pRKI/AAAAAAAAA0U/X5doIQg1P88HmK9Yfg3lAGDKYrtwj-Q8QCLcB/s1600/3.png</logo_30x30>
+<stream_url><![CDATA[http://apk.goo.ac:8081/live/7/playlist.m3u8]]></stream_url>
 </channel>  
