@@ -8,7 +8,11 @@
 <category_id>2</category_id>
 <category_title>TV Aberta</category_title>
 </category>  
-
+<category>
+<category_id>3</category_id>
+<category_title>Canal Esportivo</category_title>
+</category>
+  
 <channel>
 <title>Qccx24pA</title>
 <category_id>1</category_id>
@@ -64,13 +68,13 @@
 <channel>
 <category_id>2</category_id>  
 <title>SBT</title>
-<logo_30x30>https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1-1.png</logo_30x30>
+<logo_30x30>https://vignette.wikia.nocookie.net/chiquititas2013/images/9/97/SBT_Logo.png/revision/latest?cb=20130630132841&path-prefix=pt-br</logo_30x30>
 <stream_url><![CDATA[https://www.youtube.com/watch?v=sjRIQBAQj-0]]></stream_url>
 </channel>
 <channel>
 <category_id>2</category_id>  
 <title>REDE TV!</title>
-<logo_30x30>http://minutoligado.com.br/wp-content/uploads/2013/08/Rede-Tv-Hd-alan-junior-de-queiroz.png</logo_30x30>
+<logo_30x30>https://upload.wikimedia.org/wikipedia/pt/archive/1/1d/20180330131441%21LOGO_REDETV%21.png</logo_30x30>
 <stream_url><![CDATA[http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8]]></stream_url>
 </channel>  
 <channel>
