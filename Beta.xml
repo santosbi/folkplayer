@@ -61,9 +61,21 @@
 <logo_30x30>https://auvaromaia.com/wp-content/uploads/2015/01/BandTV.png</logo_30x30>
 <stream_url><![CDATA[http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8]]></stream_url>
 </channel>
-<tv generator-info-name="WebGrab+Plus/w MDB &amp; REX Postprocess -- version  V2.1 -- Jan van Straaten" generator-info-url="http://www.webgrabplus.com">  
-<channel id="Band">
-<display-name lang="pt">BAND</display-name>
-<url>http://www.lineup.net.br</url>
-</channel  
-</items>
+<channel>
+<category_id>2</category_id>  
+<title>SBT</title>
+<logo_30x30>https://logodownload.org/wp-content/uploads/2013/12/sbt-logo-1-1.png</logo_30x30>
+<stream_url><![CDATA[https://www.youtube.com/watch?v=sjRIQBAQj-0]]></stream_url>
+</channel>
+<channel>
+<category_id>2</category_id>  
+<title>REDE TV!</title>
+<logo_30x30>http://minutoligado.com.br/wp-content/uploads/2013/08/Rede-Tv-Hd-alan-junior-de-queiroz.png</logo_30x30>
+<stream_url><![CDATA[http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8]]></stream_url>
+</channel>  
+<channel>
+<category_id>2</category_id>  
+<title>REDE BRASIL</title>
+<logo_30x30>https://upload.wikimedia.org/wikipedia/pt/3/39/Logotipo_da_Rede_Brasil_de_Televis%C3%A3o.png</logo_30x30>
+<stream_url><![CDATA[http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8]]></stream_url>
+</channel>  
