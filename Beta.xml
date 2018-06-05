@@ -104,6 +104,24 @@
 </channel>
 <channel>  
 <category_id>4</category_id>  
+<title>PREMIERE 2</title>
+<logo_30x30>http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png</logo_30x30>
+<stream_url><![CDATA[http://paraisotv.ddns.net:80/099/myStream/live.m3u8]]></stream_url>
+</channel>
+<channel>  
+<category_id>4</category_id>  
+<title>PREMIERE 3</title>
+<logo_30x30>http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png</logo_30x30>
+<stream_url><![CDATA[http://paraisotv.ddns.net:80/100/myStream/live.m3u8]]></stream_url>
+</channel>
+<channel>  
+<category_id>4</category_id>  
+<title>PREMIERE 4</title>
+<logo_30x30>http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png</logo_30x30>
+<stream_url><![CDATA[http://paraisotv.ddns.net:80/110/myStream/live.m3u8]]></stream_url>
+</channel>  
+<channel>  
+<category_id>4</category_id>  
 <title>PREMIERE CLUB</title>
 <logo_30x30>https://1.bp.blogspot.com/-uJPqxG4XGdo/WUB-LlcpvRI/AAAAAAAA7YE/etpUn8rjXIUEdasecDSDsIgtdKrXp2ANQCPcBGAYYCw/s640/premeire.png</logo_30x30>
 <stream_url><![CDATA[http://paraisotv.ddns.net:80/097/myStream/live.m3u8]]></stream_url>
@@ -117,24 +135,56 @@
 <channel>  
 <category_id>3</category_id>  
 <title>FOXSPORTS 2</title>
-<logo_30x30>https://vignette.wikia.nocookie.net/logosfake/images/7/7e/Fox_Sports_2_logo.png/revision/latest?cb=20150605231953</logo_30x30>
+<logo_30x30>https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png</logo_30x30>
 <stream_url><![CDATA[http://apk.goo.ac:8081/live/13/playlist.m3u8]]></stream_url>
 </channel>
 <channel>  
 <category_id>3</category_id>  
 <title>SPORTV</title>
-<logo_30x30>https://www.torcedores.com/content/uploads/2016/11/Sportv-590x354.png</logo_30x30>
+<logo_30x30>https://1.bp.blogspot.com/-uJPqxG4XGdo/WUB-LlcpvRI/AAAAAAAA7YE/etpUn8rjXIUEdasecDSDsIgtdKrXp2ANQCPcBGAYYCw/s640/premeire.png</logo_30x30>
 <stream_url><![CDATA[http://apk.goo.ac:8081/live/20/playlist.m3u8]]></stream_url>
 </channel>
 <channel>  
 <category_id>3</category_id>  
 <title>SPORTV 2</title>
-<logo_30x30>http://3.bp.blogspot.com/-nnEamviMDpI/U2Lg5QpFBZI/AAAAAAAAHvE/PgvDS2tIlhk/s1600/sportv2-logo-online-web-24-horas4.png</logo_30x30>
+<logo_30x30>https://1.bp.blogspot.com/-uJPqxG4XGdo/WUB-LlcpvRI/AAAAAAAA7YE/etpUn8rjXIUEdasecDSDsIgtdKrXp2ANQCPcBGAYYCw/s640/premeire.png</logo_30x30>
 <stream_url><![CDATA[http://apk.goo.ac:8081/live/15/playlist.m3u8]]></stream_url>
 </channel>
 <channel>  
 <category_id>3</category_id>  
 <title>SPORTV 3</title>
-<logo_30x30>https://2.bp.blogspot.com/-1crfruNlcJM/V6aSok7pRKI/AAAAAAAAA0U/X5doIQg1P88HmK9Yfg3lAGDKYrtwj-Q8QCLcB/s1600/3.png</logo_30x30>
+<logo_30x30>https://1.bp.blogspot.com/-uJPqxG4XGdo/WUB-LlcpvRI/AAAAAAAA7YE/etpUn8rjXIUEdasecDSDsIgtdKrXp2ANQCPcBGAYYCw/s640/premeire.png</logo_30x30>
 <stream_url><![CDATA[http://apk.goo.ac:8081/live/7/playlist.m3u8]]></stream_url>
-</channel>  
+</channel>
+<channel>
+<title>FUTEBOL AO VIVO</title>
+<category_id>5</category_id>
+<playlist_url><![CDATA[http://apk.goo.ac:8081/live/2/playlist.m3u8]]></playlist_url>
+</channel>
+</items>
+<channel>
+<title>FUTEBOL AO VIVO</title>
+<category_id>5</category_id>
+<playlist_url><![CDATA[http://apk.goo.ac:8081/live/3/playlist.m3u8]]></playlist_url>
+</channel>
+</items>
+<channel>
+<title>FUTEBOL AO VIVO</title>
+<category_id>5</category_id>
+<playlist_url><![CDATA[http://apk.goo.ac:8081/live/8/playlist.m3u8]]></playlist_url>
+</channel>
+</items>
+<channel>
+<title>FUTEBOL AO VIVO</title>
+<category_id>5</category_id>
+<playlist_url><![CDATA[http://apk.goo.ac:8081/live/16/playlist.m3u8]]></playlist_url>
+</channel>
+</items>
+<channel>
+<title>FUTEBOL AO VIVO</title>
+<category_id>5</category_id>
+<playlist_url><![CDATA[http://apk.goo.ac:8081/live/19/playlist.m3u8]]></playlist_url>
+</channel>
+</items>
+
+
