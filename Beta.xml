@@ -141,49 +141,49 @@
 <channel>  
 <category_id>3</category_id>  
 <title>SPORTV</title>
-<logo_30x30>https://1.bp.blogspot.com/-uJPqxG4XGdo/WUB-LlcpvRI/AAAAAAAA7YE/etpUn8rjXIUEdasecDSDsIgtdKrXp2ANQCPcBGAYYCw/s640/premeire.png</logo_30x30>
+<logo_30x30>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/800px-SporTV_logo_2011.png</logo_30x30>
 <stream_url><![CDATA[http://apk.goo.ac:8081/live/20/playlist.m3u8]]></stream_url>
 </channel>
 <channel>  
 <category_id>3</category_id>  
 <title>SPORTV 2</title>
-<logo_30x30>https://1.bp.blogspot.com/-uJPqxG4XGdo/WUB-LlcpvRI/AAAAAAAA7YE/etpUn8rjXIUEdasecDSDsIgtdKrXp2ANQCPcBGAYYCw/s640/premeire.png</logo_30x30>
+<logo_30x30>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/800px-SporTV_logo_2011.png</logo_30x30>
 <stream_url><![CDATA[http://apk.goo.ac:8081/live/15/playlist.m3u8]]></stream_url>
 </channel>
 <channel>  
 <category_id>3</category_id>  
 <title>SPORTV 3</title>
-<logo_30x30>https://1.bp.blogspot.com/-uJPqxG4XGdo/WUB-LlcpvRI/AAAAAAAA7YE/etpUn8rjXIUEdasecDSDsIgtdKrXp2ANQCPcBGAYYCw/s640/premeire.png</logo_30x30>
+<logo_30x30>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/800px-SporTV_logo_2011.png</logo_30x30>
 <stream_url><![CDATA[http://apk.goo.ac:8081/live/7/playlist.m3u8]]></stream_url>
 </channel>
 <channel>
 <title>FUTEBOL AO VIVO</title>
 <category_id>5</category_id>
-<playlist_url><![CDATA[http://apk.goo.ac:8081/live/2/playlist.m3u8]]></playlist_url>
+<stream_url><![CDATA[http://apk.goo.ac:8081/live/2/playlist.m3u8]]></stream_url>
 </channel>
 </items>
 <channel>
 <title>FUTEBOL AO VIVO</title>
 <category_id>5</category_id>
-<playlist_url><![CDATA[http://apk.goo.ac:8081/live/3/playlist.m3u8]]></playlist_url>
+<stream_url><![CDATA[http://apk.goo.ac:8081/live/3/playlist.m3u8]]></stream_url>
 </channel>
 </items>
 <channel>
 <title>FUTEBOL AO VIVO</title>
 <category_id>5</category_id>
-<playlist_url><![CDATA[http://apk.goo.ac:8081/live/8/playlist.m3u8]]></playlist_url>
+<stream_url><![CDATA[http://apk.goo.ac:8081/live/8/playlist.m3u8]]></stream_url>
 </channel>
 </items>
 <channel>
 <title>FUTEBOL AO VIVO</title>
 <category_id>5</category_id>
-<playlist_url><![CDATA[http://apk.goo.ac:8081/live/16/playlist.m3u8]]></playlist_url>
+<stream_url><![CDATA[http://apk.goo.ac:8081/live/16/playlist.m3u8]]></stream_url>
 </channel>
 </items>
 <channel>
 <title>FUTEBOL AO VIVO</title>
 <category_id>5</category_id>
-<playlist_url><![CDATA[http://apk.goo.ac:8081/live/19/playlist.m3u8]]></playlist_url>
+<stream_url><![CDATA[http://apk.goo.ac:8081/live/19/playlist.m3u8]]></stream_url>
 </channel>
 </items>
 
