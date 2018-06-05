@@ -24,7 +24,7 @@ http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
 http://165.227.65.252/premiere4hd/tracks-v1a1/playlist.m3u8?pxAuth=g2BRjG4C2BBjq2itp05Z79fkZqSzXWv4
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-http://54.39.46.113/live/Sala/Sala/36970.m3u8
+https://www.youtube.com/watch?v=0wWBIrzlDvM
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBO
 https://www.youtube.com/watch?v=e9E1VVuJjvQ
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
