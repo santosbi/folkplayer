@@ -63,10 +63,11 @@
 </channel>
 <channel>
 <channel>
-<title>tvfoco</title>
+<title>dmiptv-fs</title>
 <category_id>1</category_id>
-<playlist_url><![CDATA[http://tvfo.co/tvfoco]></playlist_url>
-</channel>  
+<playlist_url><![CDATA[http://bit.ly/dmiptv-fs]></playlist_url>
+</channel>
+<channel>
 <category_id>2,5</category_id>  
 <title>GLOBO SP</title>
 <logo_30x30>https://vignette.wikia.nocookie.net/logos/images/f/fe/185px-Globo_logo_2014.png/revision/latest?cb=20150114180048&path-prefix=pt</logo_30x30>
@@ -157,22 +158,22 @@
 <stream_url><![CDATA[http://apk.goo.ac:8081/live/7/playlist.m3u8]]></stream_url>
 </channel>
 <channel>
-<title>FUTEBOL AO VIVO</title>
 <category_id>5</category_id>
+<title>FUTEBOL AO VIVO</title>
 <logo_30x30>https://cdn.icon-icons.com/icons2/553/PNG/512/footbal_icon-icons.com_53569.png<logo_30x30>  
 <stream_url><![CDATA[http://apk.goo.ac:8081/live/2/playlist.m3u8]]></stream_url>
 </channel>
 </items>
 <channel>
-<title>FUTEBOL AO VIVO</title>
 <category_id>5</category_id>
+<title>FUTEBOL AO VIVO</title>
 <logo_30x30>https://cdn.icon-icons.com/icons2/553/PNG/512/footbal_icon-icons.com_53569.png<logo_30x30>  
 <stream_url><![CDATA[http://apk.goo.ac:8081/live/3/playlist.m3u8]]></stream_url>
 </channel>
 </items>
 <channel>
-<title>FUTEBOL AO VIVO</title>
 <category_id>5</category_id>
+<title>FUTEBOL AO VIVO</title>
 <logo_30x30>https://cdn.icon-icons.com/icons2/553/PNG/512/footbal_icon-icons.com_53569.png<logo_30x30>  
 <stream_url><![CDATA[http://apk.goo.ac:8081/live/8/playlist.m3u8]]></stream_url>
 </channel>
@@ -185,8 +186,8 @@
 </channel>
 </items>
 <channel>
-<title>FUTEBOL AO VIVO</title>
 <category_id>5</category_id>
+<title>FUTEBOL AO VIVO</title>
 <logo_30x30>https://cdn.icon-icons.com/icons2/553/PNG/512/footbal_icon-icons.com_53569.png<logo_30x30>  
 <stream_url><![CDATA[http://apk.goo.ac:8081/live/19/playlist.m3u8]]></stream_url>
 </channel>
