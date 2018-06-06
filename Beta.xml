@@ -123,7 +123,7 @@
 <channel>  
 <category_id>4</category_id>  
 <title>PREMIERE CLUB</title>
-<logo_30x30>https://1.bp.blogspot.com/-uJPqxG4XGdo/WUB-LlcpvRI/AAAAAAAA7YE/etpUn8rjXIUEdasecDSDsIgtdKrXp2ANQCPcBGAYYCw/s640/premeire.png</logo_30x30>
+<logo_30x30>http://3.bp.blogspot.com/-MSPga26jEfs/UtbmcRy3wtI/AAAAAAAABw0/bS5xjhiLK8A/s1600/Captura+de+Tela+2014-01-15+a%CC%80s+17.49.51.png</logo_30x30>
 <stream_url><![CDATA[http://paraisotv.ddns.net:80/097/myStream/live.m3u8]]></stream_url>
 </channel>
 <channel>  
@@ -159,30 +159,35 @@
 <channel>
 <title>FUTEBOL AO VIVO</title>
 <category_id>5</category_id>
+<logo_30x30>https://cdn.icon-icons.com/icons2/553/PNG/512/footbal_icon-icons.com_53569.png<logo_30x30>  
 <stream_url><![CDATA[http://apk.goo.ac:8081/live/2/playlist.m3u8]]></stream_url>
 </channel>
 </items>
 <channel>
 <title>FUTEBOL AO VIVO</title>
 <category_id>5</category_id>
+<logo_30x30>https://cdn.icon-icons.com/icons2/553/PNG/512/footbal_icon-icons.com_53569.png<logo_30x30>  
 <stream_url><![CDATA[http://apk.goo.ac:8081/live/3/playlist.m3u8]]></stream_url>
 </channel>
 </items>
 <channel>
 <title>FUTEBOL AO VIVO</title>
 <category_id>5</category_id>
+<logo_30x30>https://cdn.icon-icons.com/icons2/553/PNG/512/footbal_icon-icons.com_53569.png<logo_30x30>  
 <stream_url><![CDATA[http://apk.goo.ac:8081/live/8/playlist.m3u8]]></stream_url>
 </channel>
 </items>
 <channel>
 <title>FUTEBOL AO VIVO</title>
 <category_id>5</category_id>
+<logo_30x30>https://cdn.icon-icons.com/icons2/553/PNG/512/footbal_icon-icons.com_53569.png<logo_30x30>  
 <stream_url><![CDATA[http://apk.goo.ac:8081/live/16/playlist.m3u8]]></stream_url>
 </channel>
 </items>
 <channel>
 <title>FUTEBOL AO VIVO</title>
 <category_id>5</category_id>
+<logo_30x30>https://cdn.icon-icons.com/icons2/553/PNG/512/footbal_icon-icons.com_53569.png<logo_30x30>  
 <stream_url><![CDATA[http://apk.goo.ac:8081/live/19/playlist.m3u8]]></stream_url>
 </channel>
 </items>
