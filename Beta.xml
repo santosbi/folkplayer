@@ -68,6 +68,16 @@
 <playlist_url><![CDATA[http://bit.ly/dmiptv-fs]></playlist_url>
 </channel>
 <channel>
+<title>canais-wgsr</title>
+<category_id>1</category_id>
+<playlist_url><![CDATA[bit.ly/canais-wgsr]]></playlist_url>
+</channel>
+<channel>
+<title>adultofnrl</title>
+<category_id>1</category_id>
+<playlist_url><![CDATA[https://minhalista.live/adultofnrl]]></playlist_url>
+</channel>  
+<channel>
 <category_id>2,5</category_id>  
 <title>GLOBO SP</title>
 <logo_30x30>https://vignette.wikia.nocookie.net/logos/images/f/fe/185px-Globo_logo_2014.png/revision/latest?cb=20150114180048&path-prefix=pt</logo_30x30>
