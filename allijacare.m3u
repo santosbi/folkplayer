@@ -22,9 +22,9 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-https://www.youtube.com/watch?v=eUgKUN57ies
+https://www.youtube.com/watch?v=UZGENBcNhTA
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-https://www.youtube.com/watch?v=oia8g9AIjE0
+https://www.youtube.com/watch?v=UOH0QlQhA5k
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBO
 https://www.youtube.com/watch?v=e9E1VVuJjvQ
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
@@ -147,9 +147,9 @@ https://gitlab.com/camillo20/camillofilmes/raw/master/.Camillofilmes
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies
 https://openload.co/stream/cmPQNwl56vA~1528557025~177.93.0.0~RtEOzv13?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies
-https://openload.co/stream/-thfperMsr0~1528509556~177.93.0.0~vCmuVxev?mime=true
+https://oload.stream/stream/pEh9ZCkdG2E~1528601682~177.84.0.0~juX7wRsn?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies
-https://oload.stream/stream/zZZ7sPwpmWk~1528555267~177.93.0.0~3-RessFz?mime=true
+https://oload.stream/stream/GYb6uVk7QVA~1528601781~177.84.0.0~-s36tuJ7?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies
 https://openload.co/stream/XEH9VUHA6lA~1528556408~177.93.0.0~YVM-ynQZ?mime=true
 ==============================================================Series============================================================
