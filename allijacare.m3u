@@ -22,7 +22,7 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-https://www.youtube.com/watch?v=UZGENBcNhTA
+https://www.youtube.com/watch?v=no8sWrWwy7k
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
 https://www.youtube.com/watch?v=UOH0QlQhA5k
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBO
@@ -147,11 +147,11 @@ https://gitlab.com/camillo20/camillofilmes/raw/master/.Camillofilmes
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies
 https://openload.co/stream/cmPQNwl56vA~1528557025~177.93.0.0~RtEOzv13?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies
-https://oload.stream/stream/pEh9ZCkdG2E~1528601682~177.84.0.0~juX7wRsn?mime=true
+https://openload.co/stream/uDAcmFZ0iGY~1528640863~177.84.0.0~eklVmlQM?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies
-https://oload.stream/stream/GYb6uVk7QVA~1528601781~177.84.0.0~-s36tuJ7?mime=true
+https://oload.stream/stream/mK6IsK37d78~1528640919~177.84.0.0~Z-Vwl2DX?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies
-https://openload.co/stream/XEH9VUHA6lA~1528556408~177.93.0.0~YVM-ynQZ?mime=true
+https://oload.stream/stream/WmCAFNpGtAo~1528641028~177.84.0.0~Gak18nFH?mime=true
 ==============================================================Series============================================================
 ============================================================South Park==========================================================
 #EXTINF:0 tvg-logo="http://i.imgur.com/slGftt7.jpg" group-title="South Park",01 South Park
