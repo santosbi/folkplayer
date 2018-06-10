@@ -28,9 +28,9 @@ https://www.youtube.com/watch?v=fa-7CMXVdi8
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBO
 https://www.youtube.com/watch?v=e9E1VVuJjvQ
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-http://212.237.41.112/pfc1hd/tracks-v1a1/playlist.m3u8?pxAuth=dXKocvpVhylNPBUUkemHgcZV7Hkzktf3
+http://212.237.41.112/sportv2hd/tracks-v1a1/playlist.m3u8?pxAuth=XbPZbtUqNqXyQmGiljWuHftePl3SeHwf
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-http://212.237.41.112/pfc6hd/tracks-v1a1/playlist.m3u8?pxAuth=dXKocvpVhylNPBUUkemHgcZV7Hkzktf3
+http://212.237.41.112/sportv2/tracks-v1a1/playlist.m3u8?pxAuth=XbPZbtUqNqXyQmGiljWuHftePl3SeHwf
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 http://212.237.41.112/pfc1/tracks-v1a1/playlist.m3u8?pxAuth=dXKocvpVhylNPBUUkemHgcZV7Hkzktf3
 #EXTINF:11 tvg-shift=-3  group-title="Canais Beta",PREMIERE 2
