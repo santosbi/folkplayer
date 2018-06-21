@@ -81,7 +81,12 @@
 <title>Camillofilmes</title>
 <category_id>1</category_id>
 <playlist_url><![CDATA[https://gitlab.com/camillo20/camillofilmes/raw/master/.Camillofilmes]]></playlist_url>
-</channel> 
+</channel>
+<channel>
+<title>FIX</title>
+<category_id>1</category_id>
+<playlist_url><![CDATA[https://minhalista.live/FIX]]></playlist_url>
+</channel>   
 <channel>
 <category_id>2,5</category_id>  
 <title>GLOBO SP</title>
