@@ -22,7 +22,7 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-https://www.youtube.com/watch?v=VBrsS_vEvsM
+https://www.youtube.com/watch?v=7l4qlAefr-A
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
 https://www.youtube.com/watch?v=BOj5OGJfs5w
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBO
