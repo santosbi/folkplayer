@@ -48,7 +48,7 @@ http://paraisotv.ddns.net:80/097/myStream/live.m3u8
 ===============================================================Esportes=============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Futebol;FUTEBOL AO VIVO",FOX SPORTS
 #EXTBG: #11609e
-http://apk.goo.bo:8081/live/4/playlist.m3u8
+http://aovivo2.goo.bo:8081/live/4/playlist.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="Futebol",FOX SPORTS2
 #EXTBG: #11609e
@@ -56,11 +56,11 @@ http://apk.goo.bo:8081/live/13/playlist.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="Futebol",SPORTV
 #EXTBG: #11609e
-http://apk.goo.bo:8081/live/20/playlist.m3u8
+http://aovivo2.goo.bo:8081/live/20/playlist.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="Futebol",SporTV 2
 #EXTBG: #11609e
-http://apk.goo.bo:8081/live/15/playlist.m3u8
+http://aovivo2.goo.bo:8081/live/15/playlist.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="Futebol",SporTV 3
 #EXTBG: #11609e
@@ -88,7 +88,7 @@ http://apk.goo.bo:8081/live/16/playlist.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
-http://apk.goo.bo:8081/live/19/playlist.m3u8
+http://aovivo2.goo.bo:8081/live/19/playlist.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
