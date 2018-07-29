@@ -24,7 +24,7 @@ http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
 http://cdn.whostreams.net:8080/hls/lqrxwxkt9r6.m3u8?s=WaUU_FmqiwooD5Nt8drDcg&e=1532670835
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-http://live-edge.pxstream.tv/loadbalance/80079126854586981711/chunks.m3u8?md5=nxnLBNJBlYDtAZ-9_dL1Hg&expires=1532692455
+http://195.181.160.217:25461/live/Mimi/123456/4431.m3u8?token=SxtYVkRaEg5EA1kBBAQHVggDUVFSAVAHVgYHUwMGUw9RDVFVAARRV1UWFBZARUVVWV46WVMaCVFRUAUeFxAWXUJmWVMVCBICUQ0PFh8TQ1lVVkcKBxQRFQwHFggXV1ANBgASGxVXSEADRlZVX25TVU5aBlUVAl0QCQ8YEFoLOlxVVFFZUxAKFlYWFBZaQkcSAhErVUNLRglFKlpGUBcLXUQZclZZVlEUKlVKU1IRe0RcUkccFVpaERcCQFcXX0cJAAoHFRsQU1sTWkxGShMNEnphRxwVXUsRAA1HW1oLRwISVANCDxAcFg9HZ0ZWQkNCXVIIVUUaCUdVQRgQWAQdZ1NWXllSUURdCVpLFgkTBhIUEQhfWVFHChc8RFtRR18aAg4HBxVP
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBO
 https://www.youtube.com/watch?v=e9E1VVuJjvQ
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
@@ -42,7 +42,7 @@ http://paraisotv.ddns.net:80/c008/myStream/live.m3u8
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 4
 http://paraisotv.ddns.net:80/110/myStream/live.m3u8
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 5
-http://paraisotv.ddns.net:80/044/myStream/live.m3u8
+http://195.181.160.217:25461/live/Mimi/123456/4333.m3u8?token=SxtYVkRaEg5EBAhVVwBSAwoAUwQBDQIHUQIECwAHUAgHClEOVgBRAgMWFBZARUVVWV46WVMaCVFWUAceFxAWXUJmWVMVCBICUQ0PFh8TQ1lVVkcKBxQRFQwHFggXV1ILAwsSGxVXSEADRlZVX25TVU5aBlUVAl0QCQ8YEFoLOlxVVFFZUxAKFlYWFBZaQkcSAhErVUNLRglFKlpGUBcLXUQZclZZVlEUKlVKU1IRe0RcUkccFVpaERcCQFcXX0cJAAwAFRsQU1sTWkxGShMNEnphRxwVXUsRAA1HW1oLRwISVANCDxAcFg9HZ0ZWQkNCXVIIVUUaCUdVQRgQWAQdZ1NWXllSUURdCVpLFgkTBhIUEQhfWVFHChc8RFtRR18aAgkFDhVP
 #EXTINF:50 tvg-shift=-3 group-title="Canais Beta",PREMIERE CLUB
 https://s2.calll.top/RedeCanais/RCServer13/ondemand/RVDLT02EP14.mp4
 ===============================================================Esportes=============================================================
