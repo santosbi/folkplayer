@@ -34,7 +34,7 @@
 <channel>  
 <title>filmes</title>
 <category_id>1</category_id>
-<playlist_url><![CDATA[https://pastebin.com/raw/XfpsdNBN]]></playlist_url>  
+<playlist_url><![CDATA[https://pastebin.com/raw/PVwBSyZW]]></playlist_url>  
 </channel>
 <channel>  
 <title>bvfFsv1t</title>
@@ -68,9 +68,9 @@
 <playlist_url><![CDATA[http://bit.ly/dmiptv-fs]></playlist_url>
 </channel>
 <channel>
-<title>josee</title>
+<title>canais</title>
 <category_id>1</category_id>
-<playlist_url><![CDATA[http://tv.factoryiptv.com/get.php?username=josee&password=josee&type=m3u]]></playlist_url>
+<playlist_url><![CDATA[http://www.alex3d.com.br/2/canais.m3u]]></playlist_url>
 </channel>
 <channel>
 <title>adultofnrl</title>
@@ -91,7 +91,7 @@
 <category_id>2,5</category_id>  
 <title>GLOBO SP</title>
 <logo_30x30>https://vignette.wikia.nocookie.net/logos/images/f/fe/185px-Globo_logo_2014.png/revision/latest?cb=20150114180048&path-prefix=pt</logo_30x30>
-<stream_url><![CDATA[http://apk.goo.bo:8081/live/17/playlist.m3u8]]></stream_url>
+<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/17/chunks.m3u8]]></stream_url>
 </channel>
 <channel>
 <category_id>2</category_id>  
@@ -151,65 +151,65 @@
 <category_id>3,5</category_id>  
 <title>FOXSPORTS</title>
 <logo_30x30>https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png</logo_30x30>
-<stream_url><![CDATA[http://apk.goo.bo:8081/live/4/playlist.m3u8]]></stream_url>
+<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/4/chunks.m3u8?nimblesessionid=725987]]></stream_url>
 </channel>
 <channel>  
 <category_id>3</category_id>  
 <title>FOXSPORTS 2</title>
 <logo_30x30>https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png</logo_30x30>
-<stream_url><![CDATA[http://apk.goo.bo:8081/live/13/playlist.m3u8]]></stream_url>
+<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/13/chunks.m3u8]]></stream_url>
 </channel>
 <channel>  
 <category_id>3</category_id>  
 <title>SPORTV</title>
 <logo_30x30>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/800px-SporTV_logo_2011.png</logo_30x30>
-<stream_url><![CDATA[http://apk.goo.bo:8081/live/20/playlist.m3u8]]></stream_url>
+<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/20/chunks.m3u8]]></stream_url>
 </channel>
 <channel>  
 <category_id>3</category_id>  
 <title>SPORTV 2</title>
 <logo_30x30>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/800px-SporTV_logo_2011.png</logo_30x30>
-<stream_url><![CDATA[http://apk.goo.bo:8081/live/15/playlist.m3u8]]></stream_url>
+<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/13/chunks.m3u8]]></stream_url>
 </channel>
 <channel>  
 <category_id>3</category_id>  
 <title>SPORTV 3</title>
 <logo_30x30>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/800px-SporTV_logo_2011.png</logo_30x30>
-<stream_url><![CDATA[http://apk.goo.bo:8081/live/7/playlist.m3u8]]></stream_url>
+<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/7/chunks.m3u8]]></stream_url>
 </channel>
 <channel>
 <category_id>5</category_id>
 <title>FUTEBOL AO VIVO</title>
 <logo_30x30>https://cdn.icon-icons.com/icons2/553/PNG/512/footbal_icon-icons.com_53569.png<logo_30x30>  
-<stream_url><![CDATA[http://apk.goo.bo:8081/live/2/playlist.m3u8]]></stream_url>
-</channel>
-</items>
-<channel>
-<category_id>5</category_id>
-<title>FUTEBOL AO VIVO</title>
-<logo_30x30>https://cdn.icon-icons.com/icons2/553/PNG/512/footbal_icon-icons.com_53569.png<logo_30x30>  
-<stream_url><![CDATA[http://apk.goo.bo:8081/live/3/playlist.m3u8]]></stream_url>
+<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/2/chunks.m3u8]]></stream_url>
 </channel>
 </items>
 <channel>
 <category_id>5</category_id>
 <title>FUTEBOL AO VIVO</title>
 <logo_30x30>https://cdn.icon-icons.com/icons2/553/PNG/512/footbal_icon-icons.com_53569.png<logo_30x30>  
-<stream_url><![CDATA[http://apk.goo.bo:8081/live/8/playlist.m3u8]]></stream_url>
-</channel>
-</items>
-<channel>
-<title>FUTEBOL AO VIVO</title>
-<category_id>5</category_id>
-<logo_30x30>https://cdn.icon-icons.com/icons2/553/PNG/512/footbal_icon-icons.com_53569.png<logo_30x30>  
-<stream_url><![CDATA[http://apk.goo.bo:8081/live/16/playlist.m3u8]]></stream_url>
+<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/3/chunks.m3u8]]></stream_url>
 </channel>
 </items>
 <channel>
 <category_id>5</category_id>
 <title>FUTEBOL AO VIVO</title>
 <logo_30x30>https://cdn.icon-icons.com/icons2/553/PNG/512/footbal_icon-icons.com_53569.png<logo_30x30>  
-<stream_url><![CDATA[http://apk.goo.bo:8081/live/19/playlist.m3u8]]></stream_url>
+<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/8/chunks.m3u8]]></stream_url>
+</channel>
+</items>
+<channel>
+<title>FUTEBOL AO VIVO</title>
+<category_id>5</category_id>
+<logo_30x30>https://cdn.icon-icons.com/icons2/553/PNG/512/footbal_icon-icons.com_53569.png<logo_30x30>  
+<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/8/chunks.m3u8]]></stream_url>
+</channel>
+</items>
+<channel>
+<category_id>5</category_id>
+<title>FUTEBOL AO VIVO</title>
+<logo_30x30>https://cdn.icon-icons.com/icons2/553/PNG/512/footbal_icon-icons.com_53569.png<logo_30x30>  
+<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/19/chunks.m3u8]]></stream_url>
 </channel>
 </items>
 
