@@ -63,9 +63,9 @@
 </channel>
 <channel>
 <channel>
-<title>dmiptv-fs</title>
+<title>seriesfloripa</title>
 <category_id>1</category_id>
-<playlist_url><![CDATA[http://bit.ly/dmiptv-fs]></playlist_url>
+<playlist_url><![CDATA[https://orpfeg.bn.files.1drv.com/y4mdH4zpA7b9spVLZhy5dnPx3j7mWXAd7n49xPpMHcQ-v5IxFruj21vWkvVENC1WjgyjyJVxC_KYDHNkwMnlQZjSBWgI_WhGRT8TBzfEnnMzwpUCHpdUhZAGBq-uUkleub5Guz-_PlCD8GL1oERWyf2VOJZdsyHv1Gw5Q9lHOIrX20v7H_HQ-AJal9Ew3LX132AwXrUxg1C07ntd5YR5gRQuQ/seriesfloripa.m3u?download&psid=1]></playlist_url>
 </channel>
 <channel>
 <title>canais</title>
@@ -151,13 +151,19 @@
 <category_id>3,5</category_id>  
 <title>FOXSPORTS</title>
 <logo_30x30>https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png</logo_30x30>
-<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/4/playlist.m3u8?nimblesessionid=254875]]></stream_url>
+<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/4/chunks.m3u8]]></stream_url>
 </channel>
 <channel>  
 <category_id>3</category_id>  
 <title>FOXSPORTS 2</title>
 <logo_30x30>https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png</logo_30x30>
-<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/13/chunks.m3u8]]></stream_url>
+<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/7/chunks.m3u8]]></stream_url>
+</channel>  
+<channel>  
+<category_id>3</category_id>  
+<title>ESPN</title>
+<logo_30x30>http://1000logos.net/wp-content/uploads/2017/01/ESPN-Logo.png</logo_30x30>
+<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/3/chunks.m3u8]]></stream_url>
 </channel>
 <channel>  
 <category_id>3</category_id>  
@@ -169,7 +175,7 @@
 <category_id>3</category_id>  
 <title>SPORTV 2</title>
 <logo_30x30>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/800px-SporTV_logo_2011.png</logo_30x30>
-<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/13/chunks.m3u8]]></stream_url>
+<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/15/chunks.m3u8]]></stream_url>
 </channel>
 <channel>  
 <category_id>3</category_id>  
