@@ -121,7 +121,7 @@
 <category_id>4</category_id>  
 <title>SPORTV</title>
 <logo_30x30>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/800px-SporTV_logo_2011.png</logo_30x30>
-<stream_url><![CDATA[http://paraisotv.ddns.net:80/c008/myStream/live.m3u8]]></stream_url>
+<stream_url><![CDATA[http://190.2.141.17:25461/live/xavier/1234/5414.m3u8?token=TBBaAEAKQAwTVgAOVQgBAVNfAwRVAQABUQZXAlQCV1YFAVYEB1RRVVMVHBtHREJcUFRtXlQUX1FRB1YZR0MWVUVtWwURWEAEAAYGDxYcEk1YVFcVCgZJRhVfBhdfFFEIAQUQTREHGkJURV5YWG9UXEdQUVISDAsRCVpOFwpYOlRSX1MPV0BYFAAVHBtdQ0AbCxt8UkRFEAhFfwxBAEQLVUMScABdBgMWfVZCXlUQfE1VWBAbElQMEBdXFlBHDEcBBAYCQx9AAVlEWURLTRIKG3NrEBsSUx0QAFgRXApYRwoVXwEUC0BOFFhEb0tRQ0RLVFhfUkIUX0ZVFE4XCFcdb1RdXA9WARZfXllDGw4SARsdG19YXl8RCxdpElwBFF8SBgQFVAFAHw==]]></stream_url>
 </channel>
 <channel>  
 <category_id>4</category_id>  
