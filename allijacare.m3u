@@ -24,7 +24,7 @@ http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
 https://www.youtube.com/watch?v=gvRn3MGMmDw
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-http://195.181.162.54:25461/live/Contabr1/1234/9314.m3u8?token=HhZbA0cORF8VAgRaAAtQAABZV1QEUQheBgAABwcDWgRRDARVVwBfU1RDGEBHR0QEBVU9ClISCl8GCQ1IF0QQVxdrWgYWXERRAFgEVgURGkMQUQ8GFAoAShdIUAAXC0EAVQMAVBZKRABPFVEQWlJaPgBdFApVVRJcW01VCBkTDFw6UFYPVQgCRw1DBEAYEV8SFBpYQXhVRBVAVBktW0UGQAtRR0J2BwgBVkF4A0ZUV0EoTAYCFBwSBFxMSwVBVEEIRwUDVgNESkdUDkEMQEFPQ14aIDEUHBIDTUxcCkZYDFxHDhEPBxNeRxtDXRFrQVMSEEoHAltVQkQPGglGGRMOUx1rUA1aCAMGQwhbDEcRDENVGk5BW19eD0FXSztFWAcQXxYCUQVVXkdK
+http://190.2.141.14:25461/live/xavier/1234/5299.m3u8?token=TBBaAEAKQAwTBVJaAgYDAQUBUQ4CBFxUBwdTAlYEA1FUBFMCAwBVAgAVHBtHREJcUFRtXlQUX1FXD1sZR0MWVUVtWwURWEAEAAYGDxYcEk1YVFcVCgZJRhVfBhdfFFYCAQIHQx9AB05FUkJXVVxvXVRPW1RVFF8KEFoOGUdZC29TV18AXQZADBMGEhUWWUNJEwMQeVVCFhEJFitbEVMXXlJGEiNSDAZXEXtRS1NREHVFXVMVHBQHDRFEA0EAFF8SDgoEQx9AAVlEWURLTRIKG3NrEBsSUx0QAFgRXApYRwoVXwEUC0BOFFhEb0tRQ0RLVFhfUkIUX0ZVFE4XCFcdb1RdXA9WARZfXllDGw4SARsdG19YXl8RCxdpElwBFF8SAQQDUxEf
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBO
 https://www.youtube.com/watch?v=e9E1VVuJjvQ
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
@@ -40,9 +40,9 @@ http://paraisotv.ddns.net:80/100/myStream/live.m3u8
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
 http://paraisotv.ddns.net:80/c008/myStream/live.m3u8
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 4
-https://hls-hw.xvideos-cdn.com/videos/hls/57/f7/62/57f762e9d5e3533a5f76e96a989ae19d/hls-720p.m3u8?e=1533005887&l=0&h=89c097b7e458d5cf1c0a24ab94a7b0f2
+https://1fgqfty.oloadcdn.net/dl/l/vuxR8uorQZi34epY/V3eWQ_ZTUEg/bb15438-480p.mp4?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 5
-https://1fhjlp6.oloadcdn.net/dl/l/8WEd-JyV8F9FdaUo/JIMNQlpHGgs/aliyah_adi.480_x.epidemz.co_Triksa.com.mp4?mime=true
+https://hls-hw.xvideos-cdn.com/videos/hls/55/4a/d7/554ad742f039ee910abb1de90e272b25/hls-720p.m3u8?e=1533020086&l=0&h=dc161e099a588b344cab47c1267b35a4
 #EXTINF:50 tvg-shift=-3 group-title="Canais Beta",PREMIERE CLUB
 http://mcdn2.micetop.us/lanadelrey/tvshows/riverdale/s02e17-dub-720p.mp4
 ===============================================================Esportes=============================================================
@@ -161,11 +161,11 @@ http://mcdn2.micetop.us/lanadelrey/tvshows/riverdale/s02e16-dub-720p.mp4
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies4
 http://mcdn2.micetop.us/lanadelrey/tvshows/riverdale/s02e15-dub-720p.mp4
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies3
-https://ph2dou.oloadcdn.net/dl/l/W9cZUJCR_MSXpI1Y/2ipPoebfKww/Audrey_Bitoni_-_Sweet_Spot.mp4?mime=true
+https://1fhjlkb.oloadcdn.net/dl/l/ggT71shSD0hGM5U-/pcLu8pTsW2E/ose_onroe.480_x.epidemz.co_Triksa.com.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies2
-https://hls2-l3.xvideos-cdn.com/df2cd203da4b776f9ea052c1fae9ca9594b04e1d-1533005832/videos/hls/23/64/96/2364965d1593feda564422f70d7553f7/hls-720p.m3u8
+https://hls2-l3.xvideos-cdn.com/a369735710a584a7dfe9a013abb69e22f49a6961-1533019892/videos/hls/23/64/96/2364965d1593feda564422f70d7553f7/hls-720p.m3u8
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies1
-https://hls-hw.xvideos-cdn.com/videos/hls/2b/d9/1e/2bd91ee4b3a9494c95870e3540f7fb05/hls-480p.m3u8?e=1533005741&l=0&h=fb129a0ad9b5a7f748be282e0ddc4c3e
+https://hls-hw.xvideos-cdn.com/videos/hls/2b/d9/1e/2bd91ee4b3a9494c95870e3540f7fb05/hls-480p.m3u8?e=1533019954&l=0&h=f2817b8436597b92e20ca394999e9942
 ==============================================================Series============================================================
 ============================================================South Park==========================================================
 #EXTINF:0 tvg-logo="http://i.imgur.com/slGftt7.jpg" group-title="South Park",01 South Park
