@@ -193,7 +193,7 @@
 <category_id>5</category_id>
 <title>FUTEBOL AO VIVO</title>
 <logo_30x30>https://cdn.icon-icons.com/icons2/553/PNG/512/footbal_icon-icons.com_53569.png<logo_30x30>  
-<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/3/chunks.m3u8]]></stream_url>
+<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/7/chunks.m3u8]]></stream_url>
 </channel>
 </items>
 <channel>
@@ -207,13 +207,19 @@
 <title>FUTEBOL AO VIVO</title>
 <category_id>5</category_id>
 <logo_30x30>https://cdn.icon-icons.com/icons2/553/PNG/512/footbal_icon-icons.com_53569.png<logo_30x30>  
-<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/8/chunks.m3u8]]></stream_url>
+<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/9/chunks.m3u8]]></stream_url>
+</channel>
+<channel>
+<title>FUTEBOL AO VIVO</title>
+<category_id>5</category_id>
+<logo_30x30>https://png.icons8.com/metro/1600/football2.png<logo_30x30>  
+<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/16/chunks.m3u8]]></stream_url>
 </channel>
 </items>
 <channel>
 <category_id>5</category_id>
 <title>FUTEBOL AO VIVO</title>
-<logo_30x30>https://cdn.icon-icons.com/icons2/553/PNG/512/footbal_icon-icons.com_53569.png<logo_30x30>  
+<logo_30x30>https://png.icons8.com/metro/1600/football2.png<logo_30x30>  
 <stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/19/chunks.m3u8]]></stream_url>
 </channel>
 </items>
