@@ -52,9 +52,9 @@
 <playlist_url><![CDATA[http://bit.ly/Iptvvictor_ListaVip]]></playlist_url>
 </channel>
 <channel>  
-<title>FelipeIPTVElitel</title>
+<title>ElitePlus</title>
 <category_id>1</category_id>
-<playlist_url><![CDATA[https://bit.ly/FelipeIPTVElitel]]></playlist_url>
+<playlist_url><![CDATA[https://iptv7l.000webhostapp.com/ElitePlus.m3u]]></playlist_url>
 </channel>
 <channel>  
 <title>9NSJgUU3</title>
@@ -67,9 +67,9 @@
 <category_id>1</category_id>
 <playlist_url><![CDATA[https://pastebin.com/raw/0hXm7kVd]]></playlist_url>
 <channel>
-<title>todaon</title>
+<title>lista962</title>
 <category_id>1</category_id>
-<playlist_url><![CDATA[https://minhalista.live/todaon]]></playlist_url>
+<playlist_url><![CDATA[http://teste.eliteiptv.mobi/gerado/lista962.m3u]]></playlist_url>
 </channel>
 <channel>
 <title>adultofnrl</title>
@@ -90,7 +90,7 @@
 <category_id>2,5</category_id>  
 <title>GLOBO SP</title>
 <logo_30x30>https://vignette.wikia.nocookie.net/logos/images/f/fe/185px-Globo_logo_2014.png/revision/latest?cb=20150114180048&path-prefix=pt</logo_30x30>
-<stream_url><![CDATA[http://apk.futeboltv.com:8081/live/17/chunks.m3u8]]></stream_url>
+<stream_url><![CDATA[http://03.liss.fun:25461/live/000007/000007/7379.m3u8?token=HkFcUEIJRFgSAFEGDwpQVAhQUQtXBwFSWlYBUQAEUlcDAA0BB1UAVFIUGRFKTUdXWA5rUFBDC1VRUgBJFhQSURc8XVUTW0RTBQYNAwobGRBNCllcFlsBTkAVUAEWW0MGXVEGBRNNRAdIQlBBV1hZbV0GQlBXBBNYDBBVCRhDDlo6B1FcUA8CQAoUBREVG1xBSUEOG3oERREXCRksWhUERgsGQBFzAAgGURZ5UkteVBJ1F1BYFk0TAAsRSwRABEMOR1INAQlDSkBTWUBdTUtMEANBdmsWTRMHGhFcC0cIDlpHWRZcAhReQBwUXEBmS1BBTRFRWFkEQ0BYRwlHGEMMVR08V15fDwMBRF9aXUobDxAIQRgbWQ5fCxYKSzpECAUWX0EHAgBXRB8=]]></stream_url>
 </channel>
 <channel>
 <category_id>2</category_id>  
@@ -120,31 +120,31 @@
 <category_id>4</category_id>  
 <title>SPORTV</title>
 <logo_30x30>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/800px-SporTV_logo_2011.png</logo_30x30>
-<stream_url><![CDATA[http://190.2.141.17:25461/live/xavier/1234/5414.m3u8?token=TBBaAEAKQAwTVgAOVQgBAVNfAwRVAQABUQZXAlQCV1YFAVYEB1RRVVMVHBtHREJcUFRtXlQUX1FRB1YZR0MWVUVtWwURWEAEAAYGDxYcEk1YVFcVCgZJRhVfBhdfFFEIAQUQTREHGkJURV5YWG9UXEdQUVISDAsRCVpOFwpYOlRSX1MPV0BYFAAVHBtdQ0AbCxt8UkRFEAhFfwxBAEQLVUMScABdBgMWfVZCXlUQfE1VWBAbElQMEBdXFlBHDEcBBAYCQx9AAVlEWURLTRIKG3NrEBsSUx0QAFgRXApYRwoVXwEUC0BOFFhEb0tRQ0RLVFhfUkIUX0ZVFE4XCFcdb1RdXA9WARZfXllDGw4SARsdG19YXl8RCxdpElwBFF8SBgQFVAFAHw==]]></stream_url>
+<stream_url><![CDATA[http://08.liss.fun:25461/live/000007/000007/2189.m3u8?token=HkFcUEIJRFgSVFMEWgwEUAlUBA0MWQIBV1BcVANXWFdVVFJQVVVTVVMUGRFKTUdXWA5rUFBDC1BTXQBJFhQSURc8XVUTW0RTBQYNAwobGRBNCllcFlsBTkAVUAEWW0MFUlMFBRNNRAdIQlBBV1hZbV0GQlBXBBNYDBBVCRhDDlo6B1FcUA8CQAoUBREVG1xBSUEOG3oERREXCRksWhUERgsGQBFzAAgGURZ5UkteVBJ1F1BYFk0TAAsRSwRABEMOR1AGAwNDSkBTWUBdTUtMEANBdmsWTRMHGhFcC0cIDlpHWRZcAhReQBwUXEBmS1BBTRFRWFkEQ0BYRwlHGEMMVR08V15fDwMBRF9aXUobDxAIQRgbWQ5fCxYKSzpECAUWX0EHAgNZRB8=]]></stream_url>
 </channel>
 <channel>  
 <category_id>4</category_id>  
 <title>PREMIERE 2</title>
 <logo_30x30>http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png</logo_30x30>
-<stream_url><![CDATA[http://paraisotv.ddns.net:80/099/myStream/live.m3u8]]></stream_url>
+<stream_url><![CDATA[http://08.liss.fun:25461/live/000007/000007/2222.m3u8?token=HkFcUEIJRFgSAFYAAQ8FBgwHDF8ABFMEVlwKUQ0HAlADAg0JCFlTUAMUGRFKTUdXWA5rUFBDC1BQVwtJFhQSURc8XVUTW0RTBQYNAwobGRBNCllcFlsBTkAVUAEWW0MBXFYNEx1DAxpEU0ddWFVqVlwVXVpRQwsMFwlVSRYOD2sBBllQXwVEWBIGFx8bUEZCG1kWd1EVQhcORXALQAQTWgAXFHNQDwIDEHpUQV5YFX5NB1UbGENTCxYXWBFRQ1sWV1AAEx1DBQ1FWEFBQBsPEHsxFhUWBEkWBwtKDFsPQw5HDgdECUNKQFlFakFcSkFAXAJZXEZDC0BSRxVHWQAZawYMWl9UAhILX1hGEQMbBBAVQVlWWghFDRA6SQxQQ1sWVlIBARMc]]></stream_url>
 </channel>
 <channel>  
 <category_id>4</category_id>  
 <title>PREMIERE 3</title>
 <logo_30x30>http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png</logo_30x30>
-<stream_url><![CDATA[http://paraisotv.ddns.net:80/100/myStream/live.m3u8]]></stream_url>
+<stream_url><![CDATA[http://09.liss.fun:25461/live/000007/000007/2220.m3u8?token=HkFcUEIJRFgSUgMAWAtQUABWVQ8AWFNWAwZbBlIEUgFcVVVTAVQCW1YUGRFKTUdXWA5rUFBDC1BQVwlJFhQSURc8XVUTW0RTBQYNAwobGRBNCllcFlsBTkAVUAEWW0MHVFAAARNNRAdIQlBBV1hZbV0GQlBXBBNYDBBVCRhDDlo6B1FcUA8CQAoUBREVG1xBSUEOG3oERREXCRksWhUERgsGQBFzAAgGURZ5UkteVBJ1F1BYFk0TAAsRSwRABEMOR1EAAxNNRAFfQ1tHS0AXCBshZhsYQ1QaFgBXFl0ODxZfQVkCRFlEThJfRmxLXEZGSwZVVFETE1hAVRtJFgwATDoAW19fBAUWWVlbQBsDFwMbTxZUWw9YFg0XZhVdBUMOR1AHCQFDGw==]]></stream_url>
 </channel>
 <channel>  
 <category_id>4</category_id>  
 <title>PREMIERE 4</title>
 <logo_30x30>http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png</logo_30x30>
-<stream_url><![CDATA[http://paraisotv.ddns.net:80/110/myStream/live.m3u8]]></stream_url>
+<stream_url><![CDATA[http://08.liss.fun:25461/live/000007/000007/2218.m3u8?token=HkFcUEIJRFgSDlALWAoEAQsCUAFSAAZTBwQJUwFTAFZTVVIDVAUDVQYUGRFKTUdXWA5rUFBDC1BQVAFJFhQSURc8XVUTW0RTBQYNAwobGRBNCllcFlsBTkAVUAEWW0MFV1QMCRNNRAdIQlBBV1hZbV0GQlBXBBNYDBBVCRhDDlo6B1FcUA8CQAoUBREVG1xBSUEOG3oERREXCRksWhUERgsGQBFzAAgGURZ5UkteVBJ1F1BYFk0TAAsRSwRABEMOR1UHBBNNRAFfQ1tHS0AXCBshZhsYQ1QaFgBXFl0ODxZfQVkCRFlEThJfRmxLXEZGSwZVVFETE1hAVRtJFgwATDoAW19fBAUWWVlbQBsDFwMbTxZUWw9YFg0XZhVdBUMOR1AFBgdDGw==]]></stream_url>
 </channel>  
 <channel>  
 <category_id>4</category_id>  
 <title>PREMIERE CLUB</title>
 <logo_30x30>http://3.bp.blogspot.com/-MSPga26jEfs/UtbmcRy3wtI/AAAAAAAABw0/bS5xjhiLK8A/s1600/Captura+de+Tela+2014-01-15+a%CC%80s+17.49.51.png</logo_30x30>
-<stream_url><![CDATA[http://paraisotv.ddns.net:80/097/myStream/live.m3u8]]></stream_url>
+<stream_url><![CDATA[http://listaccess.me:8880/live/000007/000007/2224.m3u8]]></stream_url>
 </channel>
 <channel>  
 <category_id>3,5</category_id>  
