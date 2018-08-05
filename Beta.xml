@@ -90,7 +90,7 @@
 <category_id>2,5</category_id>  
 <title>GLOBO SP</title>
 <logo_30x30>https://vignette.wikia.nocookie.net/logos/images/f/fe/185px-Globo_logo_2014.png/revision/latest?cb=20150114180048&path-prefix=pt</logo_30x30>
-<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/17/chunks.m3u8]]></stream_url>
+<stream_url><![CDATA[http://apk.futeboltv.com:8081/live/17/chunks.m3u8]]></stream_url>
 </channel>
 <channel>
 <category_id>2</category_id>  
@@ -150,77 +150,77 @@
 <category_id>3,5</category_id>  
 <title>FOXSPORTS</title>
 <logo_30x30>https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png</logo_30x30>
-<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/4/chunks.m3u8]]></stream_url>
+<stream_url><![CDATA[http://apk.futeboltv.com:8081/live/4/chunks.m3u8]]></stream_url>
 </channel>
 <channel>  
 <category_id>3</category_id>  
 <title>FOXSPORTS 2</title>
 <logo_30x30>https://upload.wikimedia.org/wikipedia/pt/d/dd/Fox_Sports_Logo.png</logo_30x30>
-<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/7/chunks.m3u8]]></stream_url>
+<stream_url><![CDATA[http://apk.futeboltv.com:8081/live/7/chunks.m3u8]]></stream_url>
 </channel>  
 <channel>  
 <category_id>3</category_id>  
 <title>ESPN</title>
 <logo_30x30>http://1000logos.net/wp-content/uploads/2017/01/ESPN-Logo.png</logo_30x30>
-<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/3/chunks.m3u8]]></stream_url>
+<stream_url><![CDATA[http://apk.futeboltv.com:8081/live/3/chunks.m3u8]]></stream_url>
 </channel>
 <channel>  
 <category_id>3</category_id>  
 <title>SPORTV</title>
 <logo_30x30>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/800px-SporTV_logo_2011.png</logo_30x30>
-<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/20/chunks.m3u8]]></stream_url>
+<stream_url><![CDATA[http://apk.futeboltv.com:8081/live/20/chunks.m3u8]]></stream_url>
 </channel>
 <channel>  
 <category_id>3</category_id>  
 <title>SPORTV 2</title>
 <logo_30x30>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/800px-SporTV_logo_2011.png</logo_30x30>
-<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/15/chunks.m3u8]]></stream_url>
+<stream_url><![CDATA[http://apk.futeboltv.com:8081/live/15/chunks.m3u8]]></stream_url>
 </channel>
 <channel>  
 <category_id>3</category_id>  
 <title>SPORTV 3</title>
 <logo_30x30>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/800px-SporTV_logo_2011.png</logo_30x30>
-<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/7/chunks.m3u8]]></stream_url>
+<stream_url><![CDATA[http://apk.futeboltv.com:8081/live/7/chunks.m3u8]]></stream_url>
 </channel>
 <channel>
 <category_id>5</category_id>
 <title>FUTEBOL AO VIVO</title>
 <logo_30x30>https://seeklogo.com/images/B/bola-copa-brasil-2014-logo-2E974327EF-seeklogo.com.png<logo_30x30>  
-<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/2/chunks.m3u8]]></stream_url>
-</channel>
-</items>
-<channel>
-<category_id>5</category_id>
-<title>FUTEBOL AO VIVO</title>
-<logo_30x30>https://seeklogo.com/images/B/bola-copa-brasil-2014-logo-2E974327EF-seeklogo.com.png<logo_30x30>  
-<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/7/chunks.m3u8]]></stream_url>
+<stream_url><![CDATA[http://apk.futeboltv.com:8081/live/2/chunks.m3u8]]></stream_url>
 </channel>
 </items>
 <channel>
 <category_id>5</category_id>
 <title>FUTEBOL AO VIVO</title>
 <logo_30x30>https://seeklogo.com/images/B/bola-copa-brasil-2014-logo-2E974327EF-seeklogo.com.png<logo_30x30>  
-<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/8/chunks.m3u8]]></stream_url>
-</channel>
-</items>
-<channel>
-<title>FUTEBOL AO VIVO</title>
-<category_id>5</category_id>
-<logo_30x30>https://seeklogo.com/images/B/bola-copa-brasil-2014-logo-2E974327EF-seeklogo.com.png<logo_30x30>  
-<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/9/chunks.m3u8]]></stream_url>
-</channel>
-<channel>
-<title>FUTEBOL AO VIVO</title>
-<category_id>5</category_id>
-<logo_30x30>https://seeklogo.com/images/B/bola-copa-brasil-2014-logo-2E974327EF-seeklogo.com.png<logo_30x30>  
-<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/16/chunks.m3u8]]></stream_url>
+<stream_url><![CDATA[http://apk.futeboltv.com:8081/live/18/chunks.m3u8]]></stream_url>
 </channel>
 </items>
 <channel>
 <category_id>5</category_id>
 <title>FUTEBOL AO VIVO</title>
 <logo_30x30>https://seeklogo.com/images/B/bola-copa-brasil-2014-logo-2E974327EF-seeklogo.com.png<logo_30x30>  
-<stream_url><![CDATA[http://aovivo2.goo.bo:8081/live/19/chunks.m3u8]]></stream_url>
+<stream_url><![CDATA[http://apk.futeboltv.com:8081/live/8/chunks.m3u8]]></stream_url>
+</channel>
+</items>
+<channel>
+<title>FUTEBOL AO VIVO</title>
+<category_id>5</category_id>
+<logo_30x30>https://seeklogo.com/images/B/bola-copa-brasil-2014-logo-2E974327EF-seeklogo.com.png<logo_30x30>  
+<stream_url><![CDATA[http://apk.futeboltv.com:8081/live/9/chunks.m3u8]]></stream_url>
+</channel>
+<channel>
+<title>FUTEBOL AO VIVO</title>
+<category_id>5</category_id>
+<logo_30x30>https://seeklogo.com/images/B/bola-copa-brasil-2014-logo-2E974327EF-seeklogo.com.png<logo_30x30>  
+<stream_url><![CDATA[http://apk.futeboltv.com:8081/live/16/chunks.m3u8]]></stream_url>
+</channel>
+</items>
+<channel>
+<category_id>5</category_id>
+<title>FUTEBOL AO VIVO</title>
+<logo_30x30>https://seeklogo.com/images/B/bola-copa-brasil-2014-logo-2E974327EF-seeklogo.com.png<logo_30x30>  
+<stream_url><![CDATA[http://apk.futeboltv.com:8081/live/19/chunks.m3u8]]></stream_url>
 </channel>
 </items>
 
