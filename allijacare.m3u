@@ -22,9 +22,9 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-https://www.youtube.com/watch?v=gvRn3MGMmDw
+https://www.redtube.com.br/categories
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-http://190.2.141.14:25461/live/xavier/1234/5299.m3u8?token=TBBaAEAKQAwTBVJaAgYDAQUBUQ4CBFxUBwdTAlYEA1FUBFMCAwBVAgAVHBtHREJcUFRtXlQUX1FXD1sZR0MWVUVtWwURWEAEAAYGDxYcEk1YVFcVCgZJRhVfBhdfFFYCAQIHQx9AB05FUkJXVVxvXVRPW1RVFF8KEFoOGUdZC29TV18AXQZADBMGEhUWWUNJEwMQeVVCFhEJFitbEVMXXlJGEiNSDAZXEXtRS1NREHVFXVMVHBQHDRFEA0EAFF8SDgoEQx9AAVlEWURLTRIKG3NrEBsSUx0QAFgRXApYRwoVXwEUC0BOFFhEb0tRQ0RLVFhfUkIUX0ZVFE4XCFcdb1RdXA9WARZfXllDGw4SARsdG19YXl8RCxdpElwBFF8SAQQDUxEf
+http://porno-smart.ru/parser
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBO
 https://www.googleapis.com/drive/v3/files/1IZA6AkblH5PrIqllc_wZa4h9dGSM8n6W?alt=media&key=AIzaSyBXV3qGJ2rwDaxvUmAzaVpZMmn1t6PyU0E&fref=gc&h=ATOAOfKrTqeRe2-ljwMLFtWsz0CEUuWFtqWoS9qYUoKcPDDXnk6ec2GlpzTB7MDfFEnoXqqjHE1-g-rHJI6dfZzvLnowH0gBzh-nDpikmSPvFVkkbdie0YD0EALS6kbdwZHVUzfRrzjDsw
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
@@ -108,7 +108,7 @@ http://a1rj.streams.com.br:7801/stream
 
 #EXTINF:4 tvg-shift=-3 group-title="RÁDIOS",ALFHA FM SP
 #EXTBG: #11609e
-http://201.16.148.13/alphafmsp?f=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjE3OS4xODkuMTg1LjM5Iiwicm9sZSI6ImxpdmUiLCJpZCI6IjViNjgyNWM2NjYyNGMxMmIwMWQ3NGZhMCIsImFpZCI6IjVhYzc2NTAwOTNlZjgzMzM3YTFhZWYxMSIsInVpZCI6IjViNjgyNWM2NjYyNGMxMmIwMWQ3NGY5ZiIsImxhdCI6Ii0xNi43MzI1IiwibG5nIjoiLTQzLjg2MTQiLCJuYmYiOjE1MzM1NTIwNzAsImV4cCI6MTUzMzYzODQ3MCwiaWF0IjoxNTMzNTUyMDcwLCJpc3MiOiJodHRwOi8vd3d3Lm5leHRkaWFsLmNvbS5iciIsImF1ZCI6ImxpdmUifQ.AWBg2y-LexynTfUhkRB6KN9MyXn_wt913dieBSWg0UY
+http://201.16.212.125/alphafmsp?f=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjE3OS4xODkuMTg1LjM5Iiwicm9sZSI6ImxpdmUiLCJpZCI6IjViNjk3OGZmNjYyNGMxMmIwMWRkNDQ3OCIsImFpZCI6IjVhYzc2NTAwOTNlZjgzMzM3YTFhZWYxMSIsInVpZCI6IjViNjk3OGZmNjYyNGMxMmIwMWRkNDQ3NyIsImxhdCI6Ii0xNi43MzI1IiwibG5nIjoiLTQzLjg2MTQiLCJuYmYiOjE1MzM2Mzg5MTEsImV4cCI6MTUzMzcyNTMxMSwiaWF0IjoxNTMzNjM4OTExLCJpc3MiOiJodHRwOi8vd3d3Lm5leHRkaWFsLmNvbS5iciIsImF1ZCI6ImxpdmUifQ.rQmheofBIc6BE5hH7we_9sYOu9-gZZWFfcMoA_BvfK4
 
 #EXTINF:4 tvg-shift=-3 group-title="RÁDIOS",JOVEM PAN FM
 #EXTBG: #11609e
