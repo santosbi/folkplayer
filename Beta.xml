@@ -223,15 +223,18 @@
 </channel>
 <channel>
 <category_id>4</category_id>
-<title>Smart</title>
-<logo_30x30>http://porno-smart.ru/images/logo_psmart.png<logo_30x30>  
-<stream_url><![CDATA[http://porno-smart.ru/parser]]></stream_url>
+<title>smart.ru</title>
+<logo_30x30>http://porno-smart.ru/images/logo_psmart.png</logo_30x30>
+<playlist_url>http://porno-smart.ru/parser</playlist_url>
+<description>
+<center><font color="#a0a0a0" size="-1"></font><br><img src=""/><hr><h2>Плейлист от porno-smart.ru</h2><font color="#00ccff" size="5">Плейлист предназначен для просмотра видеоконтента на телевизорах Samsung Smart TV с помощью виджетов ForkPlayer, nStreamLmod, nStreamVOD и т.п. Подробности на porno-smart.ru</font>
+</description>  
 </channel>
 <channel>
 <category_id>4</category_id>
 <title>Smart</title>
 <logo_30x30>https://img2.androidappsapk.co/300/8/f/6/com.free.hd.sexy.hot.beautiful.gorgeous.babe.teen.girl.xvideos.mms.cute.latest.bluefilm.redtube.png<logo_30x30>  
-<stream_url><![CDATA[https://www.redtube.com.br/categories]]></stream_url>
+<playlist_url>https://www.redtube.com.br/categories</playlist_url>
 </channel>  
 </items>
 
