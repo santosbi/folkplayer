@@ -146,24 +146,15 @@ http://stream.livespotting.tv/windit-edge/vv101_720p.stream/playlist.m3u8
 #EXTBG: #11609e
 http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m3u8
 
-#EXTINF:0 type="playlist" ,LISTA FILMES
-#description="2018"
-#EXTBG: #11609e
-https://gitlab.com/bieldry02/FilmeseSeries.m3u8/raw/master/FilmeseSeries.m3u8
-
-#EXTINF:0 type="playlist" ,9NSJgUU3
-#description="2018"
-https://gitlab.com/camillo20/camillofilmes/raw/master/.Camillofilmes
-
 ==============================================================Movies============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies5
-https://pgli30.oloadcdn.net/dl/l/690oM0XD0Ax4VIKt/5-F5SIWLhGk/15859.mp4?mime=true
+https://pgli30.oloadcdn.net/dl/l/sB31Lshp8jYSQO1M/5-F5SIWLhGk/15859.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies4
-https://1fiafzs.oloadcdn.net/dl/l/2dTaLQXRZk0XlR-R/K-XmNu_8a5M/52061.mp4?mime=true
+https://efd5pz.oloadcdn.net/dl/l/5K8Fz4mL0fq_wBM4/iw-IWpO-oQs/DpNicoletteS.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies3
-https://oql1j7.oloadcdn.net/dl/l/5SGEgWf3oPOqrKK8/nca84C2sOHM/51872.mp4?mime=true
+https://1fiageh.oloadcdn.net/dl/l/LVCQczNd4isp1zSG/M-BZ_FltxfA/52336.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies2
-https://17wy0pj.oloadcdn.net/dl/l/3zb4Sv-bYTH26DMO/l0D59coZilg/52006.mp4?mime=true
+https://1fizp0e.oloadcdn.net/dl/l/LRyEl1I4l0JX71IC/J6LtP4GvfKw/52135.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies1
 http://network.vstreaming.net/movies/extinction-leg-720p.mp4
 ==============================================================Series============================================================
