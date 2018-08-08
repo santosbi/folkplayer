@@ -89,7 +89,7 @@
 <category_id>2,5</category_id>  
 <title>GLOBO SP</title>
 <logo_30x30>https://vignette.wikia.nocookie.net/logos/images/f/fe/185px-Globo_logo_2014.png/revision/latest?cb=20150114180048&path-prefix=pt</logo_30x30>
-<stream_url><![CDATA[http://03.liss.fun:25461/live/000007/000007/7379.m3u8?token=HkFcUEIJRFgSAFEGDwpQVAhQUQtXBwFSWlYBUQAEUlcDAA0BB1UAVFIUGRFKTUdXWA5rUFBDC1VRUgBJFhQSURc8XVUTW0RTBQYNAwobGRBNCllcFlsBTkAVUAEWW0MGXVEGBRNNRAdIQlBBV1hZbV0GQlBXBBNYDBBVCRhDDlo6B1FcUA8CQAoUBREVG1xBSUEOG3oERREXCRksWhUERgsGQBFzAAgGURZ5UkteVBJ1F1BYFk0TAAsRSwRABEMOR1INAQlDSkBTWUBdTUtMEANBdmsWTRMHGhFcC0cIDlpHWRZcAhReQBwUXEBmS1BBTRFRWFkEQ0BYRwlHGEMMVR08V15fDwMBRF9aXUobDxAIQRgbWQ5fCxYKSzpECAUWX0EHAgBXRB8=]]></stream_url>
+<stream_url><![CDATA[http://01.listamove.net:25461/live/ronald/ronald/8004.m3u8?token=HhZbA0cORF8VUFAEBFcFAFJbAQdXUQkFDFtbBwQIVgFXVlYAUQJVBAFDGEBHR0QEBVU9ClISCl4FCA1IF0QQVxdrWgYWXERXD1QBWgcRGkMQUQ8GFAoAShdIUAAXC0EBVQcAVhZKRABPFVEQWlJaPgBdFApVVRJcW01VCBkTDFw6UFYPVQgCRw1DBEAYEV8SFBpYQXhVRBVAVBktW0UGQAtRR0J2BwgBVkF4A0ZUV0EoTAYCFBwSBFxMSwVBVEEIRwYKWwJESkdUDkEMQEFPQ14aIDEUHBIDTUxcCkZYDFxHDhEPBxNeRxtDXRFrQVMSEEoHAltVQkQPGglGGRMOUx1rUA1aCAMGQwhbDEcRDENVGk5BW19eD0FXSztFWAcQXxYEUgZWRBg=]]></stream_url>
 </channel>
 <channel>
 <category_id>2</category_id>  
@@ -119,7 +119,7 @@
 <category_id>4</category_id>  
 <title>SPORTV</title>
 <logo_30x30>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/800px-SporTV_logo_2011.png</logo_30x30>
-<stream_url><![CDATA[http://08.liss.fun:25461/live/000007/000007/2189.m3u8?token=HkFcUEIJRFgSVFMEWgwEUAlUBA0MWQIBV1BcVANXWFdVVFJQVVVTVVMUGRFKTUdXWA5rUFBDC1BTXQBJFhQSURc8XVUTW0RTBQYNAwobGRBNCllcFlsBTkAVUAEWW0MFUlMFBRNNRAdIQlBBV1hZbV0GQlBXBBNYDBBVCRhDDlo6B1FcUA8CQAoUBREVG1xBSUEOG3oERREXCRksWhUERgsGQBFzAAgGURZ5UkteVBJ1F1BYFk0TAAsRSwRABEMOR1AGAwNDSkBTWUBdTUtMEANBdmsWTRMHGhFcC0cIDlpHWRZcAhReQBwUXEBmS1BBTRFRWFkEQ0BYRwlHGEMMVR08V15fDwMBRF9aXUobDxAIQRgbWQ5fCxYKSzpECAUWX0EHAgNZRB8=]]></stream_url>
+<stream_url><![CDATA[http://01.listamove.net:25461/live/ronald/ronald/7999.m3u8?token=HhZbA0cORF8VUwRaAlFUAlcOUFtUBVFWDV0AVVcHVQdTAVUAUQIFVQVDGEBHR0QEBVU9ClISClEMAQBIF0QQVxdrWgYWXERXD1QBWgcRGkMQUQ8GFAoAShdIUAAXC0EBVQUGWhZKRABPFVEQWlJaPgBdFApVVRJcW01VCBkTDFw6UFYPVQgCRw1DBEAYEV8SFBpYQXhVRBVAVBktW0UGQAtRR0J2BwgBVkF4A0ZUV0EoTAYCFBwSBFxMSwVBVEEIRwYKWgJESkdUDkEMQEFPQ14aIDEUHBIDTUxcCkZYDFxHDhEPBxNeRxtDXRFrQVMSEEoHAltVQkQPGglGGRMOUx1rUA1aCAMGQwhbDEcRDENVGk5BW19eD0FXSztFWAcQXxYEUwRSRBg=]]></stream_url>
 </channel>
 <channel>  
 <category_id>4</category_id>  
@@ -221,6 +221,18 @@
 <logo_30x30>https://seeklogo.com/images/B/bola-copa-brasil-2014-logo-2E974327EF-seeklogo.com.png<logo_30x30>  
 <stream_url><![CDATA[http://apk.futeboltv.com:8081/live/19/chunks.m3u8]]></stream_url>
 </channel>
+<channel>
+<category_id>4</category_id>
+<title>Smart</title>
+<logo_30x30>http://porno-smart.ru/images/logo_psmart.png<logo_30x30>  
+<stream_url><![CDATA[http://porno-smart.ru/parser]]></stream_url>
+</channel>
+<channel>
+<category_id>4</category_id>
+<title>Smart</title>
+<logo_30x30>https://img2.androidappsapk.co/300/8/f/6/com.free.hd.sexy.hot.beautiful.gorgeous.babe.teen.girl.xvideos.mms.cute.latest.bluefilm.redtube.png<logo_30x30>  
+<stream_url><![CDATA[https://www.redtube.com.br/categories]]></stream_url>
+</channel>  
 </items>
 
 
