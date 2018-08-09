@@ -81,9 +81,9 @@
 <playlist_url><![CDATA[https://pastebin.com/raw/XgG2RmSn]]></playlist_url>
 </channel>
 <channel>
-<title>lista</title>
+<title>dm-iptv</title>
 <category_id>1</category_id>
-<playlist_url><![CDATA[http://listaiptvbrasilhd.com.br/lista.m3u]]></playlist_url>
+<playlist_url><![CDATA[http://dm-iptv.andbox.net/dm-iptv-mov.m3u8]]></playlist_url>
 </channel>   
 <channel>
 <category_id>2,5</category_id>  
