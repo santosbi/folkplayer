@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=sjRIQBAQj-0
 
 #EXTINF:0 tvg-shift=-3 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="TV Aberta;FUTEBOL AO VIVO",GLOBO SP
 #EXTBG: #11609e
-http://apk.futeboltv.com:8081/live/17/chunks.m3u8
+http://apk2.futeboltv.com:8081/live/17/chunks.m3u8
 
 #EXTINF:-1 tvg-shift=-3 tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="TV Aberta",BAND
 #EXTBG: #11609e
@@ -48,31 +48,35 @@ https://1fgm8kj.oloadcdn.net/dl/l/B_EdZCI6zNoP0lk3/gUpIbVrmo4w/uie5ujrtjgj_25.mp
 ===============================================================Esportes=============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Futebol;FUTEBOL AO VIVO",FOX SPORTS
 #EXTBG: #11609e
-http://apk.futeboltv.com:8081/live/4/playlist.m3u8
+http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="Futebol",FOX SPORTS2
 #EXTBG: #11609e
-http://apk.futeboltv.com:8081/live/5/playlist.m3u8
+http://apk2.futeboltv.com:8081/live/5/playlist.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="Futebol",SPORTV
 #EXTBG: #11609e
-http://apk.futeboltv.com:8081/live/20/playlist.m3u8
+http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="Futebol",SporTV 2
 #EXTBG: #11609e
-http://apk.futeboltv.com:8081/live/15/playlist.m3u8
+http://apk2.futeboltv.com:8081/live/15/playlist.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="Futebol",SporTV 3
 #EXTBG: #11609e
-http://apk.futeboltv.com:8081/live/7/playlist.m3u8
+http://apk2.futeboltv.com:8081/live/7/playlist.m3u8
 
 #EXTINF:4  tvg-shift=-3 group-title="Futebol",ESPN BRASIL
 #EXTBG: #11609e
-http://apk.futeboltv.com:8081/live/19/playlist.m3u8
+http://apk2.futeboltv.com:8081/live/19/playlist.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
-http://apk.futeboltv.com:8081/live/17/playlist.m3u8
+http://apk2.futeboltv.com:8081/live/3/playlist.m3u8
+
+#EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
+#EXTBG: #11609e
+http://apk2.futeboltv.com:8081/live/8/playlist.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
@@ -80,15 +84,11 @@ http://apk.futeboltv.com:8081/live/8/playlist.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
-http://apk.futeboltv.com:8081/live/9/playlist.m3u8
-
-#EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
-#EXTBG: #11609e
-http://apk.futeboltv.com:8081/live/16/playlist.m3u8
-
-#EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
-#EXTBG: #11609e
 http://apk.futeboltv.com:8081/live/19/playlist.m3u8
+
+#EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
+#EXTBG: #11609e
+http://apk.futeboltv.com:8081/live/3/playlist.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
