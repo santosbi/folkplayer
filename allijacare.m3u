@@ -24,7 +24,7 @@ http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
 https://www.youtube.com/watch?v=6K1KS7BzHTo
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-https://cdn.whostreams.net:8443/hls/zxojn.m3u8?s=uh6msjQYLV6NVDpz6gZLaA&e=1534123202
+http://cdn.whostreams.net:8080/hls/bl8yqixdm4hga.m3u8?s=dYkLm78zKDMENC8cguZ4kA&e=1534123867
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBO
 https://www.googleapis.com/drive/v3/files/1IZA6AkblH5PrIqllc_wZa4h9dGSM8n6W?alt=media&key=AIzaSyBXV3qGJ2rwDaxvUmAzaVpZMmn1t6PyU0E&fref=gc&h=ATOAOfKrTqeRe2-ljwMLFtWsz0CEUuWFtqWoS9qYUoKcPDDXnk6ec2GlpzTB7MDfFEnoXqqjHE1-g-rHJI6dfZzvLnowH0gBzh-nDpikmSPvFVkkbdie0YD0EALS6kbdwZHVUzfRrzjDsw
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
