@@ -48,41 +48,25 @@ https://1fgm8kj.oloadcdn.net/dl/l/pGCmtP_fU-TRNYlM/gUpIbVrmo4w/uie5ujrtjgj_25.mp
 ===============================================================Esportes=============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Futebol;FUTEBOL AO VIVO",FOX SPORTS
 #EXTBG: #11609e
-http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
+http://apk.futeboltv.com:8081/live/4/playlist.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="Futebol",FOX SPORTS2
 #EXTBG: #11609e
-http://apk2.futeboltv.com:8081/live/5/playlist.m3u8
+http://apk.futeboltv.com:8081/live/5/playlist.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="Futebol",SPORTV
 #EXTBG: #11609e
-http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
+http://apk.futeboltv.com:8081/live/20/playlist.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="Futebol",SporTV 2
 #EXTBG: #11609e
-http://apk2.futeboltv.com:8081/live/15/playlist.m3u8
+http://apk.futeboltv.com:8081/live/15/playlist.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="Futebol",SporTV 3
 #EXTBG: #11609e
-http://apk2.futeboltv.com:8081/live/7/playlist.m3u8
+http://apk.futeboltv.com:8081/live/7/playlist.m3u8
 
 #EXTINF:4  tvg-shift=-3 group-title="Futebol",ESPN BRASIL
-#EXTBG: #11609e
-http://apk2.futeboltv.com:8081/live/19/playlist.m3u8
-
-#EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
-#EXTBG: #11609e
-http://apk2.futeboltv.com:8081/live/3/playlist.m3u8
-
-#EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
-#EXTBG: #11609e
-http://apk2.futeboltv.com:8081/live/8/playlist.m3u8
-
-#EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
-#EXTBG: #11609e
-http://apk.futeboltv.com:8081/live/8/playlist.m3u8
-
-#EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
 http://apk.futeboltv.com:8081/live/19/playlist.m3u8
 
@@ -92,7 +76,23 @@ http://apk.futeboltv.com:8081/live/3/playlist.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
-http://apk.futeboltv.com:8081/live/2/playlist.m3u8
+http://apk.futeboltv.com:8081/live/8/playlist.m3u8
+
+#EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
+#EXTBG: #11609e
+http://apk2.futeboltv.com:8081/live/8/playlist.m3u8
+
+#EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
+#EXTBG: #11609e
+http://apk2.futeboltv.com:8081/live/19/playlist.m3u8
+
+#EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
+#EXTBG: #11609e
+http://apk2.futeboltv.com:8081/live/3/playlist.m3u8
+
+#EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
+#EXTBG: #11609e
+http://apk2.futeboltv.com:8081/live/2/playlist.m3u8
 ================================================================Clipe===========================================================
 #EXTINF:4 tvg-shift=-3 group-title="Clipe",Radio Capital TiVù
 #EXTBG: #11609e
