@@ -22,7 +22,7 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-http://cdn.whostreams.net:8080/hls/lqrxwxkt9r6.m3u8?s=4X9mNiSm9FxTkC1A49aGjA&e=1534485493
+https://cdn.whostreams.net:8443/hls/3h23vjvyfv6.m3u8?s=KnDZxcfAU7eBQEuQAht9tA&e=1534541745
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
 https://cdn.whostreams.net:8443/hls/3h23vjvyfv6.m3u8?s=SgQtQNQkEOWZNDRDUTmoMw&e=1534485649
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBO
@@ -38,7 +38,7 @@ http://paraisotv.ddns.net:80/099/myStream/live.m3u8
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
 http://paraisotv.ddns.net:80/100/myStream/live.m3u8
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
-https://1fhjlp7.oloadcdn.net/dl/l/dBaS4MHXQf7-wL3i/xi26reun6h0/Cr%C3%B4nicas.sexuais.de.uma.fam%C3%ADlia.francesa.2012.1080p.web-dl.x264.legendado-filmes+Online+Hd7%2C-1.mp4?mime=true
+https://1fhjlp7.oloadcdn.net/dl/l/EpInyx5CTlH4OZDR/xi26reun6h0/Cr%C3%B4nicas.sexuais.de.uma.fam%C3%ADlia.francesa.2012.1080p.web-dl.x264.legendado-filmes+Online+Hd7%2C-1.mp4?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 4
 https://1fiag5l.oloadcdn.net/dl/l/dJnhXsa1Zss_5kv4/Y8PvUi6MFmE/562233814.mp4?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 5
@@ -148,13 +148,13 @@ http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m
 
 ==============================================================Movies============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies5
-https://1fgm8jw.oloadcdn.net/dl/l/hjGljcZyQ62jBpbB/TWS3Wujw9_c/uycv8756_23.mp4?mime=true
+https://1fgqfmv.oloadcdn.net/dl/l/WqcnFrxas850wrRR/hmc1W7PbeTE/Reid72o.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies4
-https://1fiagfc.oloadcdn.net/dl/l/tBCzLvZLhXVMNqBd/o68jLrPDSaQ/Addams1080.mp4?mime=true
+https://1fiafzv.oloadcdn.net/dl/l/qF_--eJMIOUX9ArF/o68jLrPDSaQ/Addams1080.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies3
-https://1fhjm2u.oloadcdn.net/dl/l/9xiKZIJl9pEZ3WLK/uDqEcYsBsBc/Jasmine_Jae_-_Casting.mp4?mime=true
+https://1fhjm2u.oloadcdn.net/dl/l/1PEDcVN599ddXMwi/uDqEcYsBsBc/Jasmine_Jae_-_Casting.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies2
-https://ph2dr9.oloadcdn.net/dl/l/9HxYYcm_W9UNA3kD/XGkjE59l8HU/RKPrime.18.08.16.Rose.Monroe.Kali.Roses.And.Harmony.Wonder.Pants.Prank.Gone.Wrong.XXX.SD.mp4?mime=true
+https://ph2dr9.oloadcdn.net/dl/l/ho9H2Fk466I0qF0F/XGkjE59l8HU/RKPrime.18.08.16.Rose.Monroe.Kali.Roses.And.Harmony.Wonder.Pants.Prank.Gone.Wrong.XXX.SD.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies1
 https://1fgm90s.oloadcdn.net/dl/l/W44b_ilbSSmJxW6l/FMfCSTw_sv0/Enterrando.Minha.Ex.2016.720p.BluRay.x264..mkv.mp4?mime=true
 ==============================================================Series============================================================
