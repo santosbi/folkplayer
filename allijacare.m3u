@@ -22,7 +22,7 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-https://cdn.whostreams.net:8443/hls/3h23vjvyfv6.m3u8?s=KnDZxcfAU7eBQEuQAht9tA&e=1534541745
+https://cdn.whostreams.net:8443/hls/3h23vjvyfv6.m3u8?s=6RJxJxQ1fGiOqQHr25zNrQ&e=1534567978
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
 https://cdn.whostreams.net:8443/hls/3h23vjvyfv6.m3u8?s=SgQtQNQkEOWZNDRDUTmoMw&e=1534485649
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBO
@@ -30,15 +30,15 @@ https://www.googleapis.com/drive/v3/files/1IZA6AkblH5PrIqllc_wZa4h9dGSM8n6W?alt=
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://www.googleapis.com/drive/v3/files/1IZA6AkblH5PrIqllc_wZa4h9dGSM8n6W?alt=media&key=AIzaSyBXV3qGJ2rwDaxvUmAzaVpZMmn1t6PyU0E&fref=gc&h=ATOAOfKrTqeRe2-ljwMLFtWsz0CEUuWFtqWoS9qYUoKcPDDXnk6ec2GlpzTB7MDfFEnoXqqjHE1-g-rHJI6dfZzvLnowH0gBzh-nDpikmSPvFVkkbdie0YD0EALS6kbdwZHVUzfRrzjDsw
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://r3---sn-bg0ezn7e.googlevideo.com/videoplayback?requiressl=yes&id=7c7fd0930841c22e&itag=18&source=blogger&app=blogger&ip=0.0.0.0&ipbits=0&expire=1535413076&sparams=expire,id,ip,ipbits,itag,mip,mm,mn,ms,mv,pl,requiressl,sc,source&signature=06ABA444EF158818292B71BB4305523A27FEC888.14DDFD35F7EB1C83CF73B6387888BA57A04D842C&key=cms1&cms_redirect=yes&mip=177.84.101.113&mm=30&mn=sn-bg0ezn7e&ms=nxu&mt=1533265034&mv=u&pl=24&sc=yes
+https://cdn.whostreams.net:8443/hls/t16ich2p0.m3u8?s=JmxOgjK3VLKU8d-ebvAnmQ&e=1534567847
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://cv.rdtcdn.com/media/videos/201309/29/557443/480p_600k_557443.mp4?a5dcae8e1adc0bdaed975f0d67fb5e0527c20903c5bb57a6cad7e6cb4bb041f77ff3f226f84223df9d488735ac28a1615be45dd06aea5aaf5270a4f4a47397fc371a637c97b7441b93fb13550543cfca6125e252e03125bc51363be6c1a59bd4e1697fa5c9140ff21f4448e1fdd41fe8c01d8d13d10bb9c9cf16d5d2
+https://www.youtube.com/watch?v=90uPL5ePcfo
 #EXTINF:11 tvg-shift=-3  group-title="Canais Beta",PREMIERE 2
 http://paraisotv.ddns.net:80/099/myStream/live.m3u8
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
 http://paraisotv.ddns.net:80/100/myStream/live.m3u8
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
-https://1fhjlp7.oloadcdn.net/dl/l/EpInyx5CTlH4OZDR/xi26reun6h0/Cr%C3%B4nicas.sexuais.de.uma.fam%C3%ADlia.francesa.2012.1080p.web-dl.x264.legendado-filmes+Online+Hd7%2C-1.mp4?mime=true
+https://1fhjlp7.oloadcdn.net/dl/l/kOg4wvMvJJvpAHGn/xi26reun6h0/Cr%C3%B4nicas.sexuais.de.uma.fam%C3%ADlia.francesa.2012.1080p.web-dl.x264.legendado-filmes+Online+Hd7%2C-1.mp4?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 4
 https://1fhjluk.oloadcdn.net/dl/l/aIhHeuIzgcrYdqT7/E-PjgT9tKW0/btaw_aletta_ocean_ap080414_272p_650_mobile.mp4?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 5
@@ -156,7 +156,7 @@ https://1fhjm2u.oloadcdn.net/dl/l/1PEDcVN599ddXMwi/uDqEcYsBsBc/Jasmine_Jae_-_Cas
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies2
 https://ph2dr9.oloadcdn.net/dl/l/ho9H2Fk466I0qF0F/XGkjE59l8HU/RKPrime.18.08.16.Rose.Monroe.Kali.Roses.And.Harmony.Wonder.Pants.Prank.Gone.Wrong.XXX.SD.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies1
-https://1fgm90s.oloadcdn.net/dl/l/m4dy-oqOnKyNiV2I/FMfCSTw_sv0/Enterrando.Minha.Ex.2016.720p.BluRay.x264..mkv.mp4?mime=true
+https://1fgm90s.oloadcdn.net/dl/l/99n4UDxlunL0wFRs/FMfCSTw_sv0/Enterrando.Minha.Ex.2016.720p.BluRay.x264..mkv.mp4?mime=true
 ==============================================================Series============================================================
 ============================================================South Park==========================================================
 #EXTINF:0 tvg-logo="http://i.imgur.com/slGftt7.jpg" group-title="South Park",01 South Park
