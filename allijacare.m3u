@@ -22,9 +22,9 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-http://89.248.168.39:8088/live/premiere4hdbr8/playlist.m3u8?id=32678&wowzasessionid=7889786074&pk=9afaa93b3896f6fb5dfac7bc76b5befcb20adf05e0bd6d5b7f0290c13d121f99
+http://cdn.whostreams.net:8080/hls/lqrxwxkt9r6.m3u8?s=8cOGu1BnkBRc-Bn5MHXefw&e=1534639150
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-https://cdn.whostreams.net:8443/hls/044ib4h0bk.m3u8?s=ys-mnGGfp0mWIwRLCvKHAQ&e=1534635442
+https://cdn.whostreams.net:8443/hls/044ib4h0bk.m3u8?s=EOzCcyCagCMF4UatVDK2-w&e=1534639245
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBO
 https://www.googleapis.com/drive/v3/files/1IZA6AkblH5PrIqllc_wZa4h9dGSM8n6W?alt=media&key=AIzaSyBXV3qGJ2rwDaxvUmAzaVpZMmn1t6PyU0E&fref=gc&h=ATOAOfKrTqeRe2-ljwMLFtWsz0CEUuWFtqWoS9qYUoKcPDDXnk6ec2GlpzTB7MDfFEnoXqqjHE1-g-rHJI6dfZzvLnowH0gBzh-nDpikmSPvFVkkbdie0YD0EALS6kbdwZHVUzfRrzjDsw
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
@@ -34,11 +34,11 @@ https://r11---sn-bg07dne6.googlevideo.com/videoplayback?requiressl=yes&id=381a48
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://www.youtube.com/watch?v=99SmMo1XqzQ
 #EXTINF:11 tvg-shift=-3  group-title="Canais Beta",PREMIERE 2
-http://cdn.widestream.io:8080/hls/pyoiico.m3u8?s=B5ffCBh9I4qyxJXX_MaxxA&e=1534635485
+http://cdn.widestream.io:8080/hls/pyoiico.m3u8?s=iDaAAW6ZEW6anWVXIM9BaA&e=1534639268
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
 http://185.216.140.53:8088/live/premiere4hdbr8/playlist.m3u8?id=32678&wowzasessionid=3945000234&pk=9afaa93b3896f6fb5dfac7bc76b5befcb20adf05e0bd6d5b7f0290c13d121f99
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
-https://1fhjlp7.oloadcdn.net/dl/l/g6QSGc2KCUg6Ib7V/xi26reun6h0/Cr%C3%B4nicas.sexuais.de.uma.fam%C3%ADlia.francesa.2012.1080p.web-dl.x264.legendado-filmes+Online+Hd7%2C-1.mp4?mime=true
+https://1fhjlp7.oloadcdn.net/dl/l/6nBSCQr_Y8OuZ_dW/xi26reun6h0/Cr%C3%B4nicas.sexuais.de.uma.fam%C3%ADlia.francesa.2012.1080p.web-dl.x264.legendado-filmes+Online+Hd7%2C-1.mp4?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 4
 https://1fhjluk.oloadcdn.net/dl/l/7hvuBlMjfmG4OBGT/E-PjgT9tKW0/btaw_aletta_ocean_ap080414_272p_650_mobile.mp4?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 5
@@ -156,7 +156,7 @@ https://1fhjm2u.oloadcdn.net/dl/l/BLaTH__gUOcFFY_q/uDqEcYsBsBc/Jasmine_Jae_-_Cas
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies2
 https://ph2dr9.oloadcdn.net/dl/l/e92g7LBMrpmE63xy/XGkjE59l8HU/RKPrime.18.08.16.Rose.Monroe.Kali.Roses.And.Harmony.Wonder.Pants.Prank.Gone.Wrong.XXX.SD.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies1
-http://network.vstreaming.net/movies/cidadesdepapel-dub-720p.mp4
+https://1fgm8k0.oloadcdn.net/dl/l/hbMQQbmUzY_UcCnd/37fDSCKg4cg/%23screamers+2017+480p+Hdrip+X264+Ac3-filmesonlinehd7+%281%29-1.mp4?mime=true
 ==============================================================Series============================================================
 ============================================================South Park==========================================================
 #EXTINF:0 tvg-logo="http://i.imgur.com/slGftt7.jpg" group-title="South Park",01 South Park
