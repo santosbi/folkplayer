@@ -28,9 +28,9 @@ https://cdn.whostreams.net:8443/hls/044ib4h0bk.m3u8?s=ys-mnGGfp0mWIwRLCvKHAQ&e=1
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBO
 https://www.googleapis.com/drive/v3/files/1IZA6AkblH5PrIqllc_wZa4h9dGSM8n6W?alt=media&key=AIzaSyBXV3qGJ2rwDaxvUmAzaVpZMmn1t6PyU0E&fref=gc&h=ATOAOfKrTqeRe2-ljwMLFtWsz0CEUuWFtqWoS9qYUoKcPDDXnk6ec2GlpzTB7MDfFEnoXqqjHE1-g-rHJI6dfZzvLnowH0gBzh-nDpikmSPvFVkkbdie0YD0EALS6kbdwZHVUzfRrzjDsw
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://www.googleapis.com/drive/v3/files/1IZA6AkblH5PrIqllc_wZa4h9dGSM8n6W?alt=media&key=AIzaSyBXV3qGJ2rwDaxvUmAzaVpZMmn1t6PyU0E&fref=gc&h=ATOAOfKrTqeRe2-ljwMLFtWsz0CEUuWFtqWoS9qYUoKcPDDXnk6ec2GlpzTB7MDfFEnoXqqjHE1-g-rHJI6dfZzvLnowH0gBzh-nDpikmSPvFVkkbdie0YD0EALS6kbdwZHVUzfRrzjDsw
+https://r6---sn-bg07dnl7.googlevideo.com/videoplayback?requiressl=yes&id=931c36d5eaa055f2&itag=18&source=blogger&app=blogger&ip=0.0.0.0&ipbits=0&expire=1536763698&sparams=expire,id,ip,ipbits,itag,mip,mm,mn,ms,mv,pl,requiressl,sc,source&signature=458063BC0031A4F50BA720EB226864DC7898B949.534BF0CBB83EC167B50905440180375FCE98A874&key=cms1&cms_redirect=yes&mip=138.99.33.79&mm=30&mn=sn-bg07dnl7&ms=nxu&mt=1534615214&mv=u&pl=24&sc=yes
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://cdn.whostreams.net:8443/hls/t16ich2p0.m3u8?s=JmxOgjK3VLKU8d-ebvAnmQ&e=1534567847
+https://r11---sn-bg07dne6.googlevideo.com/videoplayback?requiressl=yes&id=381a48448f90db14&itag=18&source=blogger&app=blogger&ip=0.0.0.0&ipbits=0&expire=1536763653&sparams=expire,id,ip,ipbits,itag,mip,mm,mn,ms,mv,pl,requiressl,sc,source&signature=17C8571426F066044F937C5C6649146B819D3BE7.75C34564492D956E5D6B586374612D5B3DCC6F39&key=cms1&cms_redirect=yes&mip=138.99.33.79&mm=30&mn=sn-bg07dne6&ms=nxu&mt=1534615214&mv=u&pl=24&sc=yes
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://www.youtube.com/watch?v=99SmMo1XqzQ
 #EXTINF:11 tvg-shift=-3  group-title="Canais Beta",PREMIERE 2
@@ -40,11 +40,11 @@ http://185.216.140.53:8088/live/premiere4hdbr8/playlist.m3u8?id=32678&wowzasessi
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
 https://1fhjlp7.oloadcdn.net/dl/l/g6QSGc2KCUg6Ib7V/xi26reun6h0/Cr%C3%B4nicas.sexuais.de.uma.fam%C3%ADlia.francesa.2012.1080p.web-dl.x264.legendado-filmes+Online+Hd7%2C-1.mp4?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 4
-https://1fhjluk.oloadcdn.net/dl/l/XEeyzktgQYvMcku8/E-PjgT9tKW0/btaw_aletta_ocean_ap080414_272p_650_mobile.mp4?mime=true
+https://1fhjluk.oloadcdn.net/dl/l/7hvuBlMjfmG4OBGT/E-PjgT9tKW0/btaw_aletta_ocean_ap080414_272p_650_mobile.mp4?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 5
-https://ph2dph.oloadcdn.net/dl/l/hmH4pIk8Xb4q3VdX/W-8wsvILopw/uie5ujrtjgj_18.wmv.mp4?mime=true
+https://ph2dph.oloadcdn.net/dl/l/NgPpiLvBJeYRgBAb/W-8wsvILopw/uie5ujrtjgj_18.wmv.mp4?mime=true
 #EXTINF:50 tvg-shift=-3 group-title="Canais Beta",PREMIERE CLUB
-https://1fgm8kj.oloadcdn.net/dl/l/Wh3w9s90SD3_eypM/gUpIbVrmo4w/uie5ujrtjgj_25.mp4?mime=true
+https://1fgm8kj.oloadcdn.net/dl/l/f-ZuM4JWoCvU5AlY/gUpIbVrmo4w/uie5ujrtjgj_25.mp4?mime=true
 ===============================================================Esportes=============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Futebol;FUTEBOL AO VIVO",FOX SPORTS
 #EXTBG: #11609e
@@ -148,13 +148,13 @@ http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m
 
 ==============================================================Movies============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies5
-https://ph2dvn.oloadcdn.net/dl/l/TcEgEWiIUIWNeCCx/Fdk1TKfdRTg/AugTaysd.mp4?mime=true
+https://pgli39.oloadcdn.net/dl/l/QZDQHgCHB5SwFGf0/2KA_HTsTNVc/ind_tarfall.1080.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies4
-https://17wy0tw.oloadcdn.net/dl/l/FLe1_5ql0GQ-54Gt/jcm5l9H5R2w/Addams.mp4?mime=true
+https://pgli2z.oloadcdn.net/dl/l/45Z3JFLeT3jSqLbc/jcm5l9H5R2w/Addams.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies3
-https://1fhjm2u.oloadcdn.net/dl/l/GM_240VKXfKR3tFf/uDqEcYsBsBc/Jasmine_Jae_-_Casting.mp4?mime=true
+https://1fhjm2u.oloadcdn.net/dl/l/BLaTH__gUOcFFY_q/uDqEcYsBsBc/Jasmine_Jae_-_Casting.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies2
-https://ph2dr9.oloadcdn.net/dl/l/aNs4dXqMk31Z7Rer/XGkjE59l8HU/RKPrime.18.08.16.Rose.Monroe.Kali.Roses.And.Harmony.Wonder.Pants.Prank.Gone.Wrong.XXX.SD.mp4?mime=true
+https://ph2dr9.oloadcdn.net/dl/l/e92g7LBMrpmE63xy/XGkjE59l8HU/RKPrime.18.08.16.Rose.Monroe.Kali.Roses.And.Harmony.Wonder.Pants.Prank.Gone.Wrong.XXX.SD.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies1
 http://network.vstreaming.net/movies/cidadesdepapel-dub-720p.mp4
 ==============================================================Series============================================================
