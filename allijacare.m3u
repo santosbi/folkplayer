@@ -22,9 +22,9 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-https://cdn.whostreams.net:8443/hls/3v4l7uw5wgf89.m3u8?s=E-pUI8yv1fn0x3uCbeg6-Q&e=1534598392
+http://89.248.168.39:8088/live/premiere4hdbr8/playlist.m3u8?id=32678&wowzasessionid=7889786074&pk=9afaa93b3896f6fb5dfac7bc76b5befcb20adf05e0bd6d5b7f0290c13d121f99
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-https://cdn.whostreams.net:8443/hls/3h23vjvyfv6.m3u8?s=SgQtQNQkEOWZNDRDUTmoMw&e=1534485649
+https://cdn.whostreams.net:8443/hls/044ib4h0bk.m3u8?s=ys-mnGGfp0mWIwRLCvKHAQ&e=1534635442
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBO
 https://www.googleapis.com/drive/v3/files/1IZA6AkblH5PrIqllc_wZa4h9dGSM8n6W?alt=media&key=AIzaSyBXV3qGJ2rwDaxvUmAzaVpZMmn1t6PyU0E&fref=gc&h=ATOAOfKrTqeRe2-ljwMLFtWsz0CEUuWFtqWoS9qYUoKcPDDXnk6ec2GlpzTB7MDfFEnoXqqjHE1-g-rHJI6dfZzvLnowH0gBzh-nDpikmSPvFVkkbdie0YD0EALS6kbdwZHVUzfRrzjDsw
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
@@ -34,9 +34,9 @@ https://cdn.whostreams.net:8443/hls/t16ich2p0.m3u8?s=JmxOgjK3VLKU8d-ebvAnmQ&e=15
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://www.youtube.com/watch?v=99SmMo1XqzQ
 #EXTINF:11 tvg-shift=-3  group-title="Canais Beta",PREMIERE 2
-http://paraisotv.ddns.net:80/099/myStream/live.m3u8
+http://cdn.widestream.io:8080/hls/pyoiico.m3u8?s=B5ffCBh9I4qyxJXX_MaxxA&e=1534635485
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
-http://paraisotv.ddns.net:80/100/myStream/live.m3u8
+http://185.216.140.53:8088/live/premiere4hdbr8/playlist.m3u8?id=32678&wowzasessionid=3945000234&pk=9afaa93b3896f6fb5dfac7bc76b5befcb20adf05e0bd6d5b7f0290c13d121f99
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
 https://1fhjlp7.oloadcdn.net/dl/l/g6QSGc2KCUg6Ib7V/xi26reun6h0/Cr%C3%B4nicas.sexuais.de.uma.fam%C3%ADlia.francesa.2012.1080p.web-dl.x264.legendado-filmes+Online+Hd7%2C-1.mp4?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 4
