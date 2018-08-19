@@ -22,9 +22,9 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-http://cdn.whostreams.net:8080/hls/lqrxwxkt9r6.m3u8?s=8cOGu1BnkBRc-Bn5MHXefw&e=1534639150
+http://cdn.widestream.io:8080/hls/pyoiico.m3u8?s=EONxEbyfSomzf63Wej5OHQ&e=1534722866
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-https://cdn.whostreams.net:8443/hls/044ib4h0bk.m3u8?s=EOzCcyCagCMF4UatVDK2-w&e=1534639245
+https://live-edge.pxstream.tv/hls2/pfh4/hls2/premiere4-640p/chunks.m3u8?md5=lOYK8wB_67Xc3AwSbSPLVg&expires=1534744462
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBO
 https://www.googleapis.com/drive/v3/files/1IZA6AkblH5PrIqllc_wZa4h9dGSM8n6W?alt=media&key=AIzaSyBXV3qGJ2rwDaxvUmAzaVpZMmn1t6PyU0E&fref=gc&h=ATOAOfKrTqeRe2-ljwMLFtWsz0CEUuWFtqWoS9qYUoKcPDDXnk6ec2GlpzTB7MDfFEnoXqqjHE1-g-rHJI6dfZzvLnowH0gBzh-nDpikmSPvFVkkbdie0YD0EALS6kbdwZHVUzfRrzjDsw
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
@@ -34,9 +34,9 @@ https://oqbkii.oloadcdn.net/dl/l/h8sOfOOrWjYtqMD6/AJeWse-kuQE/1nzt14bl3.S01E03.D
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://oqt1ph.oloadcdn.net/dl/l/M9zYmkuvRIuTpowL/JyGP1PN_baA/Love.S01E01.720p.Dub.WWW.MEGAFILMESONLINEHD.COM.mkv.mp4?mime=true
 #EXTINF:11 tvg-shift=-3  group-title="Canais Beta",PREMIERE 2
-http://cdn.widestream.io:8080/hls/pyoiico.m3u8?s=iDaAAW6ZEW6anWVXIM9BaA&e=1534639268
+http://94.102.51.27:8088/live/premiere4hdbr8/playlist.m3u8?id=32678&wowzasessionid=3161328733&pk=6b9782e7de274aa932b6686f159566a65e2169c61d27e433a04ca9ae09fbff5a
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
-http://185.216.140.53:8088/live/premiere4hdbr8/playlist.m3u8?id=32678&wowzasessionid=3945000234&pk=9afaa93b3896f6fb5dfac7bc76b5befcb20adf05e0bd6d5b7f0290c13d121f99
+https://live-edge.pxstream.tv/hls2/pfh4/hls2/premiere4-240p/chunks.m3u8?md5=lOYK8wB_67Xc3AwSbSPLVg&expires=1534744462
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
 https://1fhjlp7.oloadcdn.net/dl/l/6qoq3C7W_U-ZYnH_/xi26reun6h0/Cr%C3%B4nicas.sexuais.de.uma.fam%C3%ADlia.francesa.2012.1080p.web-dl.x264.legendado-filmes+Online+Hd7%2C-1.mp4?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 4
