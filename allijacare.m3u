@@ -98,9 +98,9 @@ http://apk2.futeboltv.com:8081/live/2/playlist.m3u8
 #EXTBG: #11609e
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
 ================================================================Radios==========================================================
-#EXTINF:4 tvg-shift=-3 group-title="RÁDIOS",LOVE SONGS
+#EXTINF:4 tvg-shift=-3 group-title="RÁDIOS",SAUDADE FM
 #EXTBG: #11609e
-http://192.99.150.31:8897/stream
+http://audio.saudadefm.com.br:8000/saudadefm
 
 #EXTINF:4 tvg-shift=-3 group-title="RÁDIOS",ANTENA 1 RJ
 #EXTBG: #11609e
@@ -108,7 +108,7 @@ http://a1rj.streams.com.br:7801/stream
 
 #EXTINF:4 tvg-shift=-3 group-title="RÁDIOS",ALFHA FM SP
 #EXTBG: #11609e
-http://201.16.212.125/alphafmsp?f=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjE3MC4yMzEuMTU0LjcxIiwicm9sZSI6ImxpdmUiLCJpZCI6IjViNzFkNGNjNTMxZGVjNWE1ZmFhMmMyNiIsImFpZCI6IjVhYzc2NTAwOTNlZjgzMzM3YTFhZWYxMSIsInVpZCI6IjViNzFkNGNjNTMxZGVjNWE1ZmFhMmMyNSIsImxhdCI6Ii0yMS41NjA2IiwibG5nIjoiLTQ1LjQzNCIsIm5iZiI6MTUzNDE4NjcwMCwiZXhwIjoxNTM0MjczMTAwLCJpYXQiOjE1MzQxODY3MDAsImlzcyI6Imh0dHA6Ly93d3cubmV4dGRpYWwuY29tLmJyIiwiYXVkIjoibGl2ZSJ9.-7Dhg09Hj1WGLzHY-8izlhoixC6hb6YeLyiGDe6iuSY
+http://streamingv2.shoutcast.com/AlphaFM101-7
 
 #EXTINF:4 tvg-shift=-3 group-title="RÁDIOS",JOVEM PAN FM
 #EXTBG: #11609e
@@ -126,9 +126,9 @@ http://stream.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
 #EXTBG: #11609e
 http://stream.sgr.globo.com/hls/aRGloboSP/aRGloboSP.m3u8
 
-#EXTINF:4 tvg-shift=-3 group-title="RÁDIOS",ROMÂNTICAS
+#EXTINF:4 tvg-shift=-3 group-title="RÁDIOS",RETRO FM
 #EXTBG: #11609e
-http://192.99.150.31:8962/stream
+http://45.76.239.210:5036/stream
 
 #EXTINF:4 tvg-shift=-3 group-title="RÁDIOS",RADIO BANDEIRANTES
 #EXTBG: #11609e
