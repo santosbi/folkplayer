@@ -22,9 +22,9 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-https://cdn.whostreams.net:8443/hls/3h23vjvyfv6.m3u8?s=orYW-vl2G_n7cV2W-kHb8A&e=1534895132
+https://live-edge.pxstream.tv/loadbalance/sat1/chunks.m3u8?md5=dHuEyy3XJr4Trx3T-MP4ew&expires=1534932109
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-https://live-edge.pxstream.tv/hls/foxsportshd/chunks.m3u8?md5=wsaXAPg23AqUD1HQPHdwVQ&expires=1534916615
+https://live-edge.pxstream.tv/loadbalance/sat1/chunks.m3u8?md5=azSPGPdfGu4WQ7RtByg0pw&expires=1534932010
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBO
 https://doc-0o-2c-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/su2ap57cph1g00jlfpb2dp5ualr7d9t0/1534867200000/06148218398067748839/*/19vrns1C0wGzXI4nx2x7wQ85JNCh3kaLi?e=download
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
@@ -32,11 +32,11 @@ https://doc-14-2c-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffks
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://doc-08-2c-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/to3nl5oh5i3s8oukst4bcenlf3ifoelm/1534867200000/06148218398067748839/*/1cgdRg6dUUqeMgimCoP8c7hqmzpQe2w_9?e=download
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://1fhjlk1.oloadcdn.net/dl/l/gKMF2qsiAoz-q4Zk/aaTkqhC8lx0/Insatiable+S01+x+E08+-+Dub.mp4?mime=true
+https://doc-04-2c-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/rn4obokn9hgnb10f2q1o4ppvdrhbpglm/1534888800000/06148218398067748839/*/1pasKM_GVx2FA7_6cG2lLnhWOO0uex0hv?e=download
 #EXTINF:11 tvg-shift=-3  group-title="Canais Beta",PREMIERE 2
-http://cdn.whostreams.net:8080/hls/w3eyro.m3u8?s=p8iK3UH7nbOQh-EkCfYg3w&e=1534894936
+http://cdn.whostreams.net:8080/hls/w3eyro.m3u8?s=gR8SYUSRU5oSPdvlub-ISg&e=1534910437
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
-http://cdn.widestream.io:8080/hls/dof3tae.m3u8?s=Sf68tdznhV8ST4861h4CAw&e=1534894979
+https://live-edge.pxstream.tv/hls2/pfh1/hls2/premiere1-640p/chunks.m3u8?md5=gFgI9-OcR4bYHdnWwhNV8w&expires=1534931873
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
 https://1fhjlp7.oloadcdn.net/dl/l/jXwFCCek9pAVqkDP/xi26reun6h0/Cr%C3%B4nicas.sexuais.de.uma.fam%C3%ADlia.francesa.2012.1080p.web-dl.x264.legendado-filmes+Online+Hd7%2C-1.mp4?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 4
