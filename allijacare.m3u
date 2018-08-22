@@ -24,7 +24,7 @@ http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
 http://cdn.widestream.io:8080/hls/dof3tae.m3u8?s=iwQRaQ-1lvpoDECXyzwdLQ&e=1534978468
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-http://cdn.whostreams.net:8080/hls/w3eyro.m3u8?s=mbGb-GHiFoo4ibvQcDfJlQ&e=1534978437
+https://cdn.whostreams.net:8443/hls/3v4l7uw5wgf89.m3u8?s=OEzkq_Gsc39vWSKxzhu4IQ&e=1534998351
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBO
 https://lime-tree.fruithosted.net/dl/n/tz2gAo7uYAoRORf3/frcmrpdfecmmskol/qNafCGREEQDjvR8umHKx710No0y204IgNRlh8Cy3Dg3rC_RYm5T40uxjKu0dMeHgH0AK3kuRIPOJOk19qDsAmIJEZytnUDu_bdGEDVOtXmLFECbh9kMNn2vFEvVYEwkWqTectWC_JgZ1vm573HknPSL57Xaahy2vHt6hQO4efR-XH1QUbeNKy70E_5ODC3fKtf_BKt2lDhGDaPM-ABQPuVPx363HhpJ4fS4LXSDbEAkXD8Mr9ohXtAwZiY3PCePh-BlEGhlvIIuwInKCSUodt_ucVw1LePS6-38XGPqr-giK7bTDn5etcCJLIAQDxf9T_QB9T_EoroeWTu1SOooIw1Yc7Em_xmfWu0UhH64LuRPycTxpidOyFDGmiziGhkmbWXHtga2gXMnnr_H605LDnOrv1RmFvT7yeSMa6nx-_xZGPvt-JWN0kscjC_6hpYPI/Insatiable.S01E12.DUB.mkv.mp4
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
