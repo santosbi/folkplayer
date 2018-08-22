@@ -22,9 +22,9 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-https://live-edge.pxstream.tv/hls/foxsportshd/chunks.m3u8?md5=tA9c1kgHNCG81gQkeOlp9Q&expires=1534942186
+http://cdn.whostreams.net:8080/hls/lqrxwxkt9r6.m3u8?s=xh1ckXX3HcY-X0F1MYnvsQ&e=1534922046
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-https://cdn.whostreams.net:8443/hls/3h23vjvyfv6.m3u8?s=clW6CCdlDV0lHX3VXdhmHg&e=1534920749
+http://apk2.futeboltvgratis.com:8081/live/4/chunks.m3u8?nimblesessionid=2648450
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBO
 https://doc-0o-2c-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/su2ap57cph1g00jlfpb2dp5ualr7d9t0/1534867200000/06148218398067748839/*/19vrns1C0wGzXI4nx2x7wQ85JNCh3kaLi?e=download
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
@@ -34,7 +34,7 @@ https://doc-08-2c-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffks
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://doc-04-2c-docs.googleusercontent.com/docs/securesc/ha0ro937gcuc7l7deffksulhg5h7mbp1/rn4obokn9hgnb10f2q1o4ppvdrhbpglm/1534888800000/06148218398067748839/*/1pasKM_GVx2FA7_6cG2lLnhWOO0uex0hv?e=download
 #EXTINF:11 tvg-shift=-3  group-title="Canais Beta",PREMIERE 2
-http://cdn.whostreams.net:8080/hls/lqrxwxkt9r6.m3u8?s=qTd0DcNGAbtIwS0WLhhJqQ&e=1534920490
+https://cdn.whostreams.net:8443/hls/3h23vjvyfv6.m3u8?s=F4A33ADWWfjdZrh0HBfkkw&e=1534922114
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
 http://cdn.whostreams.net:8080/hls/lqrxwxkt9r6.m3u8?s=TYm6KjNZwN8o2QkUawczcA&e=1534920404
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
