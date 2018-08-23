@@ -22,9 +22,9 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-http://cdn.whostreams.net:8080/hls/lqrxwxkt9r6.m3u8?s=E4oQaQRT0D885aBk9t4zFA&e=1535004840
+https://live-edge.pxstream.tv/hls2/pfh1/hls2/premiere1-640p/chunks.m3u8?md5=r3q38h-ZNtIbEr_-Yrn68g&expires=1535087187
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-http://94.102.52.44:8088/live/premiere1hdbr9/playlist.m3u8?id=32408&wowzasessionid=3527369952&pk=54c88596e30327143054559efad3922d2e990fa8425a0780f8e7694ce28b995c
+https://cdn.whostreams.net:8443/hls/3h23vjvyfv6.m3u8?s=CYFqjH3-X05ro6erHGZNig&e=1535065752
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBO
 https://lime-tree.fruithosted.net/dl/n/QaaUp-zBmpBXdTKP/frcmrpdfecmmskol/kFv5D3FNKO1FSwuZbAxTilqzCKCuPX8RyefRhx2wCp7wlMmhUh0ctR9Z-5yrW8n3z-H8DVJRo1unfbkCJO7Zqti4lDkigcwmbUkHU4nMKTlNwFqbRSl29Vde7jq94_z9XHFEvONgmC-sfxq4HscArb1IIWx-ELgubfBeAA64eCfL4FV3Pm5Sm-hLmAzzhcFLKe8fzKw48WasP-BpUFaLBDiWd3jqtzWYzCqDxZAqfv_KOhButQN4y50a4mvelafoW1j0p0E6LPO2s4AMob-OS394F6hDE9laXxPxEfQLkTYzm_sMSoRCicA5THrARfaa0oZE8Io_c35Ktcb4NmU-EGXRSfsB2_7DDdF5NXqiwdyWiDfgFeOFscBvUSZczURMvQBnC94mmezBhNLZ3CQZS70nkpJ1kS-FbLYSF6PdROTdtc02KLng1dT_dwVcm5Wv/Insatiable.S01E12.DUB.mkv.mp4
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
@@ -38,13 +38,13 @@ https://live-edge.pxstream.tv/hls2/pfh1/hls2/premiere1-640p/chunks.m3u8?md5=gLlR
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
 https://cdn.whostreams.net:8443/hls/3v4l7uw5wgf89.m3u8?s=8Pwh9B_R0-UrC7Sbp6KsFQ&e=1535004965
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
-https://1fgqfm8.oloadcdn.net/dl/l/kltojXk8VphXkIbf/e6rOnnTr-O0/No.Rastro.da.Viol%C3%AAncia.2017.720p.mp4?mime=true
+https://1fgqfm8.oloadcdn.net/dl/l/nsPviBAQlx7i8Hch/e6rOnnTr-O0/No.Rastro.da.Viol%C3%AAncia.2017.720p.mp4?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 4
-https://1fgqftt.oloadcdn.net/dl/l/Dyqg9aikpcDunC-o/1kADlz06CH4/LeStarSD.mp4?mime=true
+https://1fgm8jq.oloadcdn.net/dl/l/is2k4tYZdAgksZkI/1kADlz06CH4/LeStarSD.mp4?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 5
-https://1fgqfmw.oloadcdn.net/dl/l/H8aHlg6y-uNkKi7H/rYLJrqCCMHU/LexiVinaSD.mp4?mime=true
+https://1fgqfmw.oloadcdn.net/dl/l/XVm__gM5tK50Y7lp/rYLJrqCCMHU/LexiVinaSD.mp4?mime=true
 #EXTINF:50 tvg-shift=-3 group-title="Canais Beta",PREMIERE CLUB
-https://1fgm8kj.oloadcdn.net/dl/l/YNtsquVVx6dMGHR5/gUpIbVrmo4w/uie5ujrtjgj_25.mp4?mime=true
+https://1fgm8kj.oloadcdn.net/dl/l/cMbeif6VZNF75k8T/gUpIbVrmo4w/uie5ujrtjgj_25.mp4?mime=true
 ===============================================================Esportes=============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Futebol;FUTEBOL AO VIVO",FOX SPORTS
 #EXTBG: #11609e
@@ -148,15 +148,15 @@ http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m
 
 ==============================================================Movies============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies5
-https://17wy0rh.oloadcdn.net/dl/l/bDZWR8TRXDxcsVao/ka_q2VZk_3A/colett_ea.720.mp4?mime=true
+https://17wy0rh.oloadcdn.net/dl/l/S8cDQYMItqGioBaA/ka_q2VZk_3A/colett_ea.720.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies4
-https://1fgqfv1.oloadcdn.net/dl/l/jObVO-F6kyjx8smg/A129t2vrjNA/audreybitoni_hotbigtitsddd.x.epidemz.co.mp4?mime=true
+https://1fgqfv1.oloadcdn.net/dl/l/FMGLkOi94Q5bribC/A129t2vrjNA/audreybitoni_hotbigtitsddd.x.epidemz.co.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies3
-https://1fhjm2u.oloadcdn.net/dl/l/_OfI_KAOADnJVI4E/uDqEcYsBsBc/Jasmine_Jae_-_Casting.mp4?mime=true
+https://1fhjm2u.oloadcdn.net/dl/l/-JnhHH0L7sb0U_fK/uDqEcYsBsBc/Jasmine_Jae_-_Casting.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies2
-https://17wy0s2.oloadcdn.net/dl/l/0VLyetNr1Zu-fbnd/m3B3DweODI8/lina_opez.480.mp4?mime=true
+https://17wy0s2.oloadcdn.net/dl/l/JUd9EaJtG9OVYNHS/m3B3DweODI8/lina_opez.480.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies1
-https://1fgqfmo.oloadcdn.net/dl/l/apTXBGqhXsjAEmIV/2Cp4qUnlaQI/Puppet.master.the.littlest.reich.2018.1080p.filmes+Online+Hd7-1.mp4?mime=true
+https://1fgqfmo.oloadcdn.net/dl/l/7zhMwHkD1DMfdEV_/2Cp4qUnlaQI/Puppet.master.the.littlest.reich.2018.1080p.filmes+Online+Hd7-1.mp4?mime=true
 ==============================================================Series============================================================
 ============================================================South Park==========================================================
 #EXTINF:0 tvg-logo="http://i.imgur.com/slGftt7.jpg" group-title="South Park",01 South Park
