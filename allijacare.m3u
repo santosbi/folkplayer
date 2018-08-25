@@ -22,9 +22,9 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-http://94.176.148.138:8081/live/hbohd/chunks.m3u8?nimblesessionid=3140645&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE4IDg6MzM6MTUgQU0maGFzaF92YWx1ZT11TkNxalg3cFRoUkk5NERCd3ovOUlnPT0mdmFsaWRtaW51dGVzPTE2MCZzdHJtX2xlbj0xMA==
+http://apk2.futeboltv.com:8081/live/1001/chunks.m3u8?nimblesessionid=1090730
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-https://live-edge.pxstream.tv/hls2/multishow/chunks.m3u8?md5=95WUXnYoOSoLD6AN1AH45w&expires=1535229346
+http://cdn.whostreams.net:8080/hls/w3eyro.m3u8?s=S6zO8S_-5XK8R5hdul3klA&e=1535215577
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://hls4-l3.xvideos-cdn.com/88d0dbc50f612ff010c622999d01064f7f8ec70c-1535197236/videos/hls/dc/f0/c6/dcf0c6c15287b9b13f97490e2ac0f6a8/hls-360p.m3u8
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
@@ -34,9 +34,9 @@ https://hls-hw.xvideos-cdn.com/videos/hls/74/33/d7/7433d75b46c0d03ad415de025a6c2
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://black-raspberry.fruithosted.net/dl/n/TXiEe_GIsaUkWxPE/nkkmsqafpbtoencn/FtCMkGYPUyKWk8QUc0q6C-dCEv9h3UzHaA09qqrNFBjPqzrB2ayRbvuwdFTK-pMHRpj91306_1Y1eEH0hfM1WMzMgXq_mmZFyvHVoQf734NKRwU6ob79SCxttaQs_QB-4m-zEoXgU4xBLYR9NYwzp9MsYBL_2I9QPaq626U_TouTy9c1rETvCkl_jfPYc8A9uoOCFrW9THW6wd-RDDZGuYsuLPLAzqxzMsZYnLJrV23bWuYpghUjjynNU3iZBWVHFeOJAN3LNXCHcpjG516Zr4tz10dQYR0cP7_M0ncqAsbnllLonPKUjbBVJPrsKKArC8wrgxAWz2TsD6pbuCAyjBvhNY1Slb7nrx7xsTDdcGw5oU85dQR-HHJaUoAwCq1H2XgEgE8_LJQvsqnYOPXLiJlUuYaHmZ8Dzcq1Rr--NYnJNup10M3Xa9k4XMEKOA-85aCPyC3Vd_kNVAYmLzVbtQ/seriesonlinehd.cc+-++1tp%24si%24ren%25-1dub.mp4
 #EXTINF:11 tvg-shift=-3  group-title="Canais Beta",PREMIERE 2
-https://live-edge.pxstream.tv/hls2/pfh1/hls2/premiere1-640p/chunks.m3u8?md5=gLlRTzi9qLCIVgA5Kw54kQ&expires=1534999903
+http://80.82.70.138:8088/live/premiere1hdbr9/playlist.m3u8?id=32408&wowzasessionid=3942409818&pk=ccc6167e808224bf397267b83bab97a7dd7adad5c56a9bc5920bfe38244ba370
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
-https://cdn.whostreams.net:8443/hls/3v4l7uw5wgf89.m3u8?s=8Pwh9B_R0-UrC7Sbp6KsFQ&e=1535004965
+http://cdn.whostreams.net:8080/hls/w3eyro.m3u8?s=S6zO8S_-5XK8R5hdul3klA&e=1535215577
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
 https://1fgqfm8.oloadcdn.net/dl/l/XT8QhLE5mn9omduc/e6rOnnTr-O0/No.Rastro.da.Viol%C3%AAncia.2017.720p.mp4?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 4
