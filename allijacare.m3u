@@ -22,9 +22,9 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-https://live-edge.pxstream.tv/hls2/pfh1/hls2/premiere1-640p/chunks.m3u8?md5=r3q38h-ZNtIbEr_-Yrn68g&expires=1535087187
+http://94.176.148.138:8081/live/hbohd/chunks.m3u8?nimblesessionid=3140645&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE4IDg6MzM6MTUgQU0maGFzaF92YWx1ZT11TkNxalg3cFRoUkk5NERCd3ovOUlnPT0mdmFsaWRtaW51dGVzPTE2MCZzdHJtX2xlbj0xMA==
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-https://cdn.whostreams.net:8443/hls/3h23vjvyfv6.m3u8?s=QcTnu0KJbEGVZBhEgZEZiA&e=1535152959
+https://live-edge.pxstream.tv/hls2/multishow/chunks.m3u8?md5=95WUXnYoOSoLD6AN1AH45w&expires=1535229346
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBO
 https://lime-tree.fruithosted.net/dl/n/QaaUp-zBmpBXdTKP/frcmrpdfecmmskol/kFv5D3FNKO1FSwuZbAxTilqzCKCuPX8RyefRhx2wCp7wlMmhUh0ctR9Z-5yrW8n3z-H8DVJRo1unfbkCJO7Zqti4lDkigcwmbUkHU4nMKTlNwFqbRSl29Vde7jq94_z9XHFEvONgmC-sfxq4HscArb1IIWx-ELgubfBeAA64eCfL4FV3Pm5Sm-hLmAzzhcFLKe8fzKw48WasP-BpUFaLBDiWd3jqtzWYzCqDxZAqfv_KOhButQN4y50a4mvelafoW1j0p0E6LPO2s4AMob-OS394F6hDE9laXxPxEfQLkTYzm_sMSoRCicA5THrARfaa0oZE8Io_c35Ktcb4NmU-EGXRSfsB2_7DDdF5NXqiwdyWiDfgFeOFscBvUSZczURMvQBnC94mmezBhNLZ3CQZS70nkpJ1kS-FbLYSF6PdROTdtc02KLng1dT_dwVcm5Wv/Insatiable.S01E12.DUB.mkv.mp4
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
@@ -40,11 +40,11 @@ https://cdn.whostreams.net:8443/hls/3v4l7uw5wgf89.m3u8?s=8Pwh9B_R0-UrC7Sbp6KsFQ&
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
 https://1fgqfm8.oloadcdn.net/dl/l/XT8QhLE5mn9omduc/e6rOnnTr-O0/No.Rastro.da.Viol%C3%AAncia.2017.720p.mp4?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 4
-https://1fiag06.oloadcdn.net/dl/l/7ULYveEoJqahNaUj/ZJQiqdCUOrk/AlettaSD.mp4?mime=true
+https://oqt1ov.oloadcdn.net/dl/l/l2-Q6DYjTcZaqP0Q/ZJQiqdCUOrk/AlettaSD.mp4?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 5
-https://oqbki1.oloadcdn.net/dl/l/fBqbf1x8AigNz2_M/rYLJrqCCMHU/LexiVinaSD.mp4?mime=true
+https://1fiag5h.oloadcdn.net/dl/l/ETfPsw2l5gw20_hJ/rYLJrqCCMHU/LexiVinaSD.mp4?mime=true
 #EXTINF:50 tvg-shift=-3 group-title="Canais Beta",PREMIERE CLUB
-https://1fgm8kj.oloadcdn.net/dl/l/ToolqL3UmaNQ71ug/gUpIbVrmo4w/uie5ujrtjgj_25.mp4?mime=true
+https://1fgm8kj.oloadcdn.net/dl/l/tQhJrepB1Ry6fGqk/gUpIbVrmo4w/uie5ujrtjgj_25.mp4?mime=true
 ===============================================================Esportes=============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Futebol;FUTEBOL AO VIVO",FOX SPORTS
 #EXTBG: #11609e
@@ -148,13 +148,13 @@ http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m
 
 ==============================================================Movies============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies5
-https://1fiafzr.oloadcdn.net/dl/l/ZWfLRaIRQS8drntZ/ka_q2VZk_3A/colett_ea.720.mp4?mime=true
+https://1fiafzr.oloadcdn.net/dl/l/KOHCn7v-gMF4FDeM/ka_q2VZk_3A/colett_ea.720.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies4
-https://1fgqfv1.oloadcdn.net/dl/l/jck3W4ujG3EMU9bA/A129t2vrjNA/audreybitoni_hotbigtitsddd.x.epidemz.co.mp4?mime=true
+https://1fgqfv1.oloadcdn.net/dl/l/lyA6xJWk-T-oZA9Z/A129t2vrjNA/audreybitoni_hotbigtitsddd.x.epidemz.co.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies3
-https://1fgm8ri.oloadcdn.net/dl/l/or6LkCOXOKR1zhTj/oSlpSrUZhn0/Skin720.mp4?mime=true
+https://1fgqfmd.oloadcdn.net/dl/l/E9hsveNuWdloqsSH/oSlpSrUZhn0/Skin720.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies2
-https://1fhjlom.oloadcdn.net/dl/l/M8xDsg6t62OA-4-w/pBVp0Vz9D-c/nya_vy.480.mp4?mime=true
+https://1fiafzr.oloadcdn.net/dl/l/EFu-F5CJp8WhN814/pBVp0Vz9D-c/nya_vy.480.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies1
 https://1fgqfuy.oloadcdn.net/dl/l/VQQN53z-lHVHPBDv/-nIdVdKDv_E/Assistir+The+Playground+Legendado+Online+%E2%80%93+Filmes+Online+HD7.mp4?mime=true
 ==============================================================Series============================================================
