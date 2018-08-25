@@ -25,10 +25,10 @@ http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 http://94.176.148.138:8081/live/hbohd/chunks.m3u8?nimblesessionid=3140645&wmsAuthSign=c2VydmVyX3RpbWU9OC8yNS8yMDE4IDg6MzM6MTUgQU0maGFzaF92YWx1ZT11TkNxalg3cFRoUkk5NERCd3ovOUlnPT0mdmFsaWRtaW51dGVzPTE2MCZzdHJtX2xlbj0xMA==
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
 https://live-edge.pxstream.tv/hls2/multishow/chunks.m3u8?md5=95WUXnYoOSoLD6AN1AH45w&expires=1535229346
-#EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBO
-https://lime-tree.fruithosted.net/dl/n/QaaUp-zBmpBXdTKP/frcmrpdfecmmskol/kFv5D3FNKO1FSwuZbAxTilqzCKCuPX8RyefRhx2wCp7wlMmhUh0ctR9Z-5yrW8n3z-H8DVJRo1unfbkCJO7Zqti4lDkigcwmbUkHU4nMKTlNwFqbRSl29Vde7jq94_z9XHFEvONgmC-sfxq4HscArb1IIWx-ELgubfBeAA64eCfL4FV3Pm5Sm-hLmAzzhcFLKe8fzKw48WasP-BpUFaLBDiWd3jqtzWYzCqDxZAqfv_KOhButQN4y50a4mvelafoW1j0p0E6LPO2s4AMob-OS394F6hDE9laXxPxEfQLkTYzm_sMSoRCicA5THrARfaa0oZE8Io_c35Ktcb4NmU-EGXRSfsB2_7DDdF5NXqiwdyWiDfgFeOFscBvUSZczURMvQBnC94mmezBhNLZ3CQZS70nkpJ1kS-FbLYSF6PdROTdtc02KLng1dT_dwVcm5Wv/Insatiable.S01E12.DUB.mkv.mp4
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://chinese-strawberry.fruithosted.net/dl/n/Ax-rAJ8U5UUKt8aZ/lltsnledknfnmbko/JQdIT-w-ilGZ1BPsOWxUtoSc6PH8dFYkPS9MyOvFH1UWjcGS3Gz7ly7bGxAvytCje78ihZ9oAMSezt90JVVWUathIEwOgol5dedcOhFtvyL0IMMmiQS6duhxxu47aTRiHsT2AXGf2d2axOlvJgpK68bfRyVjRsUtOFSwGphoeKbAGqQtOj0I29J5TDcobGddFg_jSmNVMluGVfpoQau-5ejC-guhwQrssYyrneI4wdhHx4GQgU_hbAiIYbachLDGza4t4Yl_cb8QNcGfrd08SQjhYY7p_AWLtA3F1dg_JMx7KSYuIAj_9KYJxapzfFMTvGOW7JBmtgd24f56xscqPLu-v7GZge-yI8jKJ_8qkqG40RTxkRxAfopvtKtZL6ENinnj0g-nP4WMkCja_g_R7R0dC2i8LdOus36HpGHnLqeTO89pTLkdTDJBBVlTH4yP/Insatiable.S01E11.DUB.mkv.mp4
+https://hls4-l3.xvideos-cdn.com/88d0dbc50f612ff010c622999d01064f7f8ec70c-1535197236/videos/hls/dc/f0/c6/dcf0c6c15287b9b13f97490e2ac0f6a8/hls-360p.m3u8
+#EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
+https://vid-egc.xvideos-cdn.com/videos/hls/9f/10/70/9f10702c81deb8358fc29869e024a629/hls-360p.m3u8?LqbWCHD939j9igv3pc1hwYzzsmKYj3gImvE3GKkUPdTu16-ex6lhDSEQbMdOMWm5zivhulokYfoJAj3gnLWVTPwDIjvEtklOBQ0XdgcLaVt4fM1nwFRduFLR5uSb33OiXGISmbNmJuyEyX3V-hJ2YcNxsw
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://1fhjm3a.oloadcdn.net/dl/l/QrfWZwFR42UlIOZi/JUVHNwN_Ltg/Insatiable+S01+x+E10+-+Dub.mp4?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
