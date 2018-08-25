@@ -26,13 +26,13 @@ https://cdn.whostreams.net:8443/hls/3v4l7uw5wgf89.m3u8?s=S3-QsBvJpN7RCcsjNCARAQ&
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
 http://apk2.futeboltv.com:8081/live/1001/chunks.m3u8?nimblesessionid=4001211
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://hls4-l3.xvideos-cdn.com/88d0dbc50f612ff010c622999d01064f7f8ec70c-1535197236/videos/hls/dc/f0/c6/dcf0c6c15287b9b13f97490e2ac0f6a8/hls-360p.m3u8
+https://hls4-l3.xvideos-cdn.com/d51b347b62b7008a2030fc33273574459861d360-1535231580/videos/hls/4c/66/10/4c6610bc2562b48e49c7a8846277530e/hls-250p.m3u8
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://vid-egc.xvideos-cdn.com/videos/hls/9f/10/70/9f10702c81deb8358fc29869e024a629/hls-360p.m3u8?LqbWCHD939j9igv3pc1hwYzzsmKYj3gImvE3GKkUPdTu16-ex6lhDSEQbMdOMWm5zivhulokYfoJAj3gnLWVTPwDIjvEtklOBQ0XdgcLaVt4fM1nwFRduFLR5uSb33OiXGISmbNmJuyEyX3V-hJ2YcNxsw
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://cdn3.biguz.net/video33/6814131b849e5ce8f03ea49ea8e9d761/P4g0de+S3xu4l+-+belo+Brasileira+leticia+Clioker5C22.mp4
+https://ip52767338.ahcdn.com/key=9yVARLDTL4uQPOTRccoivA,s=,end=1535234400,limit=3/data=138.99.33.243-dvp/state=imMh/buffer=750000:1481392,1822.1/speed=150000/reftag=78545577/32/21/9/2979099/001/217/693/240p.h264.mp4
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://ip52767338.ahcdn.com/key=YyAI1TJK6PHJm7NFL7qxvQ,s=,end=1535209200,limit=3/data=138.99.33.243-dvp/state=imMh/buffer=750000:1481392,1822.1/speed=150000/reftag=78545577/32/21/9/2979099/001/217/693/240p.h264.mp4
+https://hls3-l3.xvideos-cdn.com/5971e9633dea4eecab0982c1ddd838e8b27dd84d-1535231547/videos/hls/aa/dc/6b/aadc6b413459bf71e9fa02ff8a63d729-2/hls-480p.m3u8
 #EXTINF:11 tvg-shift=-3  group-title="Canais Beta",PREMIERE 2
 http://cdn.whostreams.net:8080/hls/w3eyro.m3u8?s=aV_UWGlVkRiA_vt0kbMALQ&e=1535239338
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
