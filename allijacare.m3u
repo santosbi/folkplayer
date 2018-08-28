@@ -22,9 +22,9 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-https://cdn.whostreams.net:8443/hls/3h23vjvyfv6.m3u8?s=FrU1cxZMaGWzXiNDRMZ1yQ&e=1535508313
+http://cdn.whostreams.net:8080/hls/lqrxwxkt9r6.m3u8?s=MDOqzd1Zwqs-wt1YBsFPrA&e=1535515542
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-http://apk2.futeboltv.com:8081/live/1001/chunks.m3u8?nimblesessionid=4213912
+http://apk2.futeboltv.com:8081/live/4/chunks.m3u8?nimblesessionid=2433877
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 http://porneq.com/media/porn7/videos/937/Shyla-Stylez-Ooh-Shyla-Baby-btcp5057-3000-360p-ZUdIxuc977m.mp4
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
@@ -34,9 +34,9 @@ https://hls4-l3.xvideos-cdn.com/3d6e70b52e6c8c372b9f116e7400d3f78b99b9b7-1535487
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://c8.trafficdeposit.com/bvideo/1cEFkHxAeqDOMOOw7t-fbQ/1535479725/58731c32d0ca4/5a8c48e80f681.mp4
 #EXTINF:11 tvg-shift=-3  group-title="Canais Beta",PREMIERE 2
-http://cdn.widestream.io:8080/hls/lmh0pis.m3u8?s=5CQIuBs6Im3D4JOyoo7y1A&e=1535508224
+https://live-edge.pxstream.tv/loadbalance/sat11/chunks.m3u8?md5=beMp6bNF6k6esFE5jfHdig&expires=1535537251
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
-https://live-edge.pxstream.tv/hls/foxsportshd/chunks.m3u8?md5=2S5IlLn6o9jDNhu5Z8DdDA&expires=1535530049
+http://cdn.whostreams.net:8080/hls/fr4uvu2dcr.m3u8?s=T7yK6owNpiz59PGjQdmyMg&e=1535515628
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
 https://hls-hw.xvideos-cdn.com/videos/hls/49/28/87/492887d1ad46746f044e85efee8baa6a/hls-360p.m3u8?e=1535486489&l=0&h=a18f86509c68c122e0d550e6e40347fc
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 4
