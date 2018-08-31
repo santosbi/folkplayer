@@ -90,7 +90,7 @@
 <category_id>2,5</category_id>  
 <title>GLOBO SP</title>
 <logo_30x30>https://vignette.wikia.nocookie.net/logos/images/f/fe/185px-Globo_logo_2014.png/revision/latest?cb=20150114180048&path-prefix=pt</logo_30x30>
-<stream_url><![CDATA[http://89.248.172.75:8088/live/globoaovivo17/playlist.m3u8?id=32396&wowzasessionid=3938072734]]></stream_url>
+<stream_url><![CDATA[http://apk2.futeboltvgratis.com:8081/live/17/chunks.m3u8]]></stream_url>
 </channel>
 <channel>
 <category_id>2</category_id>  
