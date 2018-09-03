@@ -22,29 +22,29 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-http://cdn.whostreams.net:8080/hls/2nhnag4s6wjaw.m3u8?s=U0SKzDS_7Hs0bfEtf0fL-A&e=1535847476
+https://cdn.whostreams.net:8443/hls/3h23vjvyfv6.m3u8?s=oDix5zulYrbKjMruGxTQhg&e=1536016069
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-https://cdn.whostreams.net:8443/hls/mrnjfuwso.m3u8?s=hYSaXl9YxpK2JdEWTjP-yg&e=1535847406
+https://live-edge.pxstream.tv/hls/foxsportshd/chunks.m3u8?md5=R5dDBq3NOz3qoYxrQylf0g&expires=1536037636
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://psv12-4.daxab.com/videos/-67976464/456248978/360.mp4?extra=2_SOHVWsCc9LneW8ga-9lQ
+https://psv38-2.daxab.com/videos/-147524914/456239048/360.mp4?extra=4GsMsPP5MZ9Njt9SxMvUww
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://psv19-2.daxab.com/videos/-150118546/456239386/360.mp4?extra=hVlJ0_dGR7EFwDBJrdWevg
+https://psv38-2.daxab.com/videos/-107781073/456243470/360.mp4?extra=6vsNNW0-H031Q9hJqAGs9g
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://oqfnwr.oloadcdn.net/dl/l/AkTSAsad8JcCrR1a/lptlpITs578/FakeTaxi.18.09.02.Michelle.Thorne.XXX.1080p.MP4-KTR.mp4?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://hls-hw.xvideos-cdn.com/videos/hls/dd/38/c2/dd38c21c74d694b97e64e996204077df/hls-1080p.m3u8?e=1535931399&l=0&h=236dc2b7996011448d55ec1017f222e7
 #EXTINF:11 tvg-shift=-3  group-title="Canais Beta",PREMIERE 2
-http://cdn.widestream.io:8080/hls/qsna0jj.m3u8?s=BQw6uSCUKPseJM_vFPr9IQ&e=1535847379
+https://live-edge.pxstream.tv/hls/sportvhd/chunks.m3u8?md5=2tsvOKriGS6gNFJamdt4HQ&expires=1536037724
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
-https://live-edge.pxstream.tv/hls/sportvhd/chunks.m3u8?md5=3ei6tm1T0kAEQwcDIrIAyQ&expires=1535868904
+https://cdn.whostreams.net:8443/hls/mrnjfuwso.m3u8?s=uzQoEAX-TWRkzPIUtOLpCw&e=1536016183
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
-https://1fgm8r6.oloadcdn.net/dl/l/Trnxw66nmgvKR81e/kEJOdK1hoQw/augu_taylo.400.mp4?mime=true
+https://1fiag0i.oloadcdn.net/dl/l/2V6PzMGdeOQMHNL6/kEJOdK1hoQw/augu_taylo.400.mp4?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 4
-https://1fgm90k.oloadcdn.net/dl/l/R4lot-eql49GfosI/JK7IRF2ck-E/Aletta_Ocean_-_Fuck_Doll.mp4?mime=true
+https://1fgm90k.oloadcdn.net/dl/l/zIp-bcvqqgzx6Gtj/JK7IRF2ck-E/Aletta_Ocean_-_Fuck_Doll.mp4?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 5
 https://psv13-2.crazycloud.ru/videos/-121642139/456239414/360.mp4?extra=HEJIWS9p8kHQk-mRkE1Nig
 #EXTINF:50 tvg-shift=-3 group-title="Canais Beta",PREMIERE CLUB
-https://1fgm8kj.oloadcdn.net/dl/l/HoEQHVsj0WadRbri/gUpIbVrmo4w/uie5ujrtjgj_25.mp4?mime=true
+https://1fgm8kj.oloadcdn.net/dl/l/lLmbQAubObhVPQke/gUpIbVrmo4w/uie5ujrtjgj_25.mp4?mime=true
 ===============================================================Esportes=============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Futebol;FUTEBOL AO VIVO",FOX SPORTS
 #EXTBG: #11609e
@@ -148,15 +148,15 @@ http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m
 
 ==============================================================Movies============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies5
-https://oqbkii.oloadcdn.net/dl/l/2dH8xV8HRPvw73xN/-g0hJC-yZTc/Anissa_Kate_-_The_Yoghurt_Of_Pleasure.mp4?mime=true
+https://oqbkii.oloadcdn.net/dl/l/1xtgalpuAiG8Yr-Y/-g0hJC-yZTc/Anissa_Kate_-_The_Yoghurt_Of_Pleasure.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies4
-https://1fgm8qr.oloadcdn.net/dl/l/gFQXNvuJdpFb30YW/74PEkx2MJoA/Audrey_Bitoni_-_Vanilla.mp4?mime=true
+https://1fgm8qr.oloadcdn.net/dl/l/gWeNLuPvmP5Yl2qN/74PEkx2MJoA/Audrey_Bitoni_-_Vanilla.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies3
-https://psv38-2.daxab.com/videos/-147524914/456239048/360.mp4?extra=h6f-hTCrTzGXgE-fYJrD-A
+https://ph2dqs.oloadcdn.net/dl/l/_zKk6wVq1i9HYiEU/t9nKtOQ0JHw/Make+Her+Purr+-+Kendra+Lust.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies2
-https://ph2dpa.oloadcdn.net/dl/l/2noIkJMoo2aRCeca/fkQeuc9eAc8/cole_nisto.720.mp4?mime=true
+https://1fgqfm3.oloadcdn.net/dl/l/mAOD1cqMcAtVK20f/fkQeuc9eAc8/cole_nisto.720.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies1
-https://1fhjlu8.oloadcdn.net/dl/l/25OvRF9ojhU6NLCi/DDEEj5sqa1E/DEMONIO+DE+NEON+DUBLADO+HD.mkv.mp4?mime=true
+https://oqbkiv.oloadcdn.net/dl/l/lC21p_HcsoojxeFY/LMFJbOo7JsQ/Dem%C3%B4nio.de.Neon.2016.BDRip.XviD-BGD.avi.mp4?mime=true
 ==============================================================Series============================================================
 ============================================================South Park==========================================================
 #EXTINF:0 tvg-logo="http://i.imgur.com/slGftt7.jpg" group-title="South Park",01 South Park
