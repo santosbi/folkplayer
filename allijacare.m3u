@@ -32,9 +32,9 @@ https://hls-hw.xvideos-cdn.com/videos/hls/5a/63/88/5a63887edb1b592497cfb854a092b
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://hls-hw.xvideos-cdn.com/videos/hls/d4/c2/89/d4c289394f4cfa22832614c43556c96f/hls-360p.m3u8?e=1536179239&l=0&h=abb092aa48271de7a83a8f923c8f6c37
 #EXTINF:11 tvg-shift=-3  group-title="Canais Beta",PREMIERE 2
-https://live-edge.pxstream.tv/hls2/globo-sp/hls2/tvglobosaopaulo-720p/chunks.m3u8?md5=4pOHAXJBNBJqc_Sqkxh1Kw&expires=1536241176
+https://live-edge.pxstream.tv/hls2/globo-sp/hls2/tvglobosaopaulo-720p/chunks.m3u8?md5=W9SxN9VYYPNMjx9VogNZkg&expires=1536241566
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
-https://cdn.whostreams.net:8443/hls/t16ich2p0.m3u8?s=gL-_BkGUHlGkvXxUucXV0w&e=1536219636
+http://eb.kastream.biz:8081/edge/ver69ca258bbf32/chunks.m3u8?nimblesessionid=608123&wmsAuthSign=c2VydmVyX3RpbWU9OS82LzIwMTggMTo0ODowNyBBTSZoYXNoX3ZhbHVlPXF1QWthV2lwL2ZyWEhoUGRlVHpPRHc9PSZ2YWxpZG1pbnV0ZXM9MTIw
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
 https://1fiag0i.oloadcdn.net/dl/l/iyxLclOVu7qOd3jw/kEJOdK1hoQw/augu_taylo.400.mp4?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 4
