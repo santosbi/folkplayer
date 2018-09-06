@@ -22,9 +22,9 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-https://cdn.whostreams.net:8443/hls/044ib4h0bk.m3u8?s=XKwCt2027Yo_V6cz8rREaA&e=1536220395
+https://cdn.whostreams.net:8443/hls/3h23vjvyfv6.m3u8?s=6_mZ9I8SQbUg9QYYl4NRvQ&e=1536275712
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-http://89.248.168.39:8088/live/globoaovivo17/playlist.m3u8?id=32396&wowzasessionid=3992692600&pk=09ec526972ab563e265b8a6a5f71ba6b203d68d42bc2739caa377f48c16f447d
+http://cdn.widestream.io:8080/hls/vc13lws.m3u8?s=w_RBar0XWOKr-C0jlVFV1w&e=1536275723
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://1fhjluq.oloadcdn.net/dl/l/xxMnx8jLO9HUJY9Z/qxLA_e6VWfw/www.0xxx.ws_WoodmanCastingX.15.06.09.Megan.Rain.Hard.XXX.1080p.MP4-BIUK.mp4?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
@@ -32,7 +32,7 @@ https://oqt1pb.oloadcdn.net/dl/l/bP0aPztODdOPfc8u/IoEd3sOMLww/ara_anks.480.mp4?m
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://1fhjlk9.oloadcdn.net/dl/l/KkMIWrLSRItuf6jy/m8G0v3jOnVY/FakeTaxi.18.09.05.Kira.Noir.XXX.SD.mp4?mime=true
 #EXTINF:11 tvg-shift=-3  group-title="Canais Beta",PREMIERE 2
-https://live-edge.pxstream.tv/hls2/globo-sp/hls2/tvglobosaopaulo-720p/chunks.m3u8?md5=W9SxN9VYYPNMjx9VogNZkg&expires=1536241566
+http://apk2.futeboltv.com:8081/live/1001/chunks.m3u8?nimblesessionid=2169618
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
 http://cdn.whostreams.net:8080/hls/bl8yqixdm4hga.m3u8?s=ziS1xbvZ55FQd1loo78ewg&e=1536220308
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
