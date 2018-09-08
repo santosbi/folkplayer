@@ -22,27 +22,27 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-https://live-edge.pxstream.tv/hls/foxsportshd/chunks.m3u8?md5=DohHXfIfeS15S44zns3V9A&expires=1536389643
+http://cdn.whostreams.net:8080/hls/w3eyro.m3u8?s=9wItipT_v_V2cSoewhNTGg&e=1536447552
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-https://cdn.whostreams.net:8443/hls/3h23vjvyfv6.m3u8?s=ntKsWpuSuJjoUiqyPrncCA&e=1536368106
+https://cdn.whostreams.net:8443/hls/3v4l7uw5wgf89.m3u8?s=LOGUbggfxGRdQwCXH2Nm5Q&e=1536447503
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://1fjiw5s.oloadcdn.net/dl/l/IS08z0cd2eJOg60T/ToNdviXv1o0/MyFirstSexTeacher.Katie.Morgan.SD.mp4?mime=false
+http://51.255.94.107/Kuroinu%20Kedakaki%20Seijo%20Wa%20Hakudaku%20Ni%20Somaru%201%20Subbed.mp4
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://oqfnx0.oloadcdn.net/dl/l/-I9Sfdsgmms8HoW3/cjoTqAwZR0w/va_dams.480.mp4?mime=false
+https://1fgm90t.oloadcdn.net/dl/l/YFRcB0u_zOjCh2lz/8rMBEgVi620/Babes.Gianna.Dior.720p.mp4?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://1fizp0e.oloadcdn.net/dl/l/OpTGESoYGfGFRGWQ/mn5JThidHYQ/ayla_ei.480.mp4?mime=false
 #EXTINF:11 tvg-shift=-3  group-title="Canais Beta",PREMIERE 2
-http://cdn.whostreams.net:8080/hls/snxne.m3u8?s=n7fxGEGJjaE3KTWLCpHIhw&e=1536292497
+http://89.248.172.75:8088/live/premiere1hdbr9/playlist.m3u8?id=32408&wowzasessionid=976411169&pk=05a6d3cbb72ffe040647f764801a0739b01746a9d72d6a8cf66e0eab6c2fb265
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
-https://live-edge.pxstream.tv/hls2/pfh4/hls2/premiere4-640p/chunks.m3u8?md5=yE2AdOcuI5oWcGKrGfFAcQ&expires=1536314028
+https://live-edge.pxstream.tv/hls2/pfh1/hls2/premiere1-640p/chunks.m3u8?md5=V5Sg5217WwL4TvE0xEqiBQ&expires=1536468988
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
-https://1fiag0i.oloadcdn.net/dl/l/qCulwepHYRNQtpEG/kEJOdK1hoQw/augu_taylo.400.mp4?mime=true
+https://1fiag0i.oloadcdn.net/dl/l/zl6Mns4y-5-9A8RE/kEJOdK1hoQw/augu_taylo.400.mp4?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 4
-https://1fgm90k.oloadcdn.net/dl/l/3gBy-IaTi5FE4kCI/JK7IRF2ck-E/Aletta_Ocean_-_Fuck_Doll.mp4?mime=true
+https://1fgm90k.oloadcdn.net/dl/l/giAvDdvTDsBnTlaN/JK7IRF2ck-E/Aletta_Ocean_-_Fuck_Doll.mp4?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 5
-https://pgli3i.oloadcdn.net/dl/l/EElUwwVo5MrZr3FT/OFXFbqADo60/EHY345UYDG_2.mp4?mime=true
+https://1fgm8kn.oloadcdn.net/dl/l/ZcYrqfgeJyYjpnvg/OFXFbqADo60/EHY345UYDG_2.mp4?mime=true
 #EXTINF:50 tvg-shift=-3 group-title="Canais Beta",PREMIERE CLUB
-https://1fgm8kj.oloadcdn.net/dl/l/EQMcBfkXYlOcdLsg/gUpIbVrmo4w/uie5ujrtjgj_25.mp4?mime=true
+https://1fgm8kj.oloadcdn.net/dl/l/C0dMPVSLMryhWJUq/gUpIbVrmo4w/uie5ujrtjgj_25.mp4?mime=true
 ===============================================================Esportes=============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Futebol;FUTEBOL AO VIVO",FOX SPORTS
 #EXTBG: #11609e
@@ -146,13 +146,13 @@ http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m
 
 ==============================================================Movies============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies5
-https://oqbkii.oloadcdn.net/dl/l/88oqc0riqkFGoenQ/-g0hJC-yZTc/Anissa_Kate_-_The_Yoghurt_Of_Pleasure.mp4?mime=true
+https://1fgqftj.oloadcdn.net/dl/l/2GC8esZUtT8oqYeJ/-g0hJC-yZTc/Anissa_Kate_-_The_Yoghurt_Of_Pleasure.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies4
-https://1fgm8qr.oloadcdn.net/dl/l/Ih-aq8CTdvHcH1W5/74PEkx2MJoA/Audrey_Bitoni_-_Vanilla.mp4?mime=true
+https://1fgm8qr.oloadcdn.net/dl/l/xKzh_VXnAJghvLE3/74PEkx2MJoA/Audrey_Bitoni_-_Vanilla.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies3
 https://oqbkix.oloadcdn.net/dl/l/2YsGK4lTyh6A3WUZ/lSSc5VqB1Ng/iver_had.1080.mp4?mime=false
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies2
-https://oqt1oq.oloadcdn.net/dl/l/sburKqZSMY9PKuch/fkQeuc9eAc8/cole_nisto.720.mp4?mime=true
+https://1fgqfm6.oloadcdn.net/dl/l/JcqPSiJfHX68kqyt/fkQeuc9eAc8/cole_nisto.720.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies1
 https://1fiag62.oloadcdn.net/dl/l/LLXT_mjFjXN0-27a/XuEwXLxxZbU/Fox+Trap+%282016%29+Webrip+-+Filmesonline+Hd7-1.mp4?mime=false
 ==============================================================Series============================================================
