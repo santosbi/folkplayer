@@ -22,9 +22,9 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-http://cdn.whostreams.net:8080/hls/w3eyro.m3u8?s=9wItipT_v_V2cSoewhNTGg&e=1536447552
+https://cdn.whostreams.net:8443/hls/3v4l7uw5wgf89.m3u8?s=E_Ok2nfoSUZMLsnxbXlIFg&e=1536537550
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-https://cdn.whostreams.net:8443/hls/3v4l7uw5wgf89.m3u8?s=LOGUbggfxGRdQwCXH2Nm5Q&e=1536447503
+http://cdn.whostreams.net:8080/hls/lqrxwxkt9r6.m3u8?s=62XRcon0O5MTgqPE4JsJDA&e=1536537512
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://1fiag13.oloadcdn.net/dl/l/mfSdLXu9C121dRT1/yyB57pfd3yQ/true5tjrgj_23.mp4?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
@@ -32,9 +32,9 @@ https://1fgqftz.oloadcdn.net/dl/l/hx_LPkm4BoR7mDVz/0WMX5WsTayg/www.0xxx.ws_JeshB
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://oqt1p3.oloadcdn.net/dl/l/yyZTWFL6MENgr3A5/hfSla2a0pO8/PureMature.17.05.15.Romi.Rain.The.Closer.iNTERNAL.XXX.720p.MP4-FaiLED.mp4?mime=true
 #EXTINF:11 tvg-shift=-3  group-title="Canais Beta",PREMIERE 2
-http://89.248.172.75:8088/live/premiere1hdbr9/playlist.m3u8?id=32408&wowzasessionid=976411169&pk=05a6d3cbb72ffe040647f764801a0739b01746a9d72d6a8cf66e0eab6c2fb265
+https://cdn.whostreams.net:8443/hls/mrnjfuwso.m3u8?s=umIt6yHtEdYgHHYAzQh_Cw&e=1536537463
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
-https://live-edge.pxstream.tv/hls2/pfh1/hls2/premiere1-640p/chunks.m3u8?md5=V5Sg5217WwL4TvE0xEqiBQ&expires=1536468988
+https://live-edge.pxstream.tv/hls/sportvhd/chunks.m3u8?md5=C9AxrgtHg5A5bIMcruhYFA&expires=1536558970
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
 https://1fiag0i.oloadcdn.net/dl/l/pHjjJ5_nHK-Nn5Tu/kEJOdK1hoQw/augu_taylo.400.mp4?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 4
@@ -150,11 +150,11 @@ https://1fgqftj.oloadcdn.net/dl/l/HfMdoK_wK1yaUFyO/-g0hJC-yZTc/Anissa_Kate_-_The
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies4
 https://1fgm8qr.oloadcdn.net/dl/l/7IlZRRok6kqQ1bQ5/74PEkx2MJoA/Audrey_Bitoni_-_Vanilla.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies3
-https://oqbkix.oloadcdn.net/dl/l/2YsGK4lTyh6A3WUZ/lSSc5VqB1Ng/iver_had.1080.mp4?mime=false
+https://1fiafzp.oloadcdn.net/dl/l/5-_fdBphWDMXFmB-/FAyO0feapME/drghbfthf_8.mp4?mime=false
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies2
 https://1fgqfmv.oloadcdn.net/dl/l/h5FnaUyNp4g8FVQ5/fkQeuc9eAc8/cole_nisto.720.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies1
-https://1fhjljc.oloadcdn.net/dl/l/2JreOH3zW6S9KcQX/e1vU4Z3Iavg/A.Cabana.da.Morte.2018.720p.BluRay.x264.DUBLADO-.mp4?mime=true
+https://1fhjljc.oloadcdn.net/dl/l/hWi_Q2f-rf13OPUY/e1vU4Z3Iavg/A.Cabana.da.Morte.2018.720p.BluRay.x264.DUBLADO-.mp4?mime=true
 ==============================================================Series============================================================
 ============================================================South Park==========================================================
 #EXTINF:0 tvg-logo="http://i.imgur.com/slGftt7.jpg" group-title="South Park",01 South Park
