@@ -24,7 +24,7 @@ http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
 https://live-edge.pxstream.tv/hls/foxsportshd/chunks.m3u8?md5=3V81MeVNh-RhJuSV2vny9g&expires=1536642318
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-https://cdn.whostreams.net:8443/hls/3h23vjvyfv6.m3u8?s=Dcg26fuznZjbvzTVIn-ofA&e=1536620783
+https://cdn.whostreams.net:8443/hls/mrnjfuwso.m3u8?s=ToK_yaWIcf4fZgcldpe7VA&e=1536647545
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://oqfnwo.oloadcdn.net/dl/l/iEANvzZ83vbbR_j_/OE9CMVgBb1A/romi_rain_tyler_nixon_bosslady_1920_.mp4?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
@@ -32,7 +32,7 @@ https://17wy0w8.oloadcdn.net/dl/l/-mmvTSY-Qjd6KTl6/Fx4B78EAsEQ/ela_tar.480.mp4?m
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://pgli2v.oloadcdn.net/dl/l/PAdbDAXgavNAK73l/NrIZ5_x05h8/FakeTaxi.18.09.09.Lola.Marie.XXX.SD.mp4?mime=true
 #EXTINF:11 tvg-shift=-3  group-title="Canais Beta",PREMIERE 2
-https://live-edge.pxstream.tv/hls/sportvhd/chunks.m3u8?md5=kjbsa3tizWLOd08WHZTgyg&expires=1536642433
+https://live-edge.pxstream.tv/hls/sportvhd/chunks.m3u8?md5=S8mNBzNNjmlCQnWDFCuWtA&expires=1536669070
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
 https://s005.thevid.net/v/3a05ea64b51e4483cf6c8e9c10e8c0c4.mp4?e=1536647888&sa=3FrsC4pqCh6KuTVD3sIK3A&st=Jn9sMG3NSjh9e2TJ-g2KpA
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
