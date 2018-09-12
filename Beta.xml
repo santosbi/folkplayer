@@ -120,18 +120,18 @@
 <category_id>4</category_id>  
 <title>teste</title>
 <logo_30x30>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/800px-SporTV_logo_2011.png</logo_30x30>
-<playlist_url><![CDATA[http://play.nbeplayer.com/live/VimE3iGBrg/SNDWUsuQl4/3345.m3u8]]></playlist_url>
+<stream_url><![CDATA[https://video-weaver.sao01.hls.ttvnw.net/v1/playlist/CvID-uf97gpbHvyaCTnsCLQZ4CcIlLZjFCMouzy13vBnlgtqFjwYIsu_V7CapIxmWvCOP1egmUdzhLyEmf5A5wrB5Fo4PtXnHa9D-jUDF_xH7vS8AFi3kUOFrdcgaNZ_zN8NEiNU5EZ9oK_lkxAiJ3mbxeaECIYRjUoVU3twr9P373xVKwbnGxUIQjOJ8vLHqO4CajbVsNv5FsJ-rihzYYcGlgYScLf_J3IHnG7pyxGsp1K2mPySTRGoKt57vGYCndThNuSx3XL-iTd4xpSIiFhnAh1sCFAWftVI25imFnJYyh1e8D7EV7UfhZ9rvsr47LkJNT-eL-5iCS6OqwZfG6tGgZU3pYUpt37UcsDt0WP0_y32Kk8sa4RK6SP8cOLCo2qARpNJSkqlAn_9DSMHLeOkyaf-8c1ncP8y88Jqj_f2zC9QodLFT--mdDmQvUKBrj6PcttX2hbdnp3mcAi_RclP9mvZYSEjJA1WE4tXOHXrkjbzqZhvVkwLhPsru9oP8mjteo5oWisiAWKDLWlM_23KQn5SrULk-kurXGp6afnT5L5BGvZzj_MeEaFXU_mukgZu9ttzPuiGAZX8cPjspl2nMsVHiByYPiYjK0f1ahSbgKK1T5GHyHHIMqZ2tud8gC5CWdsQfYCKsd3dNKHzJkkPpAm8EhCgenLj1p3wGfb_YpgfCN8UGgzUUDzv_6OcYmrwpwQ.m3u8]]></stream_url>
 </channel>
 <channel>  
 <category_id>4</category_id>  
 <title>PREMIERE 2</title>
 <logo_30x30>http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png</logo_30x30>
-<stream_url><![CDATA[http://play.nbeplayer.com/live/VimE3iGBrg/SNDWUsuQl4/3344.m3u8]]></stream_url>
+<playlist_url><![CDATA[https://www.twitch.tv/diolinux]]></playlist_url>
 <channel>  
 <category_id>4</category_id>  
 <title>PREMIERE 3</title>
 <logo_30x30>http://midiafatos.com.br/wp-content/uploads/2017/02/premiere_P.png</logo_30x30>
-<stream_url><![CDATA[http://04.liss.fun:25461/live/8xmLn6wH/27UWHOPz/7168.m3u8?token=HkFcUEIJRFgSDlEFAAtQBAFVBg8BUQVRWwABXQVXUVBQUldUCFJQUgYUGRFKTUdXWA5rUFBDC1VTUwFJFhQSURc8XVUTW0RQAAEABAgbGRBNCllcFlsBTkAVUAEWW0MGXVEGARNNRAdIQlBBV1hZbV0GQlBXBBNYDBBVCRhDDlo6B1FcUA8CQAoUBREVG1xBSUEOG3oERREXCRksWhUERgsGQBFzAAgGURZ5UkteVBJ1F1BYFk0TAAsRSwRABEMOR1cABRNNRAFfQ1tHS0AXCBshZhsYQ1QaFgBXFl0ODxZfQVkCRFlEThJfRmxLXEZGSwZVVFETE1hAVRtJFgwATDoAW19fBAUWWVlbQBsDFwMbTxZUWw9YFg0XZhVdBUMOR1IMBgZDGw==]]></stream_url>
+<playlist_url><![CDATA[http://04.liss.fun:25461/live/8xmLn6wH/27UWHOPz/7168.m3u8?token=HkFcUEIJRFgSDlEFAAtQBAFVBg8BUQVRWwABXQVXUVBQUldUCFJQUgYUGRFKTUdXWA5rUFBDC1VTUwFJFhQSURc8XVUTW0RQAAEABAgbGRBNCllcFlsBTkAVUAEWW0MGXVEGARNNRAdIQlBBV1hZbV0GQlBXBBNYDBBVCRhDDlo6B1FcUA8CQAoUBREVG1xBSUEOG3oERREXCRksWhUERgsGQBFzAAgGURZ5UkteVBJ1F1BYFk0TAAsRSwRABEMOR1cABRNNRAFfQ1tHS0AXCBshZhsYQ1QaFgBXFl0ODxZfQVkCRFlEThJfRmxLXEZGSwZVVFETE1hAVRtJFgwATDoAW19fBAUWWVlbQBsDFwMbTxZUWw9YFg0XZhVdBUMOR1IMBgZDGw==]]></stream_url>
 </channel>
 <channel>  
 <category_id>4</category_id>  
