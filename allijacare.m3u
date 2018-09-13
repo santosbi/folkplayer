@@ -22,27 +22,27 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-https://cdn.whostreams.net:8443/hls/3h23vjvyfv6.m3u8?s=l4HwBkLUHvvDpXenEyWjEA&e=1536794598
+http://cdn.widestream.io:8080/hls/vc13lws.m3u8?s=3NWcep-2bLjCXNYL2JhbJg&e=1536880061
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-http://cdn.widestream.io:8080/hls/vc13lws.m3u8?s=VEltV0cQm6xIfVcjKCdbHg&e=1536794596
+https://live-edge.pxstream.tv/hls/foxsportshd/chunks.m3u8?md5=UDM9nmn3S6t37fJIHJqWWA&expires=1536901608
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://1fiag0o.oloadcdn.net/dl/l/3om78no_uhK0Voov/WWqeGPMmU2A/FakeTaxi.18.09.12.Kira.Noir.XXX.SD.mp4?mime=true
+https://1fiag0o.oloadcdn.net/dl/l/2A4wDSgnhHSIWtYD/WWqeGPMmU2A/FakeTaxi.18.09.12.Kira.Noir.XXX.SD.mp4?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://1fiagej.oloadcdn.net/dl/l/YFGXIbivzf4IcSW-/D3-BqqzKtJE/ritne_ela.480.mp4?mime=true
+https://nt0pwi.oloadcdn.net/dl/l/C-ttFQfubAYwqtY_/D3-BqqzKtJE/ritne_ela.480.mp4?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://1fiagel.oloadcdn.net/dl/l/CHUgmi2YEUSwKPQ-/D7OWOgqwBT0/www.0xxx.ws_BrazzersExxtra.18.09.10.Lela.Star.Creampie.Diaries.Part.2.XXX.1080p.MP4-KTR.mp4?mime=true
+https://1fiagee.oloadcdn.net/dl/l/G6Blzy_d49Y5o7Yd/D7OWOgqwBT0/www.0xxx.ws_BrazzersExxtra.18.09.10.Lela.Star.Creampie.Diaries.Part.2.XXX.1080p.MP4-KTR.mp4?mime=true
 #EXTINF:11 tvg-shift=-3  group-title="Canais Beta",PREMIERE 2
-https://live-edge.pxstream.tv/hls2/globo-sp/hls2/tvglobosaopaulo-720p/chunks.m3u8?md5=p7DzPy-nU5_c8wzSDDvC1Q&expires=1536833391
+https://oqfnwt.oloadcdn.net/dl/l/eyfGUurVqCgnDkfU/ER1wS_2kN48/Conex%C3%A3o.de.Elite.2017.720p.WEB-DL.x264.%281%29.mkv.mp4?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
 https://oqt1oj.oloadcdn.net/dl/l/H2ddABPd2WXQSzSv/7B-Y3iFVQ8Y/Um+.Conto.De.Sereia.2018.HDRip.XViD.DUBLADO..filmesonlinehd7.avi.mp4?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
-https://1fiag0i.oloadcdn.net/dl/l/PWqseqtc8OzcuYHu/kEJOdK1hoQw/augu_taylo.400.mp4?mime=true
+https://1fiag0i.oloadcdn.net/dl/l/Dheyj8NoUyhrKGR3/kEJOdK1hoQw/augu_taylo.400.mp4?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 4
-https://1fgm90k.oloadcdn.net/dl/l/v6I9uE52K9BxROuP/JK7IRF2ck-E/Aletta_Ocean_-_Fuck_Doll.mp4?mime=true
+https://1fgm90k.oloadcdn.net/dl/l/gBfHRPju75-qGC89/JK7IRF2ck-E/Aletta_Ocean_-_Fuck_Doll.mp4?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 5
-https://1fiagf9.oloadcdn.net/dl/l/6PzDcs4Q11NXUh6_/z66OHTWJr6Q/Nicolette+Shea+-+Stepmoms+Boobs+3.mp4?mime=true
+https://oqbkii.oloadcdn.net/dl/l/E3VPzWEotVsjGlOM/J-teGjngdgc/tyudytyj_31.mpg.mp4?mime=true
 #EXTINF:50 tvg-shift=-3 group-title="Canais Beta",PREMIERE CLUB
-https://1fgm8kj.oloadcdn.net/dl/l/pq-Qai_bNxy3cHWt/gUpIbVrmo4w/uie5ujrtjgj_25.mp4?mime=true
+https://1fgm8kj.oloadcdn.net/dl/l/qkZJAJeyaANgiH0p/gUpIbVrmo4w/uie5ujrtjgj_25.mp4?mime=true
 ===============================================================Esportes=============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Futebol;FUTEBOL AO VIVO",FOX SPORTS
 #EXTBG: #11609e
@@ -146,15 +146,15 @@ http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m
 
 ==============================================================Movies============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies5
-https://1fgqftj.oloadcdn.net/dl/l/SJG2Mbf9iEl1Z9Y6/-g0hJC-yZTc/Anissa_Kate_-_The_Yoghurt_Of_Pleasure.mp4?mime=true
+https://1fgqftj.oloadcdn.net/dl/l/bB5x26Vik00SsEjQ/-g0hJC-yZTc/Anissa_Kate_-_The_Yoghurt_Of_Pleasure.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies4
-https://1fgm8qr.oloadcdn.net/dl/l/zQ8hoHEKk-MplWo6/74PEkx2MJoA/Audrey_Bitoni_-_Vanilla.mp4?mime=true
+https://1fgm8qr.oloadcdn.net/dl/l/gErSTblLAP4eAzfP/74PEkx2MJoA/Audrey_Bitoni_-_Vanilla.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies3
-https://ph2dvp.oloadcdn.net/dl/l/HYYlZCHJ63MlVcC1/zNW8p6OQ02c/tguysr58yrjgjg_4.mp4?mime=true
+https://1fiag0q.oloadcdn.net/dl/l/RqNrolTwB9E5ornL/gOeoHngC3RY/rook_eretta.480.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies2
-https://1fiagel.oloadcdn.net/dl/l/uZHAi9ygB-mnomf8/1pqPatZMVis/www.0xxx.ws_BrazzersExxtra.18.09.02.Nicole.Aniston.Abstract.Sexpressionism.XXX.1080p.MP4-KTR.mp4?mime=true
+https://1fiagel.oloadcdn.net/dl/l/92tMHj7b-vLUuDWj/1pqPatZMVis/www.0xxx.ws_BrazzersExxtra.18.09.02.Nicole.Aniston.Abstract.Sexpressionism.XXX.1080p.MP4-KTR.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies1
-https://1fiagef.oloadcdn.net/dl/l/2_o9V7FLjEJ__HjM/q99-VoKX9Bc/Sicario.day.of.the.soldado.2018.720p.amzn.web-dl.filmes+Onlinehd7-1.mp4?mime=true
+https://1fiagfc.oloadcdn.net/dl/l/4r794lsDpQYOLC9v/q99-VoKX9Bc/Sicario.day.of.the.soldado.2018.720p.amzn.web-dl.filmes+Onlinehd7-1.mp4?mime=true
 ==============================================================Series============================================================
 ============================================================South Park==========================================================
 #EXTINF:0 tvg-logo="http://i.imgur.com/slGftt7.jpg" group-title="South Park",01 South Park
