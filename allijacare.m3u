@@ -22,7 +22,7 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-http://cdn.widestream.io:8080/hls/vc13lws.m3u8?s=3NWcep-2bLjCXNYL2JhbJg&e=1536880061
+https://live-edge.pxstream.tv/hls2/globo-sp/hls2/tvglobosaopaulo-720p/chunks.m3u8?md5=-oYu8ugTCjY-cCVliiwohw&expires=1536982565
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
 https://live-edge.pxstream.tv/hls/foxsportshd/chunks.m3u8?md5=UDM9nmn3S6t37fJIHJqWWA&expires=1536901608
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
