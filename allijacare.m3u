@@ -22,9 +22,9 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-https://live-edge.pxstream.tv/hls2/globo-sp/hls2/tvglobosaopaulo-720p/chunks.m3u8?md5=brqWkNealNCeTlSPc1DgZA&expires=1537117820
+https://live-edge.pxstream.tv/hls2/globo-sp/hls2/tvglobosaopaulo-720p/playlist.m3u8?md5=7GOxiQP49NvG91jm3RHCJQ&expires=1537125417
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-https://live-edge.pxstream.tv/hls2/globo-sp/hls2/tvglobosaopaulo-640p/chunks.m3u8?md5=brqWkNealNCeTlSPc1DgZA&expires=1537117820
+https://live-edge.pxstream.tv/hls2/globo-sp/hls2/tvglobosaopaulo-640p/playlist.m3u8?md5=7GOxiQP49NvG91jm3RHCJQ&expires=1537125417
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://1fizp0e.oloadcdn.net/dl/l/XWjmuTWRruCSy4Pw/gY5b2hUSu_4/www.0xxx.ws_DigitalPlayground.18.09.14.Brenna.Sparks.And.Jade.Kush.The.Gang.Makes.A.Porno.Episode.2.XXX.1080p.MP4-KTR.mp4?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
@@ -32,9 +32,9 @@ https://1fgqftg.oloadcdn.net/dl/l/x0gilFh_BRGsicLP/FGyeYiGp1Z0/www.0xxx.ws_FiLF.
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://1fgqfti.oloadcdn.net/dl/l/JynbkZpKUM3B7Wph/D3-BqqzKtJE/ritne_ela.480.mp4?mime=true
 #EXTINF:11 tvg-shift=-3  group-title="Canais Beta",PREMIERE 2
-https://edge22.streamguard.cc/sec/1537014014/3539353788581809cbe256a4d71e172cf72e479d7e60ce4b/ivs/50/43/2c055a1ead48/hls/tracks-2,4/index.m3u8
+https://live-edge.pxstream.tv/hls2/pfh1/hls2/premiere1-640p/chunks.m3u8?md5=OEHnZACQBFGrdgunzyPKNQ&expires=1537125848
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
-https://edge23.streamguard.cc/sec/1537093513/36313438ca383912ddf4e86ebeea34cf456c5c5d0f82798a/ivs/17/06/c8b4326c7727/hls/tracks-2,4/index.m3u8
+https://live-edge.pxstream.tv/hls/sportvhd/playlist.m3u8?md5=pszf5uuLugBpIBlPu4BFDg&expires=1537126078
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
 https://oql95b.oloadcdn.net/dl/l/1KKJNeg8pTXNSsvm/kEJOdK1hoQw/augu_taylo.400.mp4?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 4
