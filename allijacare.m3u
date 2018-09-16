@@ -22,9 +22,9 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-https://live-edge.pxstream.tv/hls2/globo-sp/hls2/tvglobosaopaulo-720p/playlist.m3u8?md5=UhdWAkjsfzgJtOyp_vWv8g&expires=1537167203
+https://live-edge.pxstream.tv/hls2/globo-sp/hls2/tvglobosaopaulo-720p/chunks.m3u8?md5=RJPgjcJyOL0-zFlP24uXiQ&expires=1537170704
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-https://live-edge.pxstream.tv/hls2/globo-sp/hls2/tvglobosaopaulo-640p/chunks.m3u8?md5=UhdWAkjsfzgJtOyp_vWv8g&expires=1537167203
+http://94.102.51.27:8088/live/globoaovivo17/playlist.m3u8?id=32396&wowzasessionid=995400957&pk=38310a14d34c1bba037243ea8f8af64af8a5dbbd082878b5e1f3789325f20c07
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://1fizp0e.oloadcdn.net/dl/l/igHDBc-b_D5xLu5E/gY5b2hUSu_4/www.0xxx.ws_DigitalPlayground.18.09.14.Brenna.Sparks.And.Jade.Kush.The.Gang.Makes.A.Porno.Episode.2.XXX.1080p.MP4-KTR.mp4?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
