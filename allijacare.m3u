@@ -22,9 +22,9 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-https://live-edge.pxstream.tv/hls2/globo-sp/hls2/tvglobosaopaulo-720p/playlist.m3u8?md5=UBn5i9lQxI60NiCXxtc_hA&expires=1537148600
+https://live-edge.pxstream.tv/hls2/globo-sp/hls2/tvglobosaopaulo-720p/playlist.m3u8?md5=UhdWAkjsfzgJtOyp_vWv8g&expires=1537167203
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-https://live-edge.pxstream.tv/hls2/globo-sp/hls2/tvglobosaopaulo-640p/playlist.m3u8?md5=UBn5i9lQxI60NiCXxtc_hA&expires=1537148600
+https://live-edge.pxstream.tv/hls2/globo-sp/hls2/tvglobosaopaulo-640p/chunks.m3u8?md5=UhdWAkjsfzgJtOyp_vWv8g&expires=1537167203
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://1fizp0e.oloadcdn.net/dl/l/igHDBc-b_D5xLu5E/gY5b2hUSu_4/www.0xxx.ws_DigitalPlayground.18.09.14.Brenna.Sparks.And.Jade.Kush.The.Gang.Makes.A.Porno.Episode.2.XXX.1080p.MP4-KTR.mp4?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
@@ -32,7 +32,7 @@ https://1fgqftg.oloadcdn.net/dl/l/PzrYITQ9lnZgA6x-/FGyeYiGp1Z0/www.0xxx.ws_FiLF.
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://1fiag6h.oloadcdn.net/dl/l/HmRu8JCJRtnfZSwH/D3-BqqzKtJE/ritne_ela.480.mp4?mime=true
 #EXTINF:11 tvg-shift=-3  group-title="Canais Beta",PREMIERE 2
-https://live-edge.pxstream.tv/hls2/pfh4/hls2/premiere4-640p/playlist.m3u8?md5=705bvsugYcxLzQQ-yfzlEA&expires=1537148713
+https://live-edge.pxstream.tv/hls2/pfh4/hls2/premiere4-640p/chunks.m3u8?md5=Y_B0d1sw_3jlipkQqFjhQQ&expires=1537167272
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
 https://live-edge.pxstream.tv/hls/sportvhd/playlist.m3u8?md5=5BCficnh_t5wVzp5KuWdwQ&expires=1537148747
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
