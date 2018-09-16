@@ -22,9 +22,9 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-https://cdn.whostreams.net:8443/hls/3h23vjvyfv6.m3u8?s=d6zkmRiliBjNG_7EqRPPfw&e=1536967234
+https://live-edge.pxstream.tv/hls2/globo-sp/hls2/tvglobosaopaulo-720p/chunks.m3u8?md5=brqWkNealNCeTlSPc1DgZA&expires=1537117820
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-https://live-edge.pxstream.tv/hls/foxsportshd/chunks.m3u8?md5=O0MYl-GXxlEnaecnxP5O9w&expires=1536988760
+https://live-edge.pxstream.tv/hls2/globo-sp/hls2/tvglobosaopaulo-640p/chunks.m3u8?md5=brqWkNealNCeTlSPc1DgZA&expires=1537117820
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://1fizp0e.oloadcdn.net/dl/l/XWjmuTWRruCSy4Pw/gY5b2hUSu_4/www.0xxx.ws_DigitalPlayground.18.09.14.Brenna.Sparks.And.Jade.Kush.The.Gang.Makes.A.Porno.Episode.2.XXX.1080p.MP4-KTR.mp4?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
@@ -154,7 +154,7 @@ https://1fiagfb.oloadcdn.net/dl/l/HGY-SQwTAepGIQDC/sAHK8ZY0C3U/iamond_ox.480.mp4
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies2
 https://1fiagel.oloadcdn.net/dl/l/v4b1p2AVX1X737GU/1pqPatZMVis/www.0xxx.ws_BrazzersExxtra.18.09.02.Nicole.Aniston.Abstract.Sexpressionism.XXX.1080p.MP4-KTR.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies1
-https://1fgm8qz.oloadcdn.net/dl/l/zNiz6S1Z__qQQ-_-/4GLhWm-mhX0/O.Massacre.do.moinho.de.Vento.2018.720p.BluRay.x264-hd7+%281%29.mkv.mp4?mime=true
+https://1fgm8qz.oloadcdn.net/dl/l/vJHYwmka7hs8e7jm/4GLhWm-mhX0/O.Massacre.do.moinho.de.Vento.2018.720p.BluRay.x264-hd7+%281%29.mkv.mp4?mime=true
 ==============================================================Series============================================================
 ============================================================South Park==========================================================
 #EXTINF:0 tvg-logo="http://i.imgur.com/slGftt7.jpg" group-title="South Park",01 South Park
