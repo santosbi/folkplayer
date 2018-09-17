@@ -22,15 +22,15 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-https://live-edge.pxstream.tv/hls2/globo-sp/hls2/tvglobosaopaulo-720p/chunks.m3u8?md5=RJPgjcJyOL0-zFlP24uXiQ&expires=1537170704
+https://cdn.whostreams.net:8443/hls/3h23vjvyfv6.m3u8?s=NN4cL-39zS8CRX3IjoriEw&e=1537225718
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-http://94.102.51.27:8088/live/globoaovivo17/playlist.m3u8?id=32396&wowzasessionid=995400957&pk=38310a14d34c1bba037243ea8f8af64af8a5dbbd082878b5e1f3789325f20c07
+http://cdn.widestream.io:8080/hls/vc13lws.m3u8?s=LDv6Qaqm7Nz1sQfgmw9vaw&e=1537225751
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://psv15-1.crazycloud.ru/videos/90928941/147554562/240.mp4?extra=uukDsft0ZasRq7RGxCMgaQ
+https://oqt1ou.oloadcdn.net/dl/l/qX-4FD0VPa9HCJUh/50aqOVoSpDg/RealityKings.Rachel.Starr.SD.mp4?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://1fgqftg.oloadcdn.net/dl/l/B5IwTlZt7Ir-fsxm/FGyeYiGp1Z0/www.0xxx.ws_FiLF.E11.Anissa.Kate.2.XXX.720p.MP4-KTR.mp4?mime=true
+https://1fiag6k.oloadcdn.net/dl/l/vwJUxpXzbDY1xt7-/FGyeYiGp1Z0/www.0xxx.ws_FiLF.E11.Anissa.Kate.2.XXX.720p.MP4-KTR.mp4?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://psv17-2.crazycloud.ru/videos/-163487969/456239019/360.mp4?extra=GSZzNx8yVhD5f5Byk3PimA
+https://psv21-1.daxab.com/videos/-106029810/456239286/360.mp4?extra=c-eCLBf9fW9N7WD9sSLXmA
 #EXTINF:11 tvg-shift=-3  group-title="Canais Beta",PREMIERE 2
 https://r5---sn-bg07dnll.c.drive.google.com/videoplayback?expire=1537209582&ei=rryfW9XUGIr4-AWPwZ3ADQ&ip=138.99.32.57&cp=QVNIWUNfWFVWQ1hOOkVmXzFWTXJ3LUlxbHhHd3piRlE4bWRiMUJoSFdHcVJqR2FqLXlyWFB5QW8&id=9c1d88f5ed21ad60&itag=18&source=webdrive&requiressl=yes&mm=30&mn=sn-bg07dnll&ms=nxu&mv=m&pl=24&ttl=transient&susc=dr&driveid=0B7sBAOzMwlZ1ZVhUUUtSUkVabFk&app=explorer&mime=video/mp4&dur=6122.289&lmt=1489260465150608&mt=1537195105&sparams=expire,ei,ip,cp,id,itag,source,requiressl,ttl,susc,driveid,app,mime,dur,lmt&sig=AKDTMpkwRAIgSP4pTciKD5F2YPfneN5j8x3ZLhM1c9Jc50eyoB-MX6QCIA8lxF9wOqZWkvWN4-Byl3p1Mzbf799j5nwURhdapGAJ&lsparams=mm,mn,ms,mv,pl&lsig=AAF_nfAwRQIhAJU5pGg-lBexYMY30OJCWuwLs1Om5ON_tn9W0Rh3zXnCAiAsfwXj5jtsn-75LnnDgS4neXgBaWB8BjMlQiRMbCLKNA==&cpn=VDlg_KraBW1v4cfd&c=WEB_EMBEDDED_PLAYER&cver=20180913
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
@@ -38,11 +38,11 @@ https://ph2drh.oloadcdn.net/dl/l/NP66YpmtLEJtk-PX/o3Eytf9x4-U/Reaper.2014.720p.W
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
 https://psv47-1.daxab.com/videos/-107781073/456244076/360.mp4?extra=wTmAFtpi2eJ9oT0OkZj6Pg
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 4
-https://1fgm90k.oloadcdn.net/dl/l/kTnjGALnPMK1ycHZ/JK7IRF2ck-E/Aletta_Ocean_-_Fuck_Doll.mp4?mime=true
+https://1fgm90k.oloadcdn.net/dl/l/WsfZnYu_feRtYx-_/JK7IRF2ck-E/Aletta_Ocean_-_Fuck_Doll.mp4?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 5
-https://psv15-1.crazycloud.ru/videos/-141349904/456240392/360.mp4?extra=Z0Y3oJDAF_W0gXTcpRF7eA
+https://psv15-2.crazycloud.ru/videos/-141349904/456240392/720.mp4?extra=eUXSLJISRGdzrxCCf0yRrg
 #EXTINF:50 tvg-shift=-3 group-title="Canais Beta",PREMIERE CLUB
-https://1fgm8kj.oloadcdn.net/dl/l/0efOfCnUPDhhczZH/gUpIbVrmo4w/uie5ujrtjgj_25.mp4?mime=true
+https://1fgm8kj.oloadcdn.net/dl/l/Y9OrcMobb00Mqzzy/gUpIbVrmo4w/uie5ujrtjgj_25.mp4?mime=true
 ===============================================================Esportes=============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Futebol;FUTEBOL AO VIVO",FOX SPORTS
 #EXTBG: #11609e
@@ -146,13 +146,13 @@ http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m
 
 ==============================================================Movies============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies5
-https://1fgqftj.oloadcdn.net/dl/l/cH9HfP4bGAjdh32p/-g0hJC-yZTc/Anissa_Kate_-_The_Yoghurt_Of_Pleasure.mp4?mime=true
+https://oqbkii.oloadcdn.net/dl/l/ztBErkeH0zXmyDNM/-g0hJC-yZTc/Anissa_Kate_-_The_Yoghurt_Of_Pleasure.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies4
-https://psv27-2.daxab.com/videos/-55368383/171920373/360.mp4?extra=SVhHd__cYxPfslDyN2Zp6A
+https://psv45-1.daxab.com/cs532403.vkuservideo.net/u142459545/videos/abf5b7455c.720.mp4?extra=2NcgU8flpTSpC1LKnGbv6me75ehawvvrQJnkgdNMxi4h6ySBhaIpcy6-n_ZPNsoUmGrIA3ChDU-iz91kIbFsR643e9lu7Zk8-dKTbtiYu3htvoBagoHqSIvff5Y8E7G_9WZMObshMrwXmQ&extra_key=rbm0i_AyLolVOoYkqA_Xmw&videos=228730719_169854173
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies3
 https://psv45-1.daxab.com/videos/-159046896/456239515/360.mp4?extra=tOdAwYafBoYjkI-RdTjfoA
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies2
-https://psv48-1.daxab.com/videos/-127700459/456256904/360.mp4?extra=aZ3iXMprclqpGB8eWF_Fmg
+https://oqt1ph.oloadcdn.net/dl/l/a7l8uJq5BqY7u9l-/ZmkVQhzt3wc/RealityKings.Nicolette.Shea.SD.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies1
 https://1fgm8qz.oloadcdn.net/dl/l/bPhbchW9KRlZH6iO/4GLhWm-mhX0/O.Massacre.do.moinho.de.Vento.2018.720p.BluRay.x264-hd7+%281%29.mkv.mp4?mime=true
 ==============================================================Series============================================================
