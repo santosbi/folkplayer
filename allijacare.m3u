@@ -22,9 +22,9 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-https://live-edge.pxstream.tv/hls/foxsportshd/chunks.m3u8?md5=y8P4YE1SMa7xmCgIH-X0jg&expires=1537273092
+https://cdn11.pxstream.tv/hls/sportvhd/chunks.m3u8?md5=bQaRwKBi_n4ETdWQkAoDIg&expires=1540271837
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-https://live-edge.pxstream.tv/hls/sportvhd/playlist.m3u8?md5=l7COwNMAPnoXntFsmEzX5g&expires=1537273040
+http://cdn.whostreams.net:8080/hls/euxn927.m3u8?s=ESyYB-yoVYTJacvJ6sJgNg&e=1540250355
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://cdn11.pxstream.tv/hls/foxsportshd/chunks.m3u8?md5=xFN-hYBiJRUxoyQQkXFePA&expires=1540264649
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
@@ -146,9 +146,9 @@ http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m
 
 ==============================================================Movies============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies5
-https://oqbkii.oloadcdn.net/dl/l/Pe3Dt5onhaZsVzpf/-g0hJC-yZTc/Anissa_Kate_-_The_Yoghurt_Of_Pleasure.mp4?mime=true
+https://1fhjlj6.oloadcdn.net/dl/l/uTmuXZ5WaRK7hFfn/HnCo2LbiPEQ/Epidemz.com-Anissa-Kate-MA042-HD.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies4
-https://1fgm8qr.oloadcdn.net/dl/l/85cwyC4Zk1ygvTx5/74PEkx2MJoA/Audrey_Bitoni_-_Vanilla.mp4?mime=true
+https://1fiagef.oloadcdn.net/dl/l/Rse-ut22kb2YXS1A/LmWALo1vllQ/www.0xxx.ws_SneakySex.18.10.20.Mary.Jean.And.Stella.Raee.Sneaky.Pussies.XXX.1080p.MP4-KTR.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies3
 https://oqt1ph.oloadcdn.net/dl/l/6OGPhXk0l5aQGwud/ZmkVQhzt3wc/RealityKings.Nicolette.Shea.SD.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies2
