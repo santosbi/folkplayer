@@ -26,7 +26,7 @@ https://live-edge.pxstream.tv/hls/foxsportshd/chunks.m3u8?md5=y8P4YE1SMa7xmCgIH-
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
 https://live-edge.pxstream.tv/hls/sportvhd/playlist.m3u8?md5=l7COwNMAPnoXntFsmEzX5g&expires=1537273040
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://ph2dpa.oloadcdn.net/dl/l/pvjo2K_vHkhJqM7R/50aqOVoSpDg/RealityKings.Rachel.Starr.SD.mp4?mime=true
+https://cdn11.pxstream.tv/hls/foxsportshd/chunks.m3u8?md5=xFN-hYBiJRUxoyQQkXFePA&expires=1540264649
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://1fgqftg.oloadcdn.net/dl/l/7EEyojjcU52JuexZ/FGyeYiGp1Z0/www.0xxx.ws_FiLF.E11.Anissa.Kate.2.XXX.720p.MP4-KTR.mp4?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
@@ -46,27 +46,27 @@ https://1fgm8kj.oloadcdn.net/dl/l/j4Tj9kxdg-MG-h2y/gUpIbVrmo4w/uie5ujrtjgj_25.mp
 ===============================================================Esportes=============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Futebol;FUTEBOL AO VIVO",FOX SPORTS
 #EXTBG: #11609e
-http://apk2.futeboltv.com:8081/live/4/playlist.m3u8
+http://apk2.futeboltvgratis.com:8081/live/4/playlist.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="Futebol",FOX SPORTS2
 #EXTBG: #11609e
-http://apk2.futeboltv.com:8081/live/5/playlist.m3u8
+http://apk2.futeboltvgratis.com:8081/live/5/playlist.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="Futebol",SPORTV
 #EXTBG: #11609e
-http://apk2.futeboltv.com:8081/live/20/playlist.m3u8
+http://apk2.futeboltvgratis.com:8081/live/20/playlist.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="Futebol",SporTV 2
 #EXTBG: #11609e
-http://apk2.futeboltv.com:8081/live/15/playlist.m3u8
+http://apk2.futeboltvgratis.com:8081/live/15/playlist.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="Futebol",SporTV 3
 #EXTBG: #11609e
-http://apk2.futeboltv.com:8081/live/7/playlist.m3u8
+http://apk2.futeboltvgratis.com:8081/live/7/playlist.m3u8
 
 #EXTINF:4  tvg-shift=-3 group-title="Futebol",ESPN BRASIL
 #EXTBG: #11609e
-http://apk2.futeboltv.com:8081/live/19/playlist.m3u8
+http://apk2.futeboltvgratis.com:8081/live/19/playlist.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
