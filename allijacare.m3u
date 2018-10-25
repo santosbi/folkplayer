@@ -146,11 +146,11 @@ http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m
 
 ==============================================================Movies============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies5
-https://hls4-l3.xvideos-cdn.com/d88d3f7032459f9bc99afd68a196e539236b45cd-1540328764/videos/hls/83/6a/75/836a75d225385f9442837f18588d40df/hls-250p.m3u8
+https://hls-hw.xvideos-cdn.com/videos/hls/a2/69/f9/a269f9a20184a45b259d6a133a48ee0b/hls-480p.m3u8?e=1540501665&l=0&h=5f6f0bcd4ace4f492775870710c66fed
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies4
-https://hls-hw.xvideos-cdn.com/videos/hls/bf/86/e7/bf86e77c9a529d28a3c0940bbe97c1f7/hls-360p.m3u8?e=1540328858&l=0&h=8f48f0e5a28e60b048e791da72dc138c
+https://hls-hw.xvideos-cdn.com/videos/hls/8e/f0/dd/8ef0ddbfe3aaadde54b3cd627823dda5/hls-480p.m3u8?e=1540501688&l=0&h=29b043141d6fe05469ae21a932b38689
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies3
-https://hls2-l3.xvideos-cdn.com/43404bf9682895a7f76ed697192d84e0be3e62ab-1540329369/videos/hls/a7/04/62/a70462bfbf695d4e8aeb4f1f7f39cae5/hls-250p.m3u8
+https://vid-egc.xvideos-cdn.com/videos/hls/69/20/e0/6920e03fe53845310989cf778aa0bf78/hls-360p.m3u8?hUXY2sooT0Hy2bQIc3dTQLGlTjra0A41t6kUE2qA-8zn9GM1p4__qOG8AR7308_dvGuJOPGF2EenJ-r6McJ092i7GEVItF4ATlXKLxzL_3-SLj-Bamt-hcgWyPLlwS6A-74G8oD-F-kaQYIZVCb7u5AZ0g
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies2
 https://vid-egc.xvideos-cdn.com/videos/hls/1d/4f/b2/1d4fb2bb818777010da347e0f8b810ed/hls-360p.m3u8?ZDGncCQxkiWnhiAhX1HKaxSnoK96B4NZTfJFXkJCk573BbOHqTCWfeZb7bSzjMpm-08MhC5HmYCLvvUZRxWyIwM7K6tWQlkAFIujS_CqXctoxKBG-qOl1bIaZxcjmmpnmmZ2icgPAv_LeXe-lgc5A3Clmw
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies1
