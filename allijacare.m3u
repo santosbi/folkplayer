@@ -62,7 +62,7 @@ http://apk2.futeboltvgratis.com:8081/live/15/playlist.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="Futebol",SporTV 3
 #EXTBG: #11609e
-http://apk2.futeboltvgratis.com:8081/live/7/playlist.m3u8
+http://apk2.futeboltvgratis.com:8081/live/5/playlist.m3u8
 
 #EXTINF:4  tvg-shift=-3 group-title="Futebol",ESPN BRASIL
 #EXTBG: #11609e
@@ -74,7 +74,7 @@ http://apk2.futeboltv.com:8081/live/3/playlist.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
-http://apk2.futeboltv.com:8081/live/8/playlist.m3u8
+http://apk2.futeboltv.com:8081/live/10/playlist.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
@@ -98,7 +98,7 @@ http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index
 ================================================================Radios==========================================================
 #EXTINF:4 tvg-shift=-3 group-title="RÁDIOS",SAUDADE FM
 #EXTBG: #11609e
-http://audio.saudadefm.com.br:8000/saudadefm
+http://r16.ciclano.io:9039/site
 
 #EXTINF:4 tvg-shift=-3 group-title="RÁDIOS",ANTENA 1 RJ
 #EXTBG: #11609e
@@ -106,11 +106,11 @@ http://a1rj.streams.com.br:7801/stream
 
 #EXTINF:4 tvg-shift=-3 group-title="RÁDIOS",ALFHA FM SP
 #EXTBG: #11609e
-http://streamingv2.shoutcast.com/AlphaFM101-7
+https://cdn.live.nextdial.com.br/listen/alphafmsp?aid=5b43af8b81d3f472f720d358
 
 #EXTINF:4 tvg-shift=-3 group-title="RÁDIOS",JOVEM PAN FM
 #EXTBG: #11609e
-http://18763.live.streamtheworld.com/JP_SP_FMAAC.aac
+http://playerservices.streamtheworld.com/api/livestream-redirect/JP_SP_FMAAC.aac
 
 #EXTINF:4 tvg-shift=-3 group-title="RÁDIOS",JOVEM PAN AM
 #EXTBG: #11609e
@@ -130,7 +130,7 @@ http://45.76.239.210:5036/stream
 
 #EXTINF:4 tvg-shift=-3 group-title="RÁDIOS",RADIO BANDEIRANTES
 #EXTBG: #11609e
-http://wpc.80eb0.alphacdn.net/2480EB0/saopaulo_ml/radiobandeirantes_web_sp.m3u8?6bIWMxJdbL94Wgg9NNBCN5zc1W5HOj-eXMdKwauf1CLm3wWXWgEI6Y91QR1gmHo
+https://evpp.mm.uol.com.br/band/radiobandeirantes_sp/playlist.m3u8
 ==========================================================Câmeras===============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Câmeras Ao Vivo",BAR SLOPPY JOE'S EM KEY WEST(CAMERA EXTERNA)
 #EXTBG: #11609e
