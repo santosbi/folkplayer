@@ -22,7 +22,7 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-https://cdn11.pxstream.tv/hls/sportvhd/chunks.m3u8?md5=bQaRwKBi_n4ETdWQkAoDIg&expires=1540271837
+https://www.youtube.com/watch?v=0C12bEJmXPI
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
 http://cdn.whostreams.net:8080/hls/euxn927.m3u8?s=ESyYB-yoVYTJacvJ6sJgNg&e=1540250355
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
@@ -154,7 +154,7 @@ https://1fhjlov.oloadcdn.net/dl/l/e1KQ4ijSktVvykh4/hWlPsmNgK08/www.0xxx.ws_Titty
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies2
 https://17wy0tw.oloadcdn.net/dl/l/2TzlOb7OhVLc-RJi/z5t7JUTjMn0/BridgetteB.mp4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies1
-https://1fhjljt.oloadcdn.net/dl/l/BoQQWx8-7tPjj_fb/Gl74OhUlZTk/Puro.Sangue.2017.720p.BluRay-DRONES.DUB.mkv.mp4?mime=true
+https://1fhjljt.oloadcdn.net/dl/l/0jCTi0qGCtkTtJhV/Gl74OhUlZTk/Puro.Sangue.2017.720p.BluRay-DRONES.DUB.mkv.mp4?mime=true
 ==============================================================Series============================================================
 ============================================================South Park==========================================================
 #EXTINF:0 tvg-logo="http://i.imgur.com/slGftt7.jpg" group-title="South Park",01 South Park
