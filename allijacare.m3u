@@ -22,27 +22,27 @@ http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
 http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-https://www.youtube.com/watch?v=0C12bEJmXPI
+https://live-edge.pxstream.tv/hls2/pfh1/hls2/premiere1-640p/chunks.m3u8?md5=n2FcmQOm33b7eSYEXlrCHg&expires=1542082729
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-http://cdn.whostreams.net:8080/hls/euxn927.m3u8?s=ESyYB-yoVYTJacvJ6sJgNg&e=1540250355
+http://ul.cdn584.net:8080/hls/dof3tae.m3u8?s=kpMxwc45UJl2LswDkCB06g&e=1542061165
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://cdn11.pxstream.tv/hls/foxsportshd/chunks.m3u8?md5=xFN-hYBiJRUxoyQQkXFePA&expires=1540264649
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://1fgqftg.oloadcdn.net/dl/l/7EEyojjcU52JuexZ/FGyeYiGp1Z0/www.0xxx.ws_FiLF.E11.Anissa.Kate.2.XXX.720p.MP4-KTR.mp4?mime=true
+https://openload.co/stream/qvx_rhsWumU~1542125244~2804:7f2::~WcMBa4ob?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://openload.co/stream/OFNda5arIEs~1541996724~2804:7f2::~dvvIL1t6?mime=true
+https://openload.co/stream/Ra-BQ-341fw~1542125866~2804:7f2::~wvsf_ter?mime=true
 #EXTINF:11 tvg-shift=-3  group-title="Canais Beta",PREMIERE 2
-https://oload.stream/stream/HoBUYB2y5FY~1541940694~2804:7f2::~kD9vFBMP?mime=true
+https://openload.co/stream/uSyUR5K5bxs~1542124966~2804:7f2::~3GBT1kBl?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
-https://openload.co/stream/uSyUR5K5bxs~1541996579~2804:7f2::~Tbm6z6Eq?mime=true
+https://openload.co/stream/yFp-zsF85Fw~1542124934~2804:7f2::~2N25KTeu?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
-https://openload.co/stream/yFp-zsF85Fw~1541996522~2804:7f2::~cgAiU3g2?mime=true
+https://openload.co/stream/xcSfuseU6SI~1542124907~2804:7f2::~43O0jCE0?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 4
-https://openload.co/stream/xcSfuseU6SI~1541996488~2804:7f2::~IyCO29FR?mime=true
+https://openload.co/stream/_nF2vvQ55rI~1542124885~2804:7f2::~nipLz3Tx?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 5
-https://openload.co/stream/lgUQU6_3LmA~1541996415~2804:7f2::~XRgcEp5t?mime=true
+https://openload.co/stream/lgUQU6_3LmA~1542124841~2804:7f2::~nADyPC67?mime=true
 #EXTINF:50 tvg-shift=-3 group-title="Canais Beta",PREMIERE CLUB
-https://openload.co/stream/l6aSrp6_E9I~1541996682~2804:7f2::~Kyt3fxOi?mime=true
+https://openload.co/stream/BRV8KhUwssg~1542124803~2804:7f2::~kgRcU9TN?mime=true
 ===============================================================Esportes=============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Futebol;FUTEBOL AO VIVO",FOX SPORTS
 #EXTBG: #11609e
@@ -182,15 +182,15 @@ http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m
 
 ==============================================================Movies============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies5
-https://oload.stream/stream/2193nBBmGeE~1541997016~2804:7f2::~_6aiGnPj?mime=true
+https://oload.stream/stream/vpxMYfC82Y8~1542125700~2804:7f2::~BrCBH2YE?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies4
-https://yourporn.sexy/cdn/c7/0EDUgW5Z2HHQw5o1l6yB9g/1541914608/j7518k1y2x464tdq61df86fwbh0/tw539l31ecbz6ld30l7wdyckd0d.mp4
+https://oload.stream/stream/pbFlZC3a0S0~1542125722~2804:7f2::~Wcdtkaxd?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies3
-https://oload.stream/stream/eZJcygbW78Y~1541993603~2804:7f2::~GucO9Mkb?mime=true
+https://oload.stream/stream/ZmUVoyLUr2o~1542125748~2804:7f2::~O_7NVB8M?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies2
-https://oload.stream/stream/E2RE6rAehyE~1541996971~2804:7f2::~XNJKssBj?mime=true
+https://openload.co/stream/diUGjmMingQ~1542125789~2804:7f2::~-NTAE32r?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies1
-https://openload.co/stream/Gl74OhUlZTk~1541940749~2804:7f2::~xh3MjcXJ?mime=true
+https://openload.co/stream/Gl74OhUlZTk~1542125553~2804:7f2::~DnhBgM9J?mime=true
 ==============================================================Series============================================================
 ============================================================South Park==========================================================
 #EXTINF:0 tvg-logo="http://i.imgur.com/slGftt7.jpg" group-title="South Park",01 South Park
