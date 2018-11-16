@@ -1,0 +1,28 @@
+#EXTM3U
+#PLAYLISTV: pltv-name="ALLIGATOR - FILMES,TV E SERIES" pltv-description="LISTA DE TV, FILMES, SERIES
+
+#EXTINF:-1 tvg-shift=-3 group-title="Maniac",Maniac 7
+https://openload.co/stream/4DMlPEnx454~1542457264~2804:7f2::~v8q0IqGk?mime=true
+
+#EXTINF:-1 tvg-shift=-3 group-title="Maniac",Maniac 8
+https://openload.co/stream/wGU7TK-UUE4~1542457368~2804:7f2::~J-mQuNcj?mime=true
+
+#EXTINF:-1 tvg-shift=-3 group-title="Maniac",Maniac 9
+https://openload.co/stream/WG_r73ukeBE~1542457414~2804:7f2::~oX60eyQk?mime=true
+
+#EXTINF:-1 tvg-shift=-3 group-title="Maniac",Maniac 10
+https://openload.co/stream/HrXtE73kxRM~1542457451~2804:7f2::~pvAvGjYa?mime=true
+
+#EXTINF:0 tvg-shift=-3  group-title="Riverdale" Riverdale 1
+https://r2---sn-b8u-8pmz.googlevideo.com/videoplayback?id=31289fc8de3d2f7d&itag=18&source=blogger&pl=39&ei=57nuW_vHIMa8qgXN2q2ADA&susc=bl&mime=video/mp4&dur=2560.998&lmt=1539282203679077&ip=158.69.142.25&ipbits=0&expire=1542400615&sparams=dur,ei,expire,id,ip,ipbits,ipbypass,itag,lmt,mime,mip,mm,mn,ms,mv,pl,source,susc&signature=5FFE8C38820EA501B94906DEA7077761BB9E0F94.53458935ED35FEB5CB564D7124111077E8CAE231&key=cms1&redirect_counter=1&rm=sn-p5qe7s7l&fexp=23763603&req_id=a014782f490436e2&cms_redirect=yes&ipbypass=yes&mip=2804:7f2:78b:73b6:2e2:20ff:fe01:22c6&mm=31&mn=sn-b8u-8pmz&ms=au&mt=1542371674&mv=m
+
+#EXTINF:0 tvg-shift=-3  group-title="Riverdale" Riverdale 2
+https://r4---sn-b8u-8pms.googlevideo.com/videoplayback?id=2f9e495753aa5993&itag=18&source=blogger&pl=39&ei=AbruW6KfPIe7qQWwvpa4Cg&susc=bl&mime=video/mp4&dur=2511.609&lmt=1539867573949002&ip=158.69.142.25&ipbits=0&expire=1542400641&sparams=dur,ei,expire,id,ip,ipbits,ipbypass,itag,lmt,mime,mip,mm,mn,ms,mv,pl,source,susc&signature=5D1E687C990507EB135C2BF0E9561F40C2EA8E63.7FBD373C6F9EC2461F188CA2DBAFCA8C540700F8&key=cms1&redirect_counter=1&rm=sn-p5qy67z&fexp=23763603&req_id=a0f5f84f67cb36e2&cms_redirect=yes&ipbypass=yes&mip=2804:7f2:78b:73b6:2e2:20ff:fe01:22c6&mm=31&mn=sn-b8u-8pms&ms=au&mt=1542371752&mv=m
+
+#EXTINF:0 tvg-shift=-3  group-title="Riverdale" Riverdale 3
+https://r5---sn-b8u-8pme.googlevideo.com/videoplayback?id=68df835b252f6649&itag=18&source=blogger&pl=39&ei=H7ruW7GDA8jNqQW00JioDw&susc=bl&mime=video/mp4&dur=2508.614&lmt=1540567952977900&ip=158.69.142.25&ipbits=0&expire=1542400671&sparams=dur,ei,expire,id,ip,ipbits,ipbypass,itag,lmt,mime,mip,mm,mn,ms,mv,pl,source,susc&signature=57402068699D50DCDD64373C89E6E7B5251CBC43.57D2ED23FC4A746301E165CF0284DF11B49C7E2F&key=cms1&redirect_counter=1&rm=sn-p5qrr7s&fexp=23763603&req_id=19ec605cf66736e2&cms_redirect=yes&ipbypass=yes&mip=2804:7f2:78b:73b6:2e2:20ff:fe01:22c6&mm=31&mn=sn-b8u-8pme&ms=au&mt=1542371752&mv=m
+
+#EXTINF:0 tvg-shift=-3  group-title="Riverdale" Riverdale 4
+https://r5---sn-b8u-8pme.googlevideo.com/videoplayback?id=ab518f40757ab43e&itag=18&source=blogger&pl=39&ei=N7ruW_KbMoOjqgXI2qqAAg&susc=bl&mime=video/mp4&dur=2452.584&lmt=1541698618343524&ip=158.69.142.25&ipbits=0&expire=1542400695&sparams=dur,ei,expire,id,ip,ipbits,ipbypass,itag,lmt,mime,mip,mm,mn,ms,mv,pl,source,susc&signature=67BAE928F4F7C0C087D7E075276ECAC91ED22BDC.26B79285932707E8A21158E8CC0065E44C0BB90B&key=cms1&redirect_counter=1&rm=sn-p5qyr7e&fexp=23763603&req_id=e0e486bf7e2a36e2&cms_redirect=yes&ipbypass=yes&mip=2804:7f2:78b:73b6:2e2:20ff:fe01:22c6&mm=31&mn=sn-b8u-8pme&ms=au&mt=1542371752&mv=m
+
+#EXTINF:0 tvg-shift=-3  group-title="Riverdale" Riverdale 5
