@@ -26,23 +26,23 @@ https://live-edge.pxstream.tv/hls2/pfh1/hls2/premiere1-640p/chunks.m3u8?md5=n2Fc
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
 http://ul.cdn584.net:8080/hls/dof3tae.m3u8?s=kpMxwc45UJl2LswDkCB06g&e=1542061165
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://s38.bigcdn.cc/pub/cid/5beeca84d8b6f/360.mp4
+https://video.flyflv.com/key=FHRVYrBRyKd1N-bWt-eIBw,end=1542647375,ip=179.180.208.238/buffer=1600K/hd/2761.mp4
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://s13.bigcdn.cc/pub/cid/5beed0eaa0ac2/360.mp4
+https://upornia.ahcdn.com/key=OuzxtpyG-CkFVMWOki+zpg,end=1542687506/speed=0/min_speed=92088/media=hls/c2/videos/1300000/1300008/1300008.mp4
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://n1.hqwo.cc/play/xzDw0qY1PNCGcf_SVYd7Dw/1542394600/c/videos/720/37/34/73787.mp4
+https://upornia.ahcdn.com/key=ie4vGQgNpsxmBaX3Oq2+kA,end=1542687550/speed=0/min_speed=119373/media=hls/c3/videos/1031000/1031192/1031192.mp4
 #EXTINF:11 tvg-shift=-3  group-title="Canais Beta",PREMIERE 2
-https://oload.stream/stream/pbFlZC3a0S0~1542456345~2804:7f2::~2T8mWz6c?mime=true
+https://upornia.ahcdn.com/key=ptElZ1Qkjx2vFsMm0gud1w,end=1542687577/speed=0/min_speed=40073/media=hls/c2/videos/1254000/1254576/1254576.mp4
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
 https://oload.stream/stream/vpxMYfC82Y8~1542456247~2804:7f2::~ty4-GoLE?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
-https://oload.stream/stream/ejjpmq9Z0r4~1542470539~2804:7f2::~K3bv3LzE?mime=true
+https://openload.co/stream/KhHMYRdUv-s~1542729159~2804:7f2::~l1o-vbfS?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 4
-https://oload.stream/stream/_UY0o1AaRhQ~1542470493~2804:7f2::~tFIoyqtf?mime=true
+https://openload.co/stream/CsyAyF30mc8~1542729138~2804:7f2::~ze42_Nkq?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 5
-https://openload.co/stream/43HPL5CWWj8~1542469614~2804:7f2::~NtC_L-DH?mime=true
+https://openload.co/stream/43HPL5CWWj8~1542729088~2804:7f2::~lSZ_BENG?mime=true
 #EXTINF:50 tvg-shift=-3 group-title="Canais Beta",PREMIERE CLUB
-https://openload.co/stream/qZiV-6Qk9dk~1542469663~2804:7f2::~-ZK58s_G?mime=true
+https://openload.co/stream/qZiV-6Qk9dk~1542729110~2804:7f2::~R6tLdtoo?mime=true
 ===============================================================Esportes=============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Futebol;FUTEBOL AO VIVO",FOX SPORTS
 #EXTBG: #11609e
@@ -182,15 +182,15 @@ http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m
 
 ==============================================================Movies============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies5
-https://oload.stream/stream/yK2LqP6Aenc~1542470304~2804:7f2::~DBw7_2sm?mime=true
+https://oload.stream/stream/dXVe0QIO884~1542729673~2804:7f2::~KJkRjmNe?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies4
-https://oload.stream/stream/SFEZIEVjhCY~1542470365~2804:7f2::~I7S_3N3V?mime=true
+https://oload.stream/stream/ZKS5sFye8jU~1542730016~2804:7f2::~bFVc8ZJX?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies3
-https://oload.stream/stream/pbFlZC3a0S0~1542470405~2804:7f2::~zdPnQXqs?mime=true
+https://oload.stream/stream/UYmI4tA5ZVc~1542730064~2804:7f2::~OJFpoE26?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies2
 https://oload.stream/stream/vpxMYfC82Y8~1542470427~2804:7f2::~bIlgMZmc?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies1
-https://openload.co/stream/zPCkEDcncDE~1542469549~2804:7f2::~b5kSqn1R?mime=true
+https://openload.co/stream/zPCkEDcncDE~1542729058~2804:7f2::~1WiBTkfj?mime=true
 ==============================================================Series============================================================
 ============================================================South Park==========================================================
 #EXTINF:0 tvg-logo="http://i.imgur.com/slGftt7.jpg" group-title="South Park",01 South Park
