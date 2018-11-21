@@ -164,13 +164,13 @@
 <category_id>3</category_id>  
 <title>ESPN</title>
 <logo_30x30>http://1000logos.net/wp-content/uploads/2017/01/ESPN-Logo.png</logo_30x30>
-<stream_url><![CDATA[http://apk2.futeboltv.com:8081/live/3/chunks.m3u8]]></stream_url>
+<stream_url><![CDATA[http://163.172.28.158/WebRTCApp/streams/725027315536805671025240.m3u8]]></stream_url>
 </channel>
 <channel>  
 <category_id>3</category_id>  
 <title>SPORTV</title>
 <logo_30x30>https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/SporTV_logo_2011.png/800px-SporTV_logo_2011.png</logo_30x30>
-<stream_url><![CDATA[http://apk2.futeboltv.com:8081/live/20/chunks.m3u8]]></stream_url>
+<stream_url><![CDATA[https://apknew.futeboltvgratis.com/WebRTCApp/streams/806929397621373052203332.m3u8]]></stream_url>
 </channel>
 <channel>  
 <category_id>3</category_id>  
