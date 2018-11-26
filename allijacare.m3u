@@ -7,7 +7,7 @@ https://www.youtube.com/watch?v=LXpSY15tAAk
 
 #EXTINF:0 tvg-shift=-3 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/2/22/Logotipo_da_Rede_Globo.png" group-title="TV Aberta;FUTEBOL AO VIVO",GLOBO SP
 #EXTBG: #11609e
-http://apk2.futeboltv.com:8081/live/17/chunks.m3u8
+http://apk25.futeboltv.com:8081/live/17/chunks.m3u8
 
 #EXTINF:-1 tvg-shift=-3 tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="TV Aberta",BAND
 #EXTBG: #11609e
@@ -26,43 +26,43 @@ https://live-edge.pxstream.tv/hls2/pfh1/hls2/premiere1-640p/chunks.m3u8?md5=n2Fc
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
 http://ul.cdn584.net:8080/hls/dof3tae.m3u8?s=kpMxwc45UJl2LswDkCB06g&e=1542061165
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://oload.stream/stream/h3V4Feo6PFg~1543080863~2804:7f2::~rNobfp6k?mime=true
+https://oload.stream/stream/vkP7g_P7vSk~1543331867~2804:7f2::~955O7KdM?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://oload.stream/stream/KyoiG_Oakrg~1543075228~2804:7f2::~rUST2Akc?mime=true
+https://oload.stream/stream/ayqHfNkeN2E~1543331886~2804:7f2::~GHJc-bLp?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://oload.stream/stream/Vd8ibfVmWXg~1543075065~2804:7f2::~ng-PAvcz?mime=true
+https://oload.stream/stream/pAGDJJfFc7s~1543331941~2804:7f2::~Vo2HFVFE?mime=true
 #EXTINF:11 tvg-shift=-3  group-title="Canais Beta",PREMIERE 2
-https://openload.co/stream/sjyyiOEYMAc~1543074933~2804:7f2::~EO7F4M-V?mime=true
+https://oload.stream/stream/kJ84EAGOf4U~1543331965~2804:7f2::~FBoH9av2?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
-https://oload.stream/stream/JaC1Gk6ctIs~1543074885~2804:7f2::~mNGCi19t?mime=true
+https://oload.stream/stream/WW2zilI5xLA~1543331992~2804:7f2::~proLtWte?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
 https://oload.stream/stream/UaAoZRnq1Ew~1543074866~2804:7f2::~_nIu3cJK?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 4
 https://oload.stream/stream/oYz0WYzZH1M~1543074821~2804:7f2::~X8sNLdiO?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 5
-https://openload.co/stream/P7ctQRpYFIQ~1543074410~2804:7f2::~Mwqo4ge_?mime=true
+https://openload.co/stream/H0FRuGyJsyA~1543332721~2804:7f2::~beqgiu0g?mime=true
 #EXTINF:50 tvg-shift=-3 group-title="Canais Beta",PREMIERE CLUB
-https://openload.co/stream/VNj7iOoqplE~1543074316~2804:7f2::~N4OIj-tL?mime=true
+https://openload.co/stream/dczo8X7k0YU~1543332394~2804:7f2::~WhNF89Ht?mime=true
 ===============================================================Esportes=============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Futebol;FUTEBOL AO VIVO",FOX SPORTS
 #EXTBG: #11609e
-http://apk24.futeboltvgratis.com:8081/live/4/chunks.m3u8
+http://apk25.futeboltvgratis.com:8081/live/4/chunks.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="Futebol",FOX SPORTS2
 #EXTBG: #11609e
-http://apk24.futeboltvgratis.com:8081/live/5/chunks.m3u8
+http://apk25.futeboltvgratis.com:8081/live/5chunks.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="Futebol",SPORTV
 #EXTBG: #11609e
-http://apk24.futeboltvgratis.com:8081/live/20/chunks.m3u8
+http://apk25.futeboltvgratis.com:8081/live/20/unks.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="Futebol",SporTV 2
 #EXTBG: #11609e
-http://apk24.futeboltvgratis.com:8081/live/8/chunks.m3u8
+http://apk25.uteboltvgratis.com:8081/live/8/chunks.m3u8
 
 #EXTINF:4  tvg-shift=-3 group-title="Futebol",ESPN BRASIL
 #EXTBG: #11609e
-http://apk24.futeboltvgratis.com:8081/live/19/chunks.m3u8
+http://apk25.fuboltvgratis.com:8081/live/19hunks.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
@@ -182,15 +182,15 @@ http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m
 
 ==============================================================Movies============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies5
-https://oload.stream/stream/Lfj4iN7Yzos~1543074579~2804:7f2::~sNL92O4p?mime=true
+https://oload.stream/stream/6Va7yjF0oy4~1543331707~2804:7f2::~-fNbl4Av?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies4
-https://oload.stream/stream/3WqzxwWolzc~1543074654~2804:7f2::~HyWf99rM?mime=true
+https://oload.stream/stream/3WqzxwWolzc~1543331738~2804:7f2::~uupiho0F?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies3
-https://oload.stream/stream/YDZXZMKaBhY~1543074687~2804:7f2::~m5RxJtdi?mime=true#IE
+https://oload.stream/stream/YDZXZMKaBhY~1543331765~2804:7f2::~DlIwaymI?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies2
-https://oload.stream/stream/8NViI9ULzo0~1543074788~2804:7f2::~7ObQ9QnJ?mime=true
+https://oload.stream/stream/8NViI9ULzo0~1543331789~2804:7f2::~gwkhIBQU?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies1
-https://openload.co/stream/j-M7vW7O9cQ~1543074244~2804:7f2::~EpAyBXHd?mime=true
+https://openload.co/stream/qZiV-6Qk9dk~1543332281~2804:7f2::~cljv--IX?mime=true
 ==============================================================Series============================================================
 ============================================================South Park==========================================================
 #EXTINF:0 tvg-logo="http://i.imgur.com/slGftt7.jpg" group-title="South Park",01 South Park
