@@ -140,11 +140,11 @@ http://r16.ciclano.io:9039/site
 #EXTBG: #11609e
 http://a1rj.streams.com.br:7801/stream
 
-#EXTINF:4 tvg-shift=-3 group-title="RÁDIOS",ALFHA FM SP
+#EXTINF:4 tvg-shift=-3 tvg-logo="https://img.radios.com.br/radio/lg/radio8800_1542619415.jpg" group-title="RÁDIOS",ALFHA FM SP
 #EXTBG: #11609e
 https://cdn.live.nextdial.com.br/listen/alphafmsp?aid=5b43af8b81d3f472f720d358
 
-#EXTINF:4 tvg-shift=-3 group-title="RÁDIOS",JOVEM PAN FM
+#EXTINF:4 tvg-shift=-3 tvg-logo="https://img.radios.com.br/radio/lg/radio8829_1542619624.jpg" group-title="RÁDIOS",JOVEM PAN FM
 #EXTBG: #11609e
 http://playerservices.streamtheworld.com/api/livestream-redirect/JP_SP_FMAAC.aac
 
@@ -156,13 +156,12 @@ http://playerservices.streamtheworld.com/api/livestream-redirect/JP_SP_AMAAC.aac
 #EXTBG: #11609e
 http://stream.sgr.globo.com/hls/aRGloboRJ/aRGloboRJ.m3u8
 
-#EXTINF:4 tvg-shift=-3 group-title="RÁDIOS",RÁDIO GLOBO - SP
-#EXTBG: #11609e
+#EXTINF:4 tvg-shift=-3  tvg-logo="https://img.radios.com.br/radios/radio4240_1501761942.png" group-title="RÁDIOS",RÁDIO GLOBO - SP
 http://stream.sgr.globo.com/hls/aRGloboSP/aRGloboSP.m3u8
 
-#EXTINF:4 tvg-shift=-3 group-title="RÁDIOS",RETRO FM
+#EXTINF:4 tvg-shift=-3 tvg-logo="https://img.radios.com.br/radio/xl/radio51011_1534958217.png" group-title="RÁDIOS",RETRO FM
 #EXTBG: #11609e
-http://45.76.239.210:5036/stream
+http://riopetropolis.club:8006/stream
 
 #EXTINF:4 tvg-shift=-3 tvg-logo="http://3.bp.blogspot.com/-QAQXjDzNAhw/UI27t9L78lI/AAAAAAAAB3U/Kd99SlmhsEs/s1600/logoradio.png" group-title="RÁDIOS",TRIBUNA FM
 http://cast.midiaip.com.br:6060/1
