@@ -24,7 +24,7 @@ http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
 https://live-edge.pxstream.tv/hls2/pfh1/hls2/premiere1-640p/chunks.m3u8?md5=n2FcmQOm33b7eSYEXlrCHg&expires=1542082729
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-http://ul.cdn584.net:8080/hls/dof3tae.m3u8?s=kpMxwc45UJl2LswDkCB06g&e=1542061165
+https://fck-cl31.tnaflix.com/dev31/0/009/168/0009168687/Samantha_Sain_sexy_pool_threesome_with_eager_studs-480p.mp4?speed=115000&end=1543893567&secure=0861f26dbdcc6211f5b8c
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://oload.stream/stream/rlOim-9Jclc~1543943744~2804:7f2::~H2SlCBXF?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
@@ -40,7 +40,7 @@ https://openload.co/stream/7It1q-1qwKU~1543944044~2804:7f2::~yK42mo3S?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 4
 https://openload.co/stream/DdmzBoqvi40~1543944783~2804:7f2::~f4LRt55D?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 5
-https://openload.co/stream/kR6I2DhibIY~1543943291~2804:7f2::~vH0LRnQ0?mime=true
+https://openload.co/stream/8kglrySrM7Y~1543971844~2804:7f2::~-uvHqfdi?mime=true
 #EXTINF:50 tvg-shift=-3 group-title="Canais Beta",PREMIERE CLUB
 https://s001.thevid.net/v/809810f820f4cc379b06bed96ead1c19.mp4?e=1543878919&sa=j8KBUhid9XyGHL7COQTijw&st=Ut3bKmUUnIQC6Slnt1lfaw
 ===============================================================Esportes=============================================================
@@ -132,23 +132,22 @@ http://apk25.futeboltvgratis.com:8081/live/2/chunks.m3u8
 #EXTBG: #11609e
 http://capital-live-tv-01-hls.akamai.media.kataweb.it/i/CapitalTv_1@183098/index_5_av-p.m3u8
 ================================================================Radios==========================================================
-#EXTINF:4 tvg-shift=-3 group-title="RÁDIOS",SAUDADE FM
+#EXTINF:4 tvg-shift=-3 tvg-logo="https://img.radios.com.br/radio/lg/radio8_1497034187.jpg" group-title="RÁDIOS",SAUDADE FM
 #EXTBG: #11609e
 http://r16.ciclano.io:9039/site
 
-#EXTINF:4 tvg-shift=-3 group-title="RÁDIOS",ANTENA 1 RJ
+#EXTINF:4 tvg-shift=-3 tvg-logo="https://img.radios.com.br/radio/lg/radio15456_1470953779.jpg" group-title="RÁDIOS",ANTENA 1 RJ
 #EXTBG: #11609e
 http://a1rj.streams.com.br:7801/stream
 
-#EXTINF:4 tvg-shift=-3 tvg-logo="https://img.radios.com.br/radio/lg/radio8800_1542619415.jpg" group-title="RÁDIOS",ALFHA FM SP
+#EXTINF:4 tvg-shift=-3 tvg-logo="https://img.radios.com.br/radio/lg/radio9015_1531335008.png" group-title="RÁDIOS",ALFHA FM SP
 #EXTBG: #11609e
 https://cdn.live.nextdial.com.br/listen/alphafmsp?aid=5b43af8b81d3f472f720d358
 
 #EXTINF:4 tvg-shift=-3 tvg-logo="https://img.radios.com.br/radio/lg/radio8829_1542619624.jpg" group-title="RÁDIOS",JOVEM PAN FM
-#EXTBG: #11609e
 http://playerservices.streamtheworld.com/api/livestream-redirect/JP_SP_FMAAC.aac
 
-#EXTINF:4 tvg-shift=-3 group-title="RÁDIOS",JOVEM PAN AM
+#EXTINF:4 tvg-shift=-3 tvg-logo="https://img.radios.com.br/radio/lg/radio8800_1542619415.jpg" group-title="RÁDIOS",JOVEM PAN AM
 #EXTBG: #11609e
 http://playerservices.streamtheworld.com/api/livestream-redirect/JP_SP_AMAAC.aac
 
