@@ -162,7 +162,7 @@ http://stream.sgr.globo.com/hls/aRGloboSP/aRGloboSP.m3u8
 #EXTBG: #11609e
 http://riopetropolis.club:8006/stream
 
-#EXTINF:4 tvg-shift=-3 tvg-logo="http://3.bp.blogspot.com/-QAQXjDzNAhw/UI27t9L78lI/AAAAAAAAB3U/Kd99SlmhsEs/s1600/logoradio.png" group-title="RÁDIOS",TRIBUNA FM
+#EXTINF:4 tvg-shift=-3 tvg-logo="https://img.radios.com.br/radio/lg/radio35850_1524091620.jpg" group-title="RÁDIOS",TRIBUNA FM
 http://cast.midiaip.com.br:6060/1
 ==========================================================Câmeras===============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Câmeras Ao Vivo",BAR SLOPPY JOE'S EM KEY WEST(CAMERA EXTERNA)
