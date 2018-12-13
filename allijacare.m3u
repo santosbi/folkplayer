@@ -4,25 +4,22 @@
 #EXTINF:-1 tvg-shift=-3 tvg-logo="https://www.sbt.com.br/home-nova/img/logosbt.png" group-title="TV Aberta",SBT
 https://www.youtube.com/watch?v=LXpSY15tAAk
 
-#EXTINF:0 tvg-shift=-3 tvg-logo="https://s.glbimg.com/og/rg/static/portal/img/redeglobo-barra.png" group-title="TV Aberta;FUTEBOL AO VIVO",GLOBO SP
+#EXTINF:0 tvg-shift=-3 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/2/22/Logotipo_da_Rede_Globo.png/200px-Logotipo_da_Rede_Globo.png" group-title="TV Aberta;FUTEBOL AO VIVO",GLOBO SP
 http://apk26.futeboltv.com/live/17/chunks.m3u8
 
-#EXTINF:-1 tvg-shift=-3 tvg-logo="http://s15.postimg.org/nvhe10jzb/band3.png" group-title="TV Aberta",BAND
-#EXTBG: #11609e
+#EXTINF:-1 tvg-shift=-3 tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/5/53/Logotipo_da_Band.png/200px-Logotipo_da_Band.png" group-title="TV Aberta",BAND
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 
-#EXTINF:-1 tvg-shift=-3  group-title="TV Aberta",REDETV!
-#EXTBG: #11609e
-http://evpp.mm.uol.com.br:1935/redetv1/redetv1/playlist.m3u8
+#EXTINF:-1 tvg-shift=-3  tvg-logo="https://upload.wikimedia.org/wikipedia/pt/1/1d/LOGO_REDETV%21.png" group-title="TV Aberta",REDETV!
+https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1945277105.m3u8
 
-#EXTINF:-1 tvg-shift=-3 tvg-logo="https://portal4.files.wordpress.com/2016/06/rede-brasil-1.jpg?w=596&h=389" group-title="TV Aberta",REDE BRASIL HD
-#EXTBG: #11609e
-http://173.236.10.10:1935/rbtv/rbtv/playlist.m3u8
+#EXTINF:-1 tvg-shift=-3 tvg-logo="https://rbtv.com.br/favicon/apple-icon-180x180.png" group-title="TV Aberta",REDE BRASIL HD
+https://59f1cbe63db89.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w835737721.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
 https://live-edge.pxstream.tv/hls2/pfh1/hls2/premiere1-640p/chunks.m3u8?md5=n2FcmQOm33b7eSYEXlrCHg&expires=1542082729
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-https://openload.co/stream/ddTgiV2XuRQ~1544722613~2804:7f2::~VkG5eRIA?mime=true
+https://openload.co/stream/ddTgiV2XuRQ~1544805056~2804:7f2::~4tcV5IVB?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://oload.stream/stream/ZoOK7FkGGAk~1544718363~2804:7f2::~NJwrWjVK?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
@@ -185,7 +182,7 @@ https://oload.stream/stream/Nd2uYJDIqIg~1544718233~2804:7f2::~VxcXNmo-?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies2
 https://oload.stream/stream/wdzrn1c_hLc~1544718188~2804:7f2::~4M5bQ9pf?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies1
-https://oload.stream/stream/vCSCOVvYcSM~1544718306~2804:7f2::~Lkn2N8Cj?mime=true
+https://openload.co/stream/oLqgSwkEXKM~1544805020~2804:7f2::~WbYd3kTm?mime=true
 ==============================================================Series============================================================
 ============================================================South Park==========================================================
 #EXTINF:0 tvg-logo="http://i.imgur.com/slGftt7.jpg" group-title="South Park",01 South Park
