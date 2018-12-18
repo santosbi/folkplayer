@@ -4,7 +4,7 @@
 #EXTINF:-1 tvg-shift=-3 tvg-logo="https://www.sbt.com.br/home-nova/img/logosbt.png" group-title="TV Aberta",SBT
 https://www.youtube.com/watch?v=LXpSY15tAAk
 
-#EXTINF:0 tvg-shift=-3 tvg-logo="https://observatoriodatelevisao.bol.uol.com.br/wp-content/uploads/2017/11/logo-da-globo-696x326.jpg" group-title="TV Aberta;FUTEBOL AO VIVO",GLOBO SP
+#EXTINF:0 tvg-shift=-3 tvg-logo="https://vignette.wikia.nocookie.net/logos/images/f/fe/185px-Globo_logo_2014.png/revision/latest?cb=20150114180048&path-prefix=pt" group-title="TV Aberta;FUTEBOL AO VIVO",GLOBO SP
 http://apk26.futeboltv.com/live/17/chunks.m3u8
 
 #EXTINF:-1 tvg-shift=-3 tvg-logo="https://www.band.uol.com.br/images/logo/logo-band.png" group-title="TV Aberta",BAND
