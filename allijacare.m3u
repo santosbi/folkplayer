@@ -4,13 +4,13 @@
 #EXTINF:-1 tvg-shift=-3 tvg-logo="https://www.sbt.com.br/home-nova/img/logosbt.png" group-title="TV Aberta",SBT
 https://www.youtube.com/watch?v=LXpSY15tAAk
 
-#EXTINF:0 tvg-shift=-3 tvg-logo="https://vignette.wikia.nocookie.net/logos/images/f/fe/185px-Globo_logo_2014.png/revision/latest?cb=20150114180048&path-prefix=pt" group-title="TV Aberta;FUTEBOL AO VIVO",GLOBO SP
+#EXTINF:0 tvg-shift=-3 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/3/33/Rede_Globo_logo_2014_2.png/revision/latest/scale-to-width-down/200?cb=20140404224338" group-title="TV Aberta;FUTEBOL AO VIVO",GLOBO SP
 http://apk26.futeboltv.com/live/17/chunks.m3u8
 
 #EXTINF:-1 tvg-shift=-3 tvg-logo="https://www.band.uol.com.br/images/logo/logo-band.png" group-title="TV Aberta",BAND
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
 
-#EXTINF:-1 tvg-shift=-3  tvg-logo="https://cdn.mitvstatic.com/channels/br_rede-tv_m.png" group-title="TV Aberta",REDETV!
+#EXTINF:-1 tvg-shift=-3  tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/9/92/RedeTV%21_2007.png/revision/latest/scale-to-width-down/292?cb=20170416183830" group-title="TV Aberta",REDETV!
 https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1945277105.m3u8
 
 #EXTINF:-1 tvg-shift=-3 tvg-logo="https://rbtv.com.br/favicon/apple-icon-180x180.png" group-title="TV Aberta",REDE BRASIL HD
@@ -43,11 +43,11 @@ https://oload.stream/stream/P7koYHcarSI~1545151079~2804:7f2::~w4cNztJf?mime=true
 #EXTBG: #11609e
 http://apk26.futeboltvgratis.com/live/4/chunks.m3u8
 
-#EXTINF:4 tvg-shift=-3 group-title="Futebol",FOX SPORTS2
+#EXTINF:4 tvg-shift=-3 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/da/Fox_Sports_2_Logo.svg/revision/latest/scale-to-width-down/200?cb=20160413213908" group-title="Futebol",FOX SPORTS2
 #EXTBG: #11609e
 http://apk26.futeboltvgratis.com/live/5/chunks.m3u8
 
-#EXTINF:4 tvg-shift=-3 group-title="Futebol",SPORTV
+#EXTINF:4 tvg-shift=-3 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fb/SporTV_2017.png/revision/latest/scale-to-width-down/200?cb=20170815145145" group-title="Futebol",SPORTV
 #EXTBG: #11609e
 http://apk26.futeboltvgratis.com/live/20/chunks.m3u8
 
