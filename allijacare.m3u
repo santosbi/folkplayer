@@ -137,7 +137,7 @@ http://a1rj.streams.com.br:7801/stream
 
 #EXTINF:4 tvg-shift=-3 tvg-logo="https://img.radios.com.br/radio/lg/radio9015_1531335008.png" group-title="RÁDIOS",ALFHA FM SP
 #EXTBG: #11609e
-https://r5.nextdial.com.br/alphafmsp?f=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjE4Ni4yMTIuMjU0LjE5LjY4IiwiaWQiOiI1YzE3ZGNmM2I1NGZlZDBhZGY1ZTljYjMiLCJhaWQiOiI1YjQzYWY4YjgxZDNmNDcyZjcyMGQzNTgiLCJ1aWQiOiI1YzE3ZGNmM2I1NGZlZDBhZGY1ZTljYjIiLCJsYXQiOiItMjAuMjY2NyIsImxuZyI6Ii00MC40MTY3IiwibmJmIjoxNTQ1MDY3NzYzLCJleHAiOjE1NDUxMTA5NjMsImlhdCI6MTU0NTA2Nzc2MywiaXNzIjoibmV4dGRpYWwuY29tLmJyIiwiYXVkIjoibGl2ZSJ9.V9cNll7rm8lZ3lNYY38ASQcVGpZFaE273LMttlvi-HU
+https://cdn.live.nextdial.com.br/listen/alphafmsp?aid=5b43af8b81d3f472f720d358
 
 #EXTINF:4 tvg-shift=-3 tvg-logo="https://img.radios.com.br/radio/lg/radio8829_1542619624.jpg" group-title="RÁDIOS",JOVEM PAN FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/JP_SP_FMAAC.aac
