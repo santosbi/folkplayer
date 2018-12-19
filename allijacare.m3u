@@ -17,7 +17,7 @@ https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1945277105.m3u8
 https://59f1cbe63db89.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w835737721.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-https://live-edge.pxstream.tv/hls2/pfh1/hls2/premiere1-640p/chunks.m3u8?md5=n2FcmQOm33b7eSYEXlrCHg&expires=1542082729
+http://ul.cdn584.net:8080/hls/p724u.m3u8?s=hjCRlRbmseQL5IhOBJH9og&e=1545262852
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
 https://openload.co/stream/rSNYVcDH_0Q~1545322595~2804:7f2::~W22q8jFv?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
