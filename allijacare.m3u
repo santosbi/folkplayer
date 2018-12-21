@@ -1,5 +1,6 @@
 #EXTM3U
 #PLAYLISTV: pltv-name="ALLIGATOR - FILMES,TV E SERIES" pltv-description="LISTA DE TV, FILMES, SERIES
+#ICON:http://icons.iconarchive.com/icons/giannis-zographos/south-american-football-club/256/Santos-icon.png
 
 #EXTINF:-1 tvg-shift=-3 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e3/SBT.svg/revision/latest/scale-to-width-down/200?cb=20171125155551" group-title="TV Aberta",SBT
 https://www.youtube.com/watch?v=LXpSY15tAAk
@@ -21,23 +22,23 @@ https://s207.vshare.io:440/s,128-1000-6-1-1317606/186484/341700/184963/ff-81394c
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
 https://openload.co/stream/m-Gbm1CGQIM~1545495545~2804:7f2::~jQ6UArle?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://oload.stream/stream/wELlJU4LpMk~1545409765~2804:7f2::~7Oqj9O_9?mime=true
+https://oload.stream/stream/wELlJU4LpMk~1545498928~2804:7f2::~2MveqYu8?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://oload.stream/stream/aKrsUE5oT9I~1545409793~2804:7f2::~Jh8NPdbY?mime=true
+https://oload.stream/stream/DRUGdvmzaLI~1545499136~2804:7f2::~Hk4Zexem?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://oload.stream/stream/bPsmSUtGw3A~1545409813~2804:7f2::~SdwoFATK?mime=true
+https://oload.stream/stream/SdCGroG4PHg~1545499268~2804:7f2::~su0zAucP?mime=true
 #EXTINF:11 tvg-shift=-3  group-title="Canais Beta",PREMIERE 2
-https://oload.stream/stream/koPSAL4aTrc~1545409840~2804:7f2::~_gjpTbIH?mime=true#IE
+https://oload.stream/stream/xE_aVhY_rxg~1545499346~2804:7f2::~t3TDbhnq?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
-https://oload.stream/stream/HFAP5WsbdwQ~1545409882~2804:7f2::~iYL3aPKZ?mime=true
+https://oload.stream/stream/Z5X3hdJQBJo~1545499624~2804:7f2::~thkpaCSQ?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
-https://oload.stream/stream/0wDGM1uHfpE~1545409904~2804:7f2::~8SSymEJu?mime=true
+https://oload.stream/stream/ipUc7BZUKXw~1545499650~2804:7f2::~Ke6Cgo6A?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 4
-https://oload.stream/stream/jzEbSUB9U0Y~1545409950~2804:7f2::~7Pn7jmF7?mime=true
+https://oload.stream/stream/6jO01y1qG8A~1545499737~2804:7f2::~1s4BqvQX?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 5
-https://oload.stream/stream/b-IjHhiqSbw~1545409967~2804:7f2::~tjWPF0bW?mime=true
+https://oload.stream/stream/CRPmamQ21PU~1545499773~2804:7f2::~SO3H025c?mime=true
 #EXTINF:50 tvg-shift=-3 group-title="Canais Beta",PREMIERE CLUB
-https://oload.stream/stream/F3pmv7D4epo~1545410024~2804:7f2::~B6DVNWyw?mime=true
+https://oload.stream/stream/lKtiY1qKbbs~1545499829~2804:7f2::~JgGzrDzp?mime=true
 ===============================================================Esportes=============================================================
 #EXTINF:4 tvg-shift=-3 tvg-logo="http://www.assistafox.com.br/site/img/assets/foxsports_01.png?v=1543350960" group-title="Futebol;FUTEBOL AO VIVO",FOX SPORTS
 #EXTBG: #11609e
@@ -174,13 +175,13 @@ http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m
 
 ==============================================================Movies============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies5
-https://oload.stream/stream/iw8rGC5zHPM~1545409488~2804:7f2::~eVuh4vEv?mime=true
+https://oload.stream/stream/jMHCZ_ZSeMU~1545498962~2804:7f2::~sm0emgHA?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies4
-https://oload.stream/stream/VJqOBC2uMmQ~1545409563~2804:7f2::~-Jh5NLxu?mime=true
+https://oload.stream/stream/83r8c0YzsjU~1545498992~2804:7f2::~snYbW2iD?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies3
-https://oload.stream/stream/82oWrdleWPo~1545409600~2804:7f2::~WlTpcQDK?mime=true
+https://oload.stream/stream/dXHrdR0JDKs~1545499021~2804:7f2::~OrQE2MNm?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies2
-https://oload.stream/stream/h_fKPhTORC8~1545409631~2804:7f2::~e2Khu7w1?mime=true
+https://oload.stream/stream/82oWrdleWPo~1545499069~2804:7f2::~wgkxEKL-?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies1
 https://openload.co/stream/BmdTNjePszM~1545495482~2804:7f2::~sBg6LXUt?mime=true
 ==============================================================Series============================================================
