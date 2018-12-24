@@ -1,7 +1,7 @@
 #EXTM3U
 #PLAYLISTV: pltv-name="ALLIGATOR - FILMES,TV E SERIES" pltv-description="LISTA DE TV, FILMES, SERIES
 #ICON:http://icons.iconarchive.com/icons/icons8/windows-8/256/Animals-Alligator-icon.png
-#BACKGROUND-IMAGE:http://downloads.open4group.com/wallpapers/brasil-bandeira-7c4ab.jpg
+#BACKGROUND-IMAGE:https://wallpapercave.com/wp/NI7WWRc.jpg
 
 #EXTINF:-1 tvg-shift=-3 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e3/SBT.svg/revision/latest/scale-to-width-down/200?cb=20171125155551" group-title="TV Aberta",SBT
 https://www.youtube.com/watch?v=LXpSY15tAAk
