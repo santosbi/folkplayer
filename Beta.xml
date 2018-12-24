@@ -19,7 +19,11 @@
 <category>
 <category_id>5</category_id>
 <category_title>FUTEBOL AO VIVO</category_title>
-</category>  
+</category>
+<category>
+<category_id>6</category_id>
+<category_title>Youtube</category_title>
+</category>
   
 <channel>
 <title>Fq2Tpu0E</title>
@@ -223,7 +227,12 @@
 <channel>
 <category_id>4</category_id>
 <title>Smart</title>
-<playlist_url><![CDATA[http://smartportaltv.ru/xxx/xcom1111875865895.php?name=https://www.xvideos.com/?k=nina+mercedez]]></playlist_url>
+<playlist_url><![CDATA[http://smartportaltv.ru/xxx/xcom1111875865895.php?name=https://www.xvideos.com/new/1/]]></playlist_url>
+</channel>
+<channel>
+<category_id>6</category_id>  
+<title>Youtube</title>
+<stream_url><![CDATA[https://www.youtube.com/user/maclover696]]></stream_url>
 </channel>  
 </items>
 
