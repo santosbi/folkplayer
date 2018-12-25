@@ -232,7 +232,8 @@
 <channel>
 <category_id>6</category_id>  
 <title>Youtube</title>
-<stream_url><![CDATA[https://www.youtube.com/user/maclover696]]></stream_url>
+<logo_30x30>http://icons.iconarchive.com/icons/graphics-vibe/classic-3d-social/128/youtube-icon.png</logo_30x30> 
+<playlist_url><![CDATA[https://www.youtube.com/user/maclover696]]></playlist_url>
 </channel>  
 </items>
 
