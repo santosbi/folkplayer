@@ -138,7 +138,7 @@ http://a1rj.streams.com.br:7801/stream
 
 #EXTINF:4 tvg-shift=-3 tvg-logo="https://img.radios.com.br/radio/lg/radio9015_1531335008.png" group-title="RÁDIOS",ALFHA FM SP
 #EXTBG: #11609e
-https://cdn.live.nextdial.com.br/listen/alphafmsp?aid=5b43af8b81d3f472f720d358
+https://r1.nextdial.com.br/alphafmsp?f=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjE3OS45NS4yMDguMjcuNjgiLCJpZCI6IjVjMjNiNTNkMzdkZmJiMjIwMGNkYWJhOSIsImFpZCI6IjViNDNhZjhiODFkM2Y0NzJmNzIwZDM1OCIsInVpZCI6IjVjMjNiNTNkMzdkZmJiMjIwMGNkYWJhOCIsImxhdCI6Ii0yMC4zMzMzIiwibG5nIjoiLTQwLjI4MzMiLCJjb3UiOiJCUiIsInJlZyI6IiIsImNpdCI6IiIsIm5iZiI6MTU0NTg0NDAyOSwiZXhwIjoxNTQ1ODg3MjI5LCJpYXQiOjE1NDU4NDQwMjksImlzcyI6Ind3dy5uZXh0ZGlhbC5jb20uYnIiLCJhdWQiOiJsaXZlIn0.fn4qVf9z3o3_PJTwKRCfG36O13wBJAoktHMZSnW2hx8
 
 #EXTINF:4 tvg-shift=-3 tvg-logo="https://img.radios.com.br/radio/lg/radio8829_1542619624.jpg" group-title="RÁDIOS",JOVEM PAN FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/JP_SP_FMAAC.aac
@@ -165,9 +165,9 @@ http://cast.midiaip.com.br:6060/1
 #EXTBG: #11609e
 http://wowza2.floridakeysmedia.com:1935/liveduvalstreet/liveduvalstreet.stream/chunklist_w634624487.m3u8
 
-#EXTINF:4 tvg-shift=-3 group-title="Câmeras Ao Vivo",GERMANY
+#EXTINF:4 tvg-shift=-3 group-title="Câmeras Ao Vivo",SÃO MATEUS(GURIRI)
 #EXTBG: #11609e
-http://stream.livespotting.tv/windit-edge/vv101_720p.stream/playlist.m3u8
+https://s-30.camerite.com/3dias/54efd810-fe30-11e8-99ce-25a13b715cbe.stream/chunklist.m3u8
 
 #EXTINF:4 tvg-shift=-3 tvg-logo="https://s24.postimg.org/7k8y54p9x/Ao_Vivologo.png" group-title="Câmeras Ao Vivo",PICO DO GAVIÃO - ANDRADAS MG
 #EXTBG: #11609e
