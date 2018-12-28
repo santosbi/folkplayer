@@ -16,11 +16,14 @@ https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1945277105.m3u8
 
 #EXTINF:-1 tvg-shift=-3 tvg-logo="https://rbtv.com.br/favicon/apple-icon-180x180.png" group-title="TV Aberta",REDE BRASIL HD
 https://59f1cbe63db89.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w835737721.m3u8
+
+#EXTINF:-1 tvg-shift=-3 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/78/Gazeta_logo.png/revision/latest?cb=20130608115558" group-title="TV Aberta",TV GAZETA
+https://secure-playlist.livestream.com/streams/5381476_2395418_lsi4xzu4zelcbtibc40_1/media/5381476_2395418_lsi4xzu4zelcbtibc40_1@2320000pb.m3u8?dw=14400&token=1546188521_650024a64cade98c2189de23c72be8173022e141&ts=1546012800
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
 http://www.xvideos.com/video41471585/blonde_teen_fucked_in_taxi
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-https://oload.stream/stream/F5mw5VHqxIM~1546016141~2804:7f2::~4nOS3gk5?mime=true
+https://oload.stream/stream/C_EhddvhLd8~1546101929~2804:7f2::~52iiCVMl?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
 https://oload.stream/stream/fL_tcnbYMCE~1546016420~2804:7f2::~Cnp6u7yL?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
@@ -175,15 +178,15 @@ http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m
 
 ==============================================================Movies============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies5
-https://oload.stream/stream/Y0ducm_Mik8~1546016275~2804:7f2::~whz-jIxG?mime=true
+https://oload.stream/stream/5oFdV2v2RC8~1546101985~2804:7f2::~CxzSzygA?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies4
-https://oload.stream/stream/_bVXlQJqxQg~1546016299~2804:7f2::~q_c_pG9a?mime=true
+https://oload.stream/stream/vfsAMLl5nYk~1546102013~2804:7f2::~buDkdBI8?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies3
-https://oload.stream/stream/UhNhFYMs4GI~1546016349~2804:7f2::~oWeBBU2B?mime=true
+https://oload.stream/stream/o6Iq3Un86Io~1546102039~2804:7f2::~0KDwFmvA?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies2
-https://oload.stream/stream/ky8DoofJsZ0~1546016379~2804:7f2::~ZZpXAx4U?mime=true
+https://oload.stream/stream/UhNhFYMs4GI~1546102070~2804:7f2::~3lAwGep1?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies1
-https://oload.stream/stream/oCiaerelAKo~1546016056~2804:7f2::~B257Am-e?mime=true
+https://oload.stream/stream/wTXJoHfvXRg~1546101875~2804:7f2::~yWylpgtv?mime=true
 ==============================================================Series============================================================
 ============================================================South Park==========================================================
 #EXTINF:0 tvg-logo="http://i.imgur.com/slGftt7.jpg" group-title="South Park",01 South Park
