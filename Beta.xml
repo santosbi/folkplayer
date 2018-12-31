@@ -92,9 +92,10 @@
 </channel>   
 <channel>
 <category_id>2,5</category_id>  
-<title>GLOBO SP</title>
-<logo_30x30>https://vignette.wikia.nocookie.net/logos/images/f/fe/185px-Globo_logo_2014.png/revision/latest?cb=20150114180048&path-prefix=pt</logo_30x30>
-<stream_url><![CDATA[http://tv.factoryiptv.com:80/live/1994/1994/37361.m3u8]]></stream_url>
+<title>Tv Gazeta</title>
+<stream_url>token</stream_url>
+<parser>https://secure-playlist.livestream.com/streams/5381476_2395418_lsikkbaa7wmctqvvhwd_1/media/5381476_2395418_lsikkbaa7wmctqvvhwd_1@2320000p.m3u8?dw=14400&token=1546437088_bf4e75332ab40662df6e1a7bff92634893523d04&ts=1546261200</parser>
+<description><center></br><img src="https://vignette.wikia.nocookie.net/logopedia/images/3/3d/TV_Gazeta.svg/revision/latest/scale-to-width-down/250?cb=20141217115832" height="250" width="250"/></br></br></center></description>
 </channel>
 <channel>
 <category_id>2</category_id>  
