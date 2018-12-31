@@ -93,8 +93,7 @@
 <channel>
 <category_id>2,5</category_id>  
 <title>Tv Gazeta</title>
-<stream_url>token</stream_url>
-<parser>https://secure-playlist.livestream.com/streams/5381476_2395418_lsikkbaa7wmctqvvhwd_1/media/5381476_2395418_lsikkbaa7wmctqvvhwd_1@2320000p.m3u8?dw=14400&token=1546437088_bf4e75332ab40662df6e1a7bff92634893523d04&ts=1546261200</parser>
+<stream_url>https://secure-playlist.livestream.com/streams/5381476_2395418_lsikkbaa7wmctqvvhwd_1/media/5381476_2395418_lsikkbaa7wmctqvvhwd_1@2320000p.m3u8?dw=14400&token=1546437088_bf4e75332ab40662df6e1a7bff92634893523d04&ts=1546261200</stream_url>
 <description><center></br><img src="https://vignette.wikia.nocookie.net/logopedia/images/3/3d/TV_Gazeta.svg/revision/latest/scale-to-width-down/250?cb=20141217115832" height="250" width="250"/></br></br></center></description>
 </channel>
 <channel>
@@ -180,7 +179,8 @@
 <category_id>5</category_id>
 <title>FUTEBOL AO VIVO</title>
 <logo_30x30>https://seeklogo.com/images/B/bola-copa-brasil-2014-logo-2E974327EF-seeklogo.com.png<logo_30x30>  
-<stream_url><![CDATA[http://tv.factoryiptv.com:80/live/1994/1994/36949.m3u8]]></stream_url>
+<stream_url><![CDATA[http://apk26.futeboltv.com/live/4/chunks.m3u8]]></stream_url>
+<description><center></br><img src="http://www.assistafox.com.br/site/img/assets/foxsports_01.png?v=1543350960" height="250" width="250"/><p>OU<p><img src="https://logodownload.org/wp-content/uploads/2018/04/premiere-fc-logo-4.png" height="250" width="250"/></center></description>
 </channel>
 </items>
 <channel>
