@@ -25,23 +25,23 @@ https://www.youtube.com/watch?v=r4C5liZB9Kg
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
 https://oload.stream/stream/9KV7EeGpTtM~1547391256~2804:7f2::~jMoWDUjp?mime=false
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://oload.stream/stream/Aa8PHakHNLs~1547390219~2804:7f2::~YDf3zEMs?mime=true
+https://oload.stream/stream/Dy1a48IsDLo~1547572422~2804:7f2::~DxsWPGTy?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://oload.stream/stream/9pNYXZpvCW4~1547390245~2804:7f2::~EiPpk6Ys?mime=true
+https://oload.stream/stream/vWuwk12wAUY~1547572469~2804:7f2::~DszHre8_?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://oload.stream/stream/6hiD6ZhM7N0~1547390280~2804:7f2::~6CR8p3wy?mime=true
+https://oload.stream/stream/lUHzNsAYyGw~1547572498~2804:7f2::~GTcUghAs?mime=true
 #EXTINF:11 tvg-shift=-3  group-title="Canais Beta",PREMIERE 2
-https://oload.stream/stream/NrRR1S-WAHE~1547390302~2804:7f2::~bNBuWWKf?mime=true
+https://oload.stream/stream/UmCKhc_JJWg~1547572555~2804:7f2::~rmoKdhTT?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
-https://oload.stream/stream/j0k0ApUkcPQ~1547390372~2804:7f2::~P5hh-Vpq?mime=true
+https://oload.stream/stream/m8t5DZUJHEQ~1547572714~2804:7f2::~k06ZrNk3?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
-https://oload.stream/stream/GAY5K3CejcU~1547390435~2804:7f2::~OMqiZLCZ?mime=true
+https://oload.stream/stream/HDyOKZum9Ic~1547572753~2804:7f2::~SZ67AJcB?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 4
-https://oload.stream/stream/N9AgN_wsYpI~1547390648~2804:7f2::~fYqhdv6J?mime=true
+https://oload.stream/stream/9ZvjeMP0HH8~1547572823~2804:7f2::~3aEeUrUe?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 5
-https://oload.stream/stream/tWsNVXiDGx8~1547390553~2804:7f2::~Qe-THdIf?mime=true
+https://oload.stream/stream/PXYbIPrulWg~1547572895~2804:7f2::~4whSJ0mz?mime=true
 #EXTINF:50 tvg-shift=-3 group-title="Canais Beta",PREMIERE CLUB
-https://oload.stream/stream/Imei3yIVCFc~1547390600~2804:7f2::~c-KmW4Zv?mime=true
+https://oload.stream/stream/eZgGwchGWNQ~1547573714~2804:7f2::~mxeojR1z?mime=true
 ===============================================================Esportes=============================================================
 #EXTINF:4 tvg-shift=-3 tvg-logo="http://www.assistafox.com.br/site/img/assets/foxsports_01.png?v=1543350960" group-title="Futebol;FUTEBOL AO VIVO",FOX SPORTS
 #EXTBG: #11609e
@@ -141,7 +141,7 @@ http://a1rj.streams.com.br:7801/stream
 
 #EXTINF:4 tvg-shift=-3 tvg-logo="https://img.radios.com.br/radio/lg/radio9015_1531335008.png" group-title="RÁDIOS",ALFHA FM SP
 #EXTBG: #11609e
-https://r1.nextdial.com.br/alphafmsp?f=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1bmlxdWVfbmFtZSI6IjE3OS45NS4yMDguMjcuNjgiLCJpZCI6IjVjMjNiNTNkMzdkZmJiMjIwMGNkYWJhOSIsImFpZCI6IjViNDNhZjhiODFkM2Y0NzJmNzIwZDM1OCIsInVpZCI6IjVjMjNiNTNkMzdkZmJiMjIwMGNkYWJhOCIsImxhdCI6Ii0yMC4zMzMzIiwibG5nIjoiLTQwLjI4MzMiLCJjb3UiOiJCUiIsInJlZyI6IiIsImNpdCI6IiIsIm5iZiI6MTU0NTg0NDAyOSwiZXhwIjoxNTQ1ODg3MjI5LCJpYXQiOjE1NDU4NDQwMjksImlzcyI6Ind3dy5uZXh0ZGlhbC5jb20uYnIiLCJhdWQiOiJsaXZlIn0.fn4qVf9z3o3_PJTwKRCfG36O13wBJAoktHMZSnW2hx8
+https://cdn.live.nextdial.com.br/listen/alphafmsp?aid=5b43af8b81d3f472f720d358
 
 #EXTINF:4 tvg-shift=-3 tvg-logo="https://img.radios.com.br/radio/lg/radio8829_1542619624.jpg" group-title="RÁDIOS",JOVEM PAN FM
 http://playerservices.streamtheworld.com/api/livestream-redirect/JP_SP_FMAAC.aac
@@ -178,13 +178,13 @@ http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m
 
 ==============================================================Movies============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies5
-https://oload.stream/stream/vm6tbKx_5P8~1547390050~2804:7f2::~Os-5tLkH
+https://oload.stream/stream/7LYNP3L2HAI~1547572191~2804:7f2::~FCxMrZqR
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies4
-https://oload.stream/stream/n9yTQ3sFPHw~1547390109~2804:7f2::~9vOSK3vn
+https://oload.stream/stream/2dwSCRwgsE4~1547572313~2804:7f2::~_R8Zn6wx
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies3
-https://oload.stream/stream/OKET7XJBdk8~1547390139~2804:7f2::~dGByDbwj
+https://oload.stream/stream/n9yTQ3sFPHw~1547572365~2804:7f2::~Uf48P_2e
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies2
-https://oload.stream/stream/catT0uDeH1o~1547390191~2804:7f2::~akxAXjtn
+https://oload.stream/stream/OKET7XJBdk8~1547572395~2804:7f2::~tLI2H_b4
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies1
 https://oload.stream/stream/z41z_uCWRz0~1547391204~2804:7f2::~mB3T9wc4
 ==============================================================Series============================================================
