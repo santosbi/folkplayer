@@ -6,7 +6,7 @@
 https://www.youtube.com/watch?v=CyRgFwOvs5A&list=PLOeEPoAiHp1JCCM-Cqeq2K3mUTktTuQAt
 
 #EXTINF:0 tvg-shift=-3 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/52/Nimbus-image-1441586083447.png/revision/latest/scale-to-width-down/200?cb=20150907003522" group-title="TV Aberta;FUTEBOL AO VIVO",GLOBO SP
-http://apk26.futeboltvgratis.com/live/17/chunks.m3u8
+
 
 #EXTINF:-1 tvg-shift=-3 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Band_logo_2018.png/revision/latest/scale-to-width-down/200?cb=20180719014030" group-title="TV Aberta",BAND
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
@@ -178,11 +178,11 @@ http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m
 
 ==============================================================Movies============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies5
-https://oload.stream/stream/kuSu9RQzoQk~1549126648~2804:7f2::~fPZgiTb7?mime=true
+https://oload.stream/stream/N7MoPlvvWgM~1549202672~2804:7f2::~QRq1lFj3?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies4
-https://oload.stream/stream/OpVSAIczQp0~1549126670~2804:7f2::~x9MaHJYS?mime=true
+https://oload.stream/stream/cE20tVJnCxo~1549202756~2804:7f2::~ByNU9Ol6?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies3
-https://oload.stream/stream/qvLQpCYBPQ0~1549126732~2804:7f2::~Piae7Ozz?mime=true
+https://oload.stream/stream/qvLQpCYBPQ0~1549202801~2804:7f2::~G_fGOd7Z?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies2
 https://oload.stream/stream/oG1qFY68mPc~1549126799~2804:7f2::~rbs_Avi4?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies1
