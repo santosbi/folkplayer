@@ -6,7 +6,7 @@
 https://www.youtube.com/watch?v=CyRgFwOvs5A&list=PLOeEPoAiHp1JCCM-Cqeq2K3mUTktTuQAt
 
 #EXTINF:0 tvg-shift=-3 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/52/Nimbus-image-1441586083447.png/revision/latest/scale-to-width-down/200?cb=20150907003522" group-title="TV Aberta;FUTEBOL AO VIVO",GLOBO SP
-https://hls.live.fc2.com/hls/60200237/21/playlist?session_token=233653b7460bd3bec9f89df44ca9c3a00c4470c219d4cff543aaca6eede5a4e7&playlist_token=e77a1b6167213d097e2d2fe9ccb75f372e9f37aabbe2f53e355ab85b5cdc33f1
+http://206.189.179.37/hls/02.m3u8
 
 #EXTINF:-1 tvg-shift=-3 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Band_logo_2018.png/revision/latest/scale-to-width-down/200?cb=20180719014030" group-title="TV Aberta",BAND
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
