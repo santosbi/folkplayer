@@ -6,7 +6,7 @@
 https://www.youtube.com/watch?v=CyRgFwOvs5A&list=PLOeEPoAiHp1JCCM-Cqeq2K3mUTktTuQAt
 
 #EXTINF:0 tvg-shift=-3 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/52/Nimbus-image-1441586083447.png/revision/latest/scale-to-width-down/200?cb=20150907003522" group-title="TV Aberta;FUTEBOL AO VIVO",GLOBO SP
-http://style.kastream.biz:8081/edge/ver69ca258bbf32/chunks.m3u8
+http://style.kastream.biz:8081/edge/ver69ca258bbf32/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMy8yMDE5IDU6MzU6MzggUE0maGFzaF92YWx1ZT1oK0hJNXUrYjg1bmpHV08yeXlUODBRPT0mdmFsaWRtaW51dGVzPTEyMA==
 
 #EXTINF:-1 tvg-shift=-3 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Band_logo_2018.png/revision/latest/scale-to-width-down/200?cb=20180719014030" group-title="TV Aberta",BAND
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
@@ -65,7 +65,7 @@ http://apk26.futeboltvgratis.com/live/19/chunks.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
-http://sspitv.liss.fun:8880/live/lulaDS0ntoJugM/UBh6FFqUSq/2224.m3u8
+http://50.7.186.123:8081/live/master20/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDE5IDI6MDI6MDkgUE0maGFzaF92YWx1ZT1wRlBWTnk1TkdGRzVhWE5YcFNiODJ3PT0mdmFsaWRtaW51dGVzPTE2MCZzdHJtX2xlbj0xMw==
 
 #EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
