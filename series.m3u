@@ -1,29 +1,65 @@
 #EXTM3U
-#PLAYLISTV: pltv-name="ALLIGATOR - FILMES,TV E SERIES" pltv-description="LISTA DE TV, FILMES, SERIES"
 
-#EXTINF:-1 tvg-shift=-3 group-title="Maniac", Maniac 7
-https://r2---sn-gpv7enez.googlevideo.com/videoplayback?id=08ef1037736be086&itag=18&source=blogger&pl=39&ei=1dnyW9GXB8HsqwXwm7SgAw&susc=bl&mime=video/mp4&dur=1602.153&lmt=1537550673364344&ip=2804:7f2:78b:73b6:38d9:45de:a45:903f&ipbits=0&expire=1542670933&sparams=dur,ei,expire,id,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,source,susc&signature=2D3D84CB4414332D62175E13C576F430199C9C08.52A8AA3ED34A822D28CCDDFF01E6CF768CBE503D&key=cms1&cpn=4hf1-lL5O2-3ugHj&c=WEB_EMBEDDED_PLAYER&cver=20181115&redirect_counter=1&cm2rm=sn-b8u-8pmz7s&fexp=23763603&req_id=7d33d7dd5d6636e2&cms_redirect=yes&mm=29&mn=sn-gpv7enez&ms=rdu&mt=1542641923&mv=m
+#EXTINF:0 type="playlist", playlist
+https://pastebin.com/raw/HXpsBwJA
 
-#EXTINF:-1 tvg-shift=-3 group-title="Maniac", Maniac 8
-https://r2---sn-gpv7eney.googlevideo.com/videoplayback?id=78454b88fa31f13e&itag=18&source=blogger&pl=39&ei=9NnyW_HpBImarAWvn4CQBg&susc=bl&mime=video/mp4&dur=1762.673&lmt=1537550695027267&ip=2804:7f2:78b:73b6:38d9:45de:a45:903f&ipbits=0&expire=1542670964&sparams=dur,ei,expire,id,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,source,susc&signature=0B6AAB78471E794B8E978F527FE873FC7F49EFE4.3CA78BDB527DC7A18572F811867612B569ED1FCA&key=cms1&cpn=5CL5uis9DNOnrP8W&c=WEB_EMBEDDED_PLAYER&cver=20181115&redirect_counter=1&cm2rm=sn-b8u-8pml7l&fexp=23763603&req_id=42dccedebd6436e2&cms_redirect=yes&mm=29&mn=sn-gpv7eney&ms=rdu&mt=1542642082&mv=m
+#EXTINF:0 type="playlist", playlist
+https://pastebin.com/raw/N9p6kNNp
 
-#EXTINF:-1 tvg-shift=-3 group-title="Maniac", Maniac 9
-https://r6---sn-gpv7eney.googlevideo.com/videoplayback?id=1b0032ef284c0093&itag=18&source=blogger&pl=39&ei=BtryW8rCBIXaqwXUgp6oBg&susc=bl&mime=video/mp4&dur=2711.533&lmt=1537550699387529&ip=2804:7f2:78b:73b6:38d9:45de:a45:903f&ipbits=0&expire=1542670982&sparams=dur,ei,expire,id,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,source,susc&signature=6010154B6B8924D088D9A2C6CE0A5BEDF05761F7.5EAEB3760A3781AB1B9EE344EE787DC95F752AB4&key=cms1&cpn=WT9eQZlxsjoy5R25&c=WEB_EMBEDDED_PLAYER&cver=20181115&redirect_counter=1&cm2rm=sn-b8u-8pms7d&fexp=23763603&req_id=8094a2a55cf336e2&cms_redirect=yes&mm=29&mn=sn-gpv7eney&ms=rdu&mt=1542642082&mv=m
+#EXTINF:0 type="playlist", playlist
+https://pastebin.com/raw/5MUA46Lp
 
-#EXTINF:-1 tvg-shift=-3 group-title="Maniac", Maniac 10
-https://r5---sn-gpv7ener.googlevideo.com/videoplayback?id=9f9092ce5c3c8e51&itag=18&source=blogger&pl=39&ei=FdryW43eGcO8qwXF6KDQCQ&susc=bl&mime=video/mp4&dur=2248.806&lmt=1537550782197370&ip=2804:7f2:78b:73b6:38d9:45de:a45:903f&ipbits=0&expire=1542670997&sparams=dur,ei,expire,id,ip,ipbits,itag,lmt,mime,mm,mn,ms,mv,pl,source,susc&signature=742784B60ED117EB829E9D3583148BFB7C6FD252.60F0F12FDB72489523A52DEC8D29D0058682629E&key=cms1&cpn=7tPHEwJbYQ62SmPx&c=WEB_EMBEDDED_PLAYER&cver=20181115&redirect_counter=1&cm2rm=sn-b8u-8pmz76&fexp=23760284,23763603&req_id=7ed4d3bd509336e2&cms_redirect=yes&mm=29&mn=sn-gpv7ener&ms=rdu&mt=1542642082&mv=m
+#EXTINF:0 type="playlist", playlist
+http://bit.ly/2GpVEQn
 
-#EXTINF:0 tvg-shift=-3  group-title="Riverdale" ,Riverdale 1
-https://r3---sn-gpv7eney.googlevideo.com/videoplayback?id=53ab3572d67b7d04&itag=18&source=blogger&pl=39&ei=24D1W5_MJ47NqwXdpYOoCA&susc=bl&mime=video/mp4&dur=2561.044&lmt=1539280219773987&ip=107.155.132.226&ipbits=0&expire=1542844763&sparams=dur,ei,expire,id,ip,ipbits,ipbypass,itag,lmt,mime,mip,mm,mn,ms,mv,pl,source,susc&signature=76F313EE3ECF0109E422092B018AE949FC4B1ACD.059ACEEE0CF7F54785EB3389D58F6C2E3691DC34&key=cms1&rm=sn-fpoqnugx5h-jaue7e,sn-5ua6y7s&fexp=23763602,23763603&req_id=29203cba4a0236e2&redirect_counter=2&cms_redirect=yes&ipbypass=yes&mip=2804:7f2:78b:73b6:ecae:a08:5d71:958e&mm=29&mn=sn-gpv7eney&ms=rdu&mt=1542815858&mv=m
+#EXTINF:0 type="playlist", playlist
+http://bit.ly/IPTVBMXXX
 
-#EXTINF:0 tvg-shift=-3  group-title="Riverdale" ,Riverdale 2
-https://r4---sn-gpv7dn7l.googlevideo.com/videoplayback?id=2f9e495753aa5993&itag=18&source=blogger&pl=39&ei=HIH1W6nbCcPLqQWtvJioDQ&susc=bl&mime=video/mp4&dur=2511.609&lmt=1539867573949002&ip=107.155.132.226&ipbits=0&expire=1542844828&sparams=dur,ei,expire,id,ip,ipbits,ipbypass,itag,lmt,mime,mip,mm,mn,ms,mv,pl,source,susc&signature=7F0AA09498F9CF3A0EFB9F20425E491D05BCCDE0.45D0CA84A7669B8253F25B73CF9050F1B8044F82&key=cms1&rm=sn-fpoqnugx5h-jaue7e,sn-5uadz7z&fexp=23763602,23763603&req_id=d227f791869a36e2&redirect_counter=2&cms_redirect=yes&ipbypass=yes&mip=2804:7f2:78b:73b6:ecae:a08:5d71:958e&mm=29&mn=sn-gpv7dn7l&ms=rdu&mt=1542815960&mv=m
+#EXTINF:0 type="video" , movies 5
+https://oload.stream/stream/V0Ppn-v3aZA~1550250789~2804:7f2::~FUq8wP00?mime=true
 
-#EXTINF:0 tvg-shift=-3  group-title="Riverdale" ,Riverdale 3
-https://r4---sn-gpv7dn7s.googlevideo.com/videoplayback?id=bc4c6694957299f7&itag=18&source=blogger&pl=39&ei=SIH1W4faBZOaqwWFkZ7YCQ&susc=bl&mime=video/mp4&dur=2508.660&lmt=1540544270263282&ip=107.155.132.226&ipbits=0&expire=1542844872&sparams=dur,ei,expire,id,ip,ipbits,ipbypass,itag,lmt,mime,mip,mm,mn,ms,mv,pl,source,susc&signature=39D1F420D4ECDB7E8180510A2020E57720D13394.525472A11B659CB598F9AC5B738502969DD0DA39&key=cms1&rm=sn-fpoqnugx5h-jaul7l,sn-5uarl7d&fexp=23763602,23763603&req_id=d538d662904536e2&redirect_counter=2&cms_redirect=yes&ipbypass=yes&mip=2804:7f2:78b:73b6:ecae:a08:5d71:958e&mm=29&mn=sn-gpv7dn7s&ms=rdu&mt=1542815960&mv=m
+#EXTINF:0 type="video" , movies 4
+https://oload.stream/stream/gFPfuHgrHVk~1550250888~2804:7f2::~Jyud3yFE?mime=true
 
-#EXTINF:0 tvg-shift=-3  group-title="Riverdale" ,Riverdale 4
-https://r5---sn-gpv7enez.googlevideo.com/videoplayback?id=ab518f40757ab43e&itag=18&source=blogger&pl=39&ei=a4H1W5bcMdPtqwX7-qDoBg&susc=bl&mime=video/mp4&dur=2452.584&lmt=1541698618343524&ip=107.155.132.226&ipbits=0&expire=1542844907&sparams=dur,ei,expire,id,ip,ipbits,ipbypass,itag,lmt,mime,mip,mm,mn,ms,mv,pl,source,susc&signature=1323E63B182BA01682F4D3B5090D00228CF7A16E.3E53D9E82181FBA14861C16DF6003115E8FB1C7D&key=cms1&rm=sn-fpoqnugx5h-jaul7e,sn-5uarr7e&fexp=23763602,23763603&req_id=914f536111c036e2&redirect_counter=2&cms_redirect=yes&ipbypass=yes&mip=2804:7f2:78b:73b6:ecae:a08:5d71:958e&mm=29&mn=sn-gpv7enez&ms=rdu&mt=1542816036&mv=m
+#EXTINF:0 type="video" , movies 3
+https://oload.stream/stream/e8nb19DnNMg~1550250923~2804:7f2::~ht6h-jeH?mime=true
 
-#EXTINF:0 tvg-shift=-3  group-title="Riverdale" ,Riverdale 5
-https://r4---sn-gpv7dn7e.googlevideo.com/videoplayback?id=0cfa4dfdd55071da&itag=18&source=blogger&pl=39&ei=ioH1W5PAH5OaqwWFkZ7YCQ&susc=bl&mime=video/mp4&dur=2554.682&lmt=1542475377444249&ip=107.155.132.226&ipbits=0&expire=1542844938&sparams=dur,ei,expire,id,ip,ipbits,ipbypass,itag,lmt,mime,mip,mm,mn,ms,mv,pl,source,susc&signature=019560556BAEA07335719059FE82D7D1C3E68FF7.710A0D75B4900830D2DA7F60A68E44E05F6C0CF3&key=cms1&rm=sn-fpoqnugx5h-jaue7l,sn-5uads7z&fexp=23763602,23763603&req_id=8a5bdcebb6536e2&redirect_counter=2&cms_redirect=yes&ipbypass=yes&mip=2804:7f2:78b:73b6:ecae:a08:5d71:958e&mm=29&mn=sn-gpv7dn7e&ms=rdu&mt=1542816036&mv=m
+#EXTINF:0 type="video" , movies 2
+https://oload.stream/stream/FsWOjQR8tbw~1550250978~2804:7f2::~yNFifiM9?mime=true
+
+#EXTINF:0 type="video" , movies 1
+https://oload.stream/stream/Hsb3zIQFhgo~1550251186~2804:7f2::~41lmlHtM?mime=true
+
+#EXTINF:0 type="video" , GLOBO SP RedeCanais
+https://oload.stream/stream/GyptYts_jpk~1550251273~2804:7f2::~lA4CAttW?mime=true
+
+#EXTINF:0 type="video" , HBOPLUS
+https://oload.stream/stream/Djj5kCHQNNI~1550251357~2804:7f2::~UVfOkx6F?mime=true
+
+#EXTINF:0 type="video" , HBOPLUS
+https://oload.stream/stream/YIYkikp2uTk~1550251384~2804:7f2::~2HHqq3UW?mime=true
+
+#EXTINF:0 type="video" , HBOPLUS
+https://oload.stream/stream/bGk91F1E0oA~1550251408~2804:7f2::~nHwmEXCe?mime=true
+
+#EXTINF:0 type="video" , PREMIERE 2
+https://oload.stream/stream/ttiLIrMgUwg~1550251468~2804:7f2::~f3H_2HyM?mime=true
+
+#EXTINF:0 type="video" , PREMIERE 3
+https://oload.stream/stream/EpUcmHK3MBU~1550251501~2804:7f2::~1pNLWXen?mime=true
+
+#EXTINF:0 type="video" , SPORTV HD
+https://oload.stream/stream/36xuYcJnACo~1550251617~2804:7f2::~LAviwACJ?mime=true
+
+#EXTINF:0 type="video" , PREMIERE 4
+https://oload.stream/stream/Gkj0U4BNnKo~1550251656~2804:7f2::~r_AsN-vQ?mime=true
+
+#EXTINF:0 type="video" , PREMIERE 5
+https://oload.stream/stream/KuqV-Z3V7Ew~1550251687~2804:7f2::~N0ioqXc3?mime=true
+
+#EXTINF:0 type="video" , PREMIERE CLUB
+https://oload.stream/stream/T7kkyjMMphk~1550251749~2804:7f2::~IADWFaF1?mime=true
+
+#EXTINF:0 type="playlist", playlist
+http://porno-smart.ru/parser
+
