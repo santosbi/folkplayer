@@ -6,7 +6,7 @@
 https://www.youtube.com/watch?v=CyRgFwOvs5A&list=PLOeEPoAiHp1JCCM-Cqeq2K3mUTktTuQAt
 
 #EXTINF:0 tvg-shift=-3 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/52/Nimbus-image-1441586083447.png/revision/latest/scale-to-width-down/200?cb=20150907003522" group-title="TV Aberta;FUTEBOL AO VIVO",GLOBO SP
-http://aleman.mine.nu:8000/live/ji63ZDq7IC/bKkMD2tBv6/3006.m3u8
+http://style.kastream.biz:8081/edge/ver69ca258bbf32/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xNi8yMDE5IDU6MTU6MDEgUE0maGFzaF92YWx1ZT1wbDZ2UWM4RGMrZ1ZoS1M0ZFcrYkJRPT0mdmFsaWRtaW51dGVzPTEyMA==
 
 #EXTINF:-1 tvg-shift=-3 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Band_logo_2018.png/revision/latest/scale-to-width-down/200?cb=20180719014030" group-title="TV Aberta",BAND
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
@@ -65,7 +65,7 @@ http://apk26.futeboltvgratis.com/live/19/chunks.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
-http://50.7.186.123:8081/live/master20/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Mi8xMC8yMDE5IDI6MDI6MDkgUE0maGFzaF92YWx1ZT1wRlBWTnk1TkdGRzVhWE5YcFNiODJ3PT0mdmFsaWRtaW51dGVzPTE2MCZzdHJtX2xlbj0xMw==
+http://178.132.6.12:25461/live/PDSgHiTuuo/Jg7G9KE6rN/80408.m3u8?token=HxBcUBJeQAtGWwYCBQBTAQsJB1RWVQdQUwFSUwcGVFQCAVZSWAUAUAZAT0ESRUBWUlQ8XlcSCQsADFNcThERQgFAa1gFFFgTV1dXUFYTHhFHUA5SEQoDHxJICgBACUYDVQYFAEMaQFQcFgYRD1BebFdcFV5QVREJXk0PCE4RC187VlFcAFgGE15AU0FNE1tAQxtZWUZcXx8SWgoQEFIQVEYIFgBRAlUTSEAADBRfRkFKG1kVcWIRHxJdGxAHXRdYC1wWC0NbUURcQE9BCEJtQVZKF0VWUV5WQhpZRlIRSBMJU0xuAlkMXwEBFwoOX0ERCRtSFR8SXlxeURcLEGwUWAAQDhNWB1UFRh8=
 
 #EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
