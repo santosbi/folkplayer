@@ -63,9 +63,9 @@ http://apk27.futeboltvgratis.com:8081/live/8/chunks.m3u8
 #EXTBG: #11609e
 http://apk27.futeboltvgratis.com:8081/live/19/chunks.m3u8
 
-#EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
+#EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",Custom
 #EXTBG: #11609e
-https://www.skyiptv.com.br:25463/live/Comunidade/UppMangueira/25.m3u8
+https://evpp.mm.uol.com.br/jovempan/jp-panico.sdp/chunklist_w887397230.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
