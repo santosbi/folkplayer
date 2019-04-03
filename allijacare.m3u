@@ -21,27 +21,27 @@ https://59f1cbe63db89.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w8357377
 https://secure-playlist.livestream.com/streams/5381476_2395418_lsi4xzu4zelcbtibc40_1/media/5381476_2395418_lsi4xzu4zelcbtibc40_1@2320000pb.m3u8?dw=14400&token=1546188521_650024a64cade98c2189de23c72be8173022e141&ts=1546012800
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
-https://edge32.streamcontinent.cc/sec/1554261938/323034325f942c37323f99d7abd336784a5bdce9f50cea84/ivs/ca/ac/04ff3bc211bd/hls/tracks-2,4/index.m3u8
+https://edge32.streamcontinent.cc/sec/1554348256/313032300a383b2227597bea93c17423d2d4325fe3a13337/ivs/03/80/cb797c82c0f9/hls/tracks-3,4/index.m3u8
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-https://oload.stream/stream/3YK6QlZIGFc~1554315692~2804:7f2::~nKf1uJ0B?mime=true
+https://oload.stream/stream/J7udNrF6MmE~1554402161~2804:7f2::~v9rv6TSd?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://oload.stream/stream/Aok9jrPdirY~1554314754~2804:7f2::~djwTrugA?mime=true
+https://oload.stream/stream/GJUgNIi7y2M~1554401818~2804:7f2::~9PNpxJSk?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://oload.stream/stream/ADkr9AmC1oo~1554314779~2804:7f2::~ypvaMHDZ?mime=true
+https://oload.stream/stream/PrUPesdm17w~1554401837~2804:7f2::~ZKrzojKz?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://oload.stream/stream/O-pnZD3MBBU~1554314801~2804:7f2::~BF9kaOrX?mime=true
+https://oload.stream/stream/Ehexnw2Ea9A~1554401875~2804:7f2::~xWaJiDw_?mime=true
 #EXTINF:11 tvg-shift=-3  group-title="Canais Beta",PREMIERE 2
-https://oload.stream/stream/Ws5C5KbQ4jg~1554314830~2804:7f2::~xvx40ERP?mime=true
+https://oload.stream/stream/Y88F6XXEWf4~1554401929~2804:7f2::~E9d-ckv-?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
-https://oload.stream/stream/Hf0l_Aj6huk~1554314850~2804:7f2::~YTV5hujW?mime=true
+https://oload.stream/stream/jEr0I-mwXRw~1554401996~2804:7f2::~RXWL0E6Q?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",SPORTV HD
-https://oload.stream/stream/a4hjtiCfq0k~1554314882~2804:7f2::~6bHf0mpz?mime=true
+https://oload.stream/stream/RXJm9BBIBhY~1554402021~2804:7f2::~INYuFsyZ?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 4
-https://oload.stream/stream/JdPeUnv8EOc~1554314924~2804:7f2::~MqeWDVYK?mime=true
+https://oload.stream/stream/BdwWTLsiyNc~1554402040~2804:7f2::~GPrV7soZ?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 5
-https://oload.stream/stream/yOM8JIyqjqw~1554314995~2804:7f2::~dwHxbO5a?mime=true
+https://oload.stream/stream/qjIfGbT_0yc~1554402073~2804:7f2::~FOM0jzWv?mime=true
 #EXTINF:50 tvg-shift=-3 group-title="Canais Beta",PREMIERE CLUB
-https://oload.stream/stream/m3ycQt5JbSw~1554315012~2804:7f2::~fDC0Algo?mime=true
+https://oload.stream/stream/xUI4gG3I7Ds~1554402114~2804:7f2::~IzSUnd9f?mime=true
 ===============================================================Esportes=============================================================
 #EXTINF:4 tvg-shift=-3 tvg-logo="http://www.assistafox.com.br/site/img/assets/foxsports_01.png?v=1543350960" group-title="Futebol;FUTEBOL AO VIVO",FOX SPORTS
 #EXTBG: #11609e
@@ -65,7 +65,7 @@ http://apk27.futeboltvgratis.com:8081/live/19/chunks.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",CUSTOM
 #EXTBG: #11609e
-https://edge32.streamcontinent.cc/sec/1554266675/3732353110290c57ded3dce03bf2d45c9af003e1969cdfa0/ivs/03/80/cb797c82c0f9/hls/tracks-2,4/index.m3u8
+https://edge32.streamcontinent.cc/sec/1554348304/37363136a7775a228459ea986287c0de23a208e2566b8951/ivs/13/13/0fd60194734d/hls/tracks-3,4/index.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
@@ -178,15 +178,15 @@ http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m
 
 ==============================================================Movies============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies5
-https://oload.stream/stream/rJ4ThGZZq54~1554314611~2804:7f2::~Kd2GFGSx?mime=true
+https://oload.stream/stream/DbAK2VWwog4~1554401725~2804:7f2::~g2oe3xpk?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies4
-https://oload.stream/stream/S2qrPNGQ8b8~1554314654~2804:7f2::~mUmfjk7m?mime=true
+https://oload.stream/stream/S2qrPNGQ8b8~1554401745~2804:7f2::~bLhkevCy?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies3
-https://oload.stream/stream/hSxZXxHor2U~1554314696~2804:7f2::~pBH8M5vw?mime=true
+https://oload.stream/stream/ROj1gQhdnQ8~1554401768~2804:7f2::~bFYbz_m8?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies2
-https://oload.stream/stream/Z1TbyTmLGvU~1554314720~2804:7f2::~kTzXIm2G?mime=true
+https://oload.stream/stream/UqtHu1_IkOg~1554401790~2804:7f2::~wGe-_Hw5?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies1
-https://oload.stream/stream/gBR2IrItlU0~1554315835~2804:7f2::~DUpQHAoW?mime=true
+https://oload.tv/stream/SLDjmx3i30U~1554402340~2804:7f2::~RNe-A-C2?mime=true
 ==============================================================Series============================================================
 ============================================================South Park==========================================================
 #EXTINF:0 tvg-logo="http://i.imgur.com/slGftt7.jpg" group-title="South Park",01 South Park
