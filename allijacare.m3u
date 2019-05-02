@@ -3,7 +3,7 @@
 #ICON:http://icons.iconarchive.com/icons/icons8/windows-8/256/Animals-Alligator-icon.png
 
 #EXTINF:-1 tvg-shift=-3 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e3/SBT.svg/revision/latest/scale-to-width-down/200?cb=20171125155551" group-title="TV Aberta",SBT
-https://www.youtube.com/watch?v=0TEzA6IAjkA
+https://www.youtube.com/watch?v=CyRgFwOvs5A
 
 #EXTINF:0 tvg-shift=-3 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/52/Nimbus-image-1441586083447.png/revision/latest/scale-to-width-down/200?cb=20150907003522" group-title="TV Aberta;FUTEBOL AO VIVO",GLOBO SP
 https://www.skyiptv.com.br:25463/live/Flamengo/Vasco/17.m3u8
@@ -23,13 +23,13 @@ https://secure-playlist.livestream.com/streams/5381476_2395418_lsi4xzu4zelcbtibc
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
 https://edge32.streamcontinent.cc/sec/1554435012/383236324fe7fbfa71715d93994dae39e3cb803086612902/ivs/03/80/cb797c82c0f9/hls/tracks-3,4/index.m3u8
 #EXTINF:0 tvg-shift=-3 group-title="Canais Beta",GLOBO SP RedeCanais
-https://oload.stream/stream/tzoNcFFXwcA~1556891274~2804:7f2::~z2zFyMM9?mime=true
+https://oload.stream/stream/tzoNcFFXwcA~1556904130~2804:7f2::~dQUIR-en?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://openload.co/stream/JJi4mHNQVtQ~1556891817~2804:7f2::~Wv-VgI-w?mime=true
+https://openload.co/stream/z0xK6ZX-JNc~1556903955~2804:7f2::~x0jWGQsw?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://openload.co/stream/aYJq0mLg8KY~1556891894~2804:7f2::~emEe3Wo1?mime=true
+https://openload.co/stream/TWAkDvc2XX4~1556903984~2804:7f2::~8A3aa_Fj?mime=true
 #EXTINF:-1 tvg-shift=-3  group-title="Canais Beta",HBOPLUS
-https://openload.co/stream/E5kqtZNZF1o~1556891960~2804:7f2::~QlCwpmRQ?mime=true
+https://openload.co/stream/0GHm-GEvABs~1556904055~2804:7f2::~caMnrXf5?mime=true
 #EXTINF:11 tvg-shift=-3  group-title="Canais Beta",PREMIERE 2
 https://verystream.com/gettoken/X94K5D6TmFo~1556892006~2804:7f2::~1MAj3Pja?mime=true
 #EXTINF:11 tvg-shift=-3 group-title="Canais Beta",PREMIERE 3
@@ -178,15 +178,15 @@ http://streaming55.sitehosting.com.br:1935/picodogaviao/camera.stream/playlist.m
 
 ==============================================================Movies============================================================
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies5
-https://openload.co/stream/Y6A9Nsa8PAM~1556891363~2804:7f2::~h5OijpEt?mime=true
+https://openload.co/stream/8J3Qo_FBM4k~1556903711~2804:7f2::~xmc9C7NZ?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies4
-https://openload.co/stream/Q0wfoA1GYQc~1556891445~2804:7f2::~utafRAog?mime=true
+https://openload.co/stream/ZzKyQKnB5ow~1556903833~2804:7f2::~fV5FV8Z6?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies3
-https://openload.co/stream/E2mK9Y64wPo~1556891582~2804:7f2::~M5m7KT8o?mime=true
+https://openload.co/stream/S5Q6hZT1zho~1556903877~2804:7f2::~-ldpZz2r?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies2
-https://openload.co/stream/3cx9qOvYjEc~1556891660~2804:7f2::~Elbqqjuj?mime=true
+https://openload.co/stream/5UyZRIfBtYA~1556903911~2804:7f2::~CuPQnZyy?mime=true
 #EXTINF:4 tvg-shift=-3 group-title="Videos",Movies1
-https://oload.stream/stream/GBX5qls94Fs~1556891237~2804:7f2::~g4W7A-3-?mime=true
+https://oload.stream/stream/GBX5qls94Fs~1556904101~2804:7f2::~HtLy83d2?mime=true
 ==============================================================Series============================================================
 ============================================================South Park==========================================================
 #EXTINF:0 tvg-logo="http://i.imgur.com/slGftt7.jpg" group-title="South Park",01 South Park
