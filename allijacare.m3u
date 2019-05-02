@@ -139,7 +139,7 @@ http://r16.ciclano.io:9039/site
 #EXTBG: #11609e
 http://a1rj.streams.com.br:7801/stream
 
-#EXTINF:4 tvg-shift=-3 tvg-logo="https://img.radios.com.br/radio/lg/radio37027_1516218896.jpg" group-title="RÁDIOS",RADIO BANDEIRANTE
+#EXTINF:4 tvg-shift=-3 tvg-logo="https://img.radios.com.br/radio/lg/radio37027_1516218896.jpg" group-title="RÁDIOS",BONS TEMPOS
 #EXTBG: #11609e
 http://server01.ouvir.radio.br:8050/stream
 
