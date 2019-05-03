@@ -131,9 +131,9 @@ http://apkftv.cinemafacil.com:8081/live/2/chunks.m3u8
 #EXTBG: #11609e
 http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/index_5_av-p.m3u8?sd=10&rebase=on
 ================================================================Radios==========================================================
-#EXTINF:4 tvg-shift=-3 tvg-logo="https://img.radios.com.br/radio/lg/radio8_1497034187.jpg" group-title="RÁDIOS",SAUDADE FM
+#EXTINF:4 tvg-shift=-3 tvg-logo="https://img.radios.com.br/radio/lg/radio36180_1461605589.jpg" group-title="RÁDIOS",RADIO ANTENA MÁGICA CURITIBA
 #EXTBG: #11609e
-http://r16.ciclano.io:9039/site
+http://audio8.cmaudioevideo.com:8208/stream
 
 #EXTINF:4 tvg-shift=-3 tvg-logo="https://img.radios.com.br/radio/lg/radio15456_1470953779.jpg" group-title="RÁDIOS",ANTENA 1 RJ
 #EXTBG: #11609e
