@@ -3,7 +3,7 @@
 #ICON:http://icons.iconarchive.com/icons/icons8/windows-8/256/Animals-Alligator-icon.png
 
 #EXTINF:-1 tvg-shift=-3 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e3/SBT.svg/revision/latest/scale-to-width-down/200?cb=20171125155551" group-title="TV Aberta",SBT
-https://www.youtube.com/watch?v=CyRgFwOvs5A
+https://assistirtvonline.xyz:25463/live/Sabado/TemBrasileiro2019/2.m3u8
 
 #EXTINF:0 tvg-shift=-3 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/52/Nimbus-image-1441586083447.png/revision/latest/scale-to-width-down/200?cb=20150907003522" group-title="TV Aberta;FUTEBOL AO VIVO",GLOBO SP
 http://cata.kastream.biz:8081/edge/ver100/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS82LzIwMTkgMzozNzowMyBQTSZoYXNoX3ZhbHVlPTUydGNuYU5wYjJKSHp6WXBoS24zcEE9PSZ2YWxpZG1pbnV0ZXM9MTIw
@@ -49,7 +49,7 @@ http://apkftv.cinemafacil.com:8081/live/4/chunks.m3u8
 
 #EXTINF:4 tvg-shift=-3 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/da/Fox_Sports_2_Logo.svg/revision/latest/scale-to-width-down/200?cb=20160413213908" group-title="Futebol",FOX SPORTS2
 #EXTBG: #11609e
-http://apkftv.cinemafacil.com:8081/live/20/chunks.m3u8
+http://apkftv.cinemafacil.com:8081/live/1/chunks.m3u8
 
 #EXTINF:4 tvg-shift=-3 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/fb/SporTV_2017.png/revision/latest/scale-to-width-down/200?cb=20170815145145" group-title="Futebol",SPORTV
 #EXTBG: #11609e
@@ -57,19 +57,15 @@ http://apkftv.cinemafacil.com:8081/live/5/chunks.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="Futebol",SporTV 2
 #EXTBG: #11609e
-http://apkftv.cinemafacil.com:8081/live/8/chunks.m3u8
+http://apkftv.cinemafacil.com:8081/live/3/chunks.m3u8
 
 #EXTINF:4  tvg-shift=-3 group-title="Futebol",ESPN BRASIL
 #EXTBG: #11609e
-http://apkftv.cinemafacil.com:8081/live/19/chunks.m3u8
+http://apkftv.cinemafacil.com:8081/live/6/chunks.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",CUSTOM
 #EXTBG: #11609e
-https://aovivonatv.xyz:25463/live/Sabado/TemBrasileiro2019/25.m3u8?token=QxBcWRdYGgoRBwAGUAZcXwVRBllVD1cADQABUgtbVAFaAQIJXAcPBlZDHxcXREpcVghtUVcUXlENHhpGS1xHaFFWFgJGAxocERVaWAESAgkbR0JRVxReQQkKAAUNGxkVXUpAXRZeWVxsBVZDDVNdGw0LR1RfGkYMVm1cVlVYW1MaCBYJRhwaWUAREQ9GZlFPWEVhFnIYRk8aUFFHSlhBUhoIFgpXCAESH0NQWhFeTEtORwgacWRGTxpXQEddV0ZeV1wWAkZdC0ULQx8XDUNnS1IWRkpWVwkGShACEQgbGRVVU0xnB19WXlYCR1wLXksbDUcCGh8UCQxWW0xcSmZFXlwQDhpWAgwAC0NO
-
-#EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
-#EXTBG: #11609e
-http://apkftv.cinemafacil.com:8081/live/6/chunks.m3u8
+https://assistirtvonline.xyz:25463/live/Sabado/TemBrasileiro2019/25.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
@@ -77,7 +73,15 @@ http://apkftv.cinemafacil.com:8081/live/7/chunks.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
+http://apkftv.cinemafacil.com:8081/live/8/chunks.m3u8
+
+#EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
+#EXTBG: #11609e
 http://apkftv.cinemafacil.com:8081/live/9/chunks.m3u8
+
+#EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
+#EXTBG: #11609e
+http://apkftv.cinemafacil.com:8081/live/10/chunks.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
@@ -105,15 +109,11 @@ http://apkftv.cinemafacil.com:8081/live/16/chunks.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
+http://apkftv.cinemafacil.com:8081/live/17/chunks.m3u8
+
+#EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
+#EXTBG: #11609e
 http://apkftv.cinemafacil.com:8081/live/18/chunks.m3u8
-
-#EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
-#EXTBG: #11609e
-http://apkftv.cinemafacil.com:8081/live/10/chunks.m3u8
-
-#EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
-#EXTBG: #11609e
-http://apkftv.cinemafacil.com:8081/live/8/chunks.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
@@ -121,7 +121,7 @@ http://apkftv.cinemafacil.com:8081/live/19/chunks.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
-http://apkftv.cinemafacil.com:8081/live/3/chunks.m3u8
+http://apkftv.cinemafacil.com:8081/live/20/chunks.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
