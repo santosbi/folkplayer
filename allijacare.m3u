@@ -6,7 +6,7 @@
 https://www.youtube.com/watch?v=CyRgFwOvs5A
 
 #EXTINF:0 tvg-shift=-3 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/52/Nimbus-image-1441586083447.png/revision/latest/scale-to-width-down/200?cb=20150907003522" group-title="TV Aberta;FUTEBOL AO VIVO",GLOBO SP
-https://www.skyiptv.com.br:25463/live/Flamengo/Vasco/17.m3u8
+http://cata.kastream.biz:8081/edge/ver100/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS82LzIwMTkgMzozNzowMyBQTSZoYXNoX3ZhbHVlPTUydGNuYU5wYjJKSHp6WXBoS24zcEE9PSZ2YWxpZG1pbnV0ZXM9MTIw
 
 #EXTINF:-1 tvg-shift=-3 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Band_logo_2018.png/revision/latest/scale-to-width-down/200?cb=20180719014030" group-title="TV Aberta",BAND
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
@@ -65,7 +65,7 @@ http://apkftv.cinemafacil.com:8081/live/19/chunks.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",CUSTOM
 #EXTBG: #11609e
-https://edge32.streamcontinent.cc/sec/1554435032/3136363184f11dc23f343c760f97e3485f9eb413ad38c53d/ivs/13/13/0fd60194734d/hls/tracks-3,4/index.m3u8
+https://cata.kastream.biz/edge/ver30daded4771989cf0628716fe1be307b/chunks.m3u8?nimblesessionid=2421900&wmsAuthSign=c2VydmVyX3RpbWU9NS82LzIwMTkgMzozNzo1MiBQTSZoYXNoX3ZhbHVlPXQyU1FqeDR1N09NaWFEMnFrblFCWGc9PSZ2YWxpZG1pbnV0ZXM9MTIw
 
 #EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
