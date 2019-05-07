@@ -3,7 +3,7 @@
 #ICON:http://icons.iconarchive.com/icons/icons8/windows-8/256/Animals-Alligator-icon.png
 
 #EXTINF:-1 tvg-shift=-3 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/e/e3/SBT.svg/revision/latest/scale-to-width-down/200?cb=20171125155551" group-title="TV Aberta",SBT
-https://assistirtvonline.xyz:25463/live/Sabado/TemBrasileiro2019/2.m3u8
+https://assistirtvonline.xyz:25463/live/Terca/DeLibertadores/2.m3u8
 
 #EXTINF:0 tvg-shift=-3 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/52/Nimbus-image-1441586083447.png/revision/latest/scale-to-width-down/200?cb=20150907003522" group-title="TV Aberta;FUTEBOL AO VIVO",GLOBO SP
 http://cata.kastream.biz:8081/edge/ver100/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS82LzIwMTkgMzozNzowMyBQTSZoYXNoX3ZhbHVlPTUydGNuYU5wYjJKSHp6WXBoS24zcEE9PSZ2YWxpZG1pbnV0ZXM9MTIw
@@ -18,7 +18,7 @@ https://evpp.mm.uol.com.br/redetv1/redetv1/chunklist_w1945277105.m3u8
 https://59f1cbe63db89.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w835737721.m3u8
 
 #EXTINF:-1 tvg-shift=-3 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/7/78/Gazeta_logo.png/revision/latest?cb=20130608115558" group-title="TV Aberta",TV GAZETA
-https://secure-playlist.livestream.com/streams/5381476_2395418_lsi4xzu4zelcbtibc40_1/media/5381476_2395418_lsi4xzu4zelcbtibc40_1@2320000pb.m3u8?dw=14400&token=1546188521_650024a64cade98c2189de23c72be8173022e141&ts=1546012800
+https://assistirtvonline.xyz:25463/live/Terca/DeLibertadores/65.m3u8
 ==========================================================Canais Beta=============================================================
 #EXTINF:-1 tvg-shift=-3 group-title="Canais Beta",Globo
 https://oload.stream/stream/o4GPeu-jAfI~1557052296~2804:7f2::~PnOJHWXI?mime=true
@@ -65,7 +65,7 @@ http://apkftv.cinemafacil.com:8081/live/6/chunks.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",CUSTOM
 #EXTBG: #11609e
-https://assistirtvonline.xyz:25463/live/Sabado/TemBrasileiro2019/25.m3u8
+https://assistirtvonline.xyz:25463/live/Terca/DeLibertadores/25.m3u8
 
 #EXTINF:4 tvg-shift=-3 group-title="FUTEBOL AO VIVO",FUTEBOL AO VIVO
 #EXTBG: #11609e
