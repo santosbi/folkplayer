@@ -6,7 +6,7 @@
 https://assistirtvonline.xyz:25463/live/Terca/DeLibertadores/2.m3u8
 
 #EXTINF:0 tvg-shift=-3 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/5/52/Nimbus-image-1441586083447.png/revision/latest/scale-to-width-down/200?cb=20150907003522" group-title="TV Aberta;FUTEBOL AO VIVO",GLOBO SP
-http://cata.kastream.biz:8081/edge/ver100/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS85LzIwMTkgMzoyNzo0NCBQTSZoYXNoX3ZhbHVlPTNwMlBNc3lxTHdubXVTbUlPK3VWaVE9PSZ2YWxpZG1pbnV0ZXM9MTIw
+http://cata.kastream.biz:8081/edge/ver100/chunks.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NS8xMC8yMDE5IDM6NDU6MDcgUE0maGFzaF92YWx1ZT1Zb2dLK2wwUVp5cFRtTXpRMk8vU3p3PT0mdmFsaWRtaW51dGVzPTEyMA==
 
 #EXTINF:-1 tvg-shift=-3 tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/f/f0/Band_logo_2018.png/revision/latest/scale-to-width-down/200?cb=20180719014030" group-title="TV Aberta",BAND
 http://evpp.mm.uol.com.br/geob_band/bandapp/chunklist_w622979429.m3u8
